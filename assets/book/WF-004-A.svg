@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2079" height="693" viewBox="0 0 900 300">
+  <title>The Weaver's Eye</title>
+  <desc>Five open brass threads converge at one knot inside a thin teal ring. No closed star.</desc>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="450" cy="150" r="104" stroke="#244c4c" stroke-width="1.4"/>
+    <g stroke="#b99b59" stroke-width="2.7">
+      <path d="M450 39 C444 71 443 114 450 148"/>
+      <path d="M556 116 C520 115 489 126 451 150"/>
+      <path d="M515 241 C506 199 480 166 452 151"/>
+      <path d="M385 241 C404 204 431 174 449 152"/>
+      <path d="M344 116 C379 118 412 135 449 150"/>
+      <path d="M450 143 C463 143 462 157 451 157 C439 157 438 145 450 143"/>
+      <path d="M344 116 L337 112 M344 116 L335 118 M344 116 L339 123" stroke-width="1.2"/>
+    </g>
+  </g>
+</svg>
