@@ -554,6 +554,78 @@
       "source": "homebrewery/art/maps/exports/WF-172-A-player-detail-western-dunes-v1.png",
       "bytes": 5367901,
       "sha256": "8aa91f15609267dc6ef0b28a75696393835dc537a0bf1d46e428365c0dd74571"
+    },
+    {
+      "id": "imageMaskCenter6",
+      "role": "watercolor mask",
+      "path": "assets/masks/center-0006.webp",
+      "source": "homebrewery/art/masks/center-0006.webp",
+      "bytes": 69654,
+      "sha256": "318d435b513df1ed9ab527d56bcb98f979173127c131bcfa1a9abd7a210ab93c",
+      "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/center/0006.webp"
+    },
+    {
+      "id": "imageMaskCorner19",
+      "role": "watercolor mask",
+      "path": "assets/masks/corner-0019.webp",
+      "source": "homebrewery/art/masks/corner-0019.webp",
+      "bytes": 160236,
+      "sha256": "47050ea728e8f57451e4c9e05a15d051171501da73619b5fb0ae5baf3a51df5d",
+      "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/corner/0019.webp"
+    },
+    {
+      "id": "imageMaskCorner23",
+      "role": "watercolor mask",
+      "path": "assets/masks/corner-0023.webp",
+      "source": "homebrewery/art/masks/corner-0023.webp",
+      "bytes": 158198,
+      "sha256": "b30b5ef6ae9277dc92ab1098ec281adc12ed7382b67d973674632273bd0f5fc4",
+      "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/corner/0023.webp"
+    },
+    {
+      "id": "imageMaskCorner32",
+      "role": "watercolor mask",
+      "path": "assets/masks/corner-0032.webp",
+      "source": "homebrewery/art/masks/corner-0032.webp",
+      "bytes": 127078,
+      "sha256": "b278ccc139585a6f4bdf64889c998be91fb3d896ec698a0d8b492cda86f83fc3",
+      "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/corner/0032.webp"
+    },
+    {
+      "id": "imageMaskEdge1",
+      "role": "watercolor mask",
+      "path": "assets/masks/edge-0001.webp",
+      "source": "homebrewery/art/masks/edge-0001.webp",
+      "bytes": 35216,
+      "sha256": "14e1c5b842ecb59256b7a9bf837ec5ac2783db51b7426d495d93cff400af8ff7",
+      "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/edge/0001.webp"
+    },
+    {
+      "id": "imageMaskEdge4",
+      "role": "watercolor mask",
+      "path": "assets/masks/edge-0004.webp",
+      "source": "homebrewery/art/masks/edge-0004.webp",
+      "bytes": 42194,
+      "sha256": "c020ba7b9cb1e14a19e5a50654f1d3bd59587235a9f4da3b2f973df1d3da675a",
+      "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/edge/0004.webp"
+    },
+    {
+      "id": "imageMaskEdge5",
+      "role": "watercolor mask",
+      "path": "assets/masks/edge-0005.webp",
+      "source": "homebrewery/art/masks/edge-0005.webp",
+      "bytes": 42204,
+      "sha256": "c250c08e61f749bc85e4f0def1f507deba7b968192eb7a5e09e4e82853622667",
+      "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/edge/0005.webp"
+    },
+    {
+      "id": "imageMaskEdge8",
+      "role": "watercolor mask",
+      "path": "assets/masks/edge-0008.webp",
+      "source": "homebrewery/art/masks/edge-0008.webp",
+      "bytes": 33856,
+      "sha256": "4b73687a8ec28ff5a7e6c0b8ced239aab3a8dab72efa94e2e857e410f08427d0",
+      "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/edge/0008.webp"
     }
   ],
   "book_paths": {
@@ -571,6 +643,33 @@
     "WF-226-A": "assets/book/WF-226-A.svg",
     "WF-436-A": "assets/book/WF-436-A.webp",
     "WF-473-A": "assets/book/WF-473-A.svg"
+  },
+  "mask_paths": {
+    "imageMaskCenter6": "assets/masks/center-0006.webp",
+    "imageMaskCorner19": "assets/masks/corner-0019.webp",
+    "imageMaskCorner23": "assets/masks/corner-0023.webp",
+    "imageMaskCorner32": "assets/masks/corner-0032.webp",
+    "imageMaskEdge1": "assets/masks/edge-0001.webp",
+    "imageMaskEdge4": "assets/masks/edge-0004.webp",
+    "imageMaskEdge5": "assets/masks/edge-0005.webp",
+    "imageMaskEdge8": "assets/masks/edge-0008.webp"
+  },
+  "verified_commit": "40501d669855b9aa18ab81449e4dba8e01c710a7",
+  "effective_book_paths": {
+    "WF-001-A": "assets/book/WF-001-A.webp",
+    "WF-004-A": "assets/book/WF-004-A.svg",
+    "WF-020-A": "assets/book/WF-020-A.webp",
+    "WF-030-A": "assets/book/WF-030-A.webp",
+    "WF-035-A": "assets/maps/png/WF-035-A-town-book-v1.png",
+    "WF-054-A": "assets/book/WF-054-A.svg",
+    "WF-054-B": "assets/maps/png/WF-054-B-wrenmarch-book-v1.png",
+    "WF-062-A": "assets/book/WF-062-A.webp",
+    "WF-067-A": "assets/maps/png/WF-067-A-book-v1.png",
+    "WF-070-B": "assets/maps/png/WF-070-B-book-v1.png",
+    "WF-172-A": "assets/maps/png/WF-172-A-selvane-gm-book-v1.png",
+    "WF-226-A": "assets/maps/png/WF-226-A-letter-book-v1.png",
+    "WF-436-A": "assets/book/WF-436-A.webp",
+    "WF-473-A": "assets/maps/png/WF-473-A-selvane-player-book-v1.png"
   },
   "target_repository_url": "https://github.com/Venator-Ignis/WeaveFall",
   "target_branch": "main",

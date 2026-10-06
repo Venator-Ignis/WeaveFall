@@ -68,3 +68,11 @@ WF-172-A,player-exploration-detail vector,assets/maps/WF-172-A-player-detail-wre
 WF-172-A,player-exploration-detail PNG,assets/maps/png/WF-172-A-player-detail-wrenhaven-ashwatch-v1.png,homebrewery/art/maps/exports/WF-172-A-player-detail-wrenhaven-ashwatch-v1.png,4215286,bec52de8119f2f6fb95421a4c3cc0d9d657119daa86daba932301e04d154ab16
 WF-172-A,player-exploration-detail vector,assets/maps/WF-172-A-player-detail-western-dunes-v1.svg,homebrewery/art/maps/WF-172-A-player-detail-western-dunes-v1.svg,72945,05c9b4cc2dcc6bda35ee64f72b5ced7b0699a0d05f33aac10bc182edc62662f2
 WF-172-A,player-exploration-detail PNG,assets/maps/png/WF-172-A-player-detail-western-dunes-v1.png,homebrewery/art/maps/exports/WF-172-A-player-detail-western-dunes-v1.png,5367901,8aa91f15609267dc6ef0b28a75696393835dc537a0bf1d46e428365c0dd74571
+imageMaskCenter6,watercolor mask,assets/masks/center-0006.webp,homebrewery/art/masks/center-0006.webp,69654,318d435b513df1ed9ab527d56bcb98f979173127c131bcfa1a9abd7a210ab93c
+imageMaskCorner19,watercolor mask,assets/masks/corner-0019.webp,homebrewery/art/masks/corner-0019.webp,160236,47050ea728e8f57451e4c9e05a15d051171501da73619b5fb0ae5baf3a51df5d
+imageMaskCorner23,watercolor mask,assets/masks/corner-0023.webp,homebrewery/art/masks/corner-0023.webp,158198,b30b5ef6ae9277dc92ab1098ec281adc12ed7382b67d973674632273bd0f5fc4
+imageMaskCorner32,watercolor mask,assets/masks/corner-0032.webp,homebrewery/art/masks/corner-0032.webp,127078,b278ccc139585a6f4bdf64889c998be91fb3d896ec698a0d8b492cda86f83fc3
+imageMaskEdge1,watercolor mask,assets/masks/edge-0001.webp,homebrewery/art/masks/edge-0001.webp,35216,14e1c5b842ecb59256b7a9bf837ec5ac2783db51b7426d495d93cff400af8ff7
+imageMaskEdge4,watercolor mask,assets/masks/edge-0004.webp,homebrewery/art/masks/edge-0004.webp,42194,c020ba7b9cb1e14a19e5a50654f1d3bd59587235a9f4da3b2f973df1d3da675a
+imageMaskEdge5,watercolor mask,assets/masks/edge-0005.webp,homebrewery/art/masks/edge-0005.webp,42204,c250c08e61f749bc85e4f0def1f507deba7b968192eb7a5e09e4e82853622667
+imageMaskEdge8,watercolor mask,assets/masks/edge-0008.webp,homebrewery/art/masks/edge-0008.webp,33856,4b73687a8ec28ff5a7e6c0b8ced239aab3a8dab72efa94e2e857e410f08427d0
