@@ -1,5 +1,5 @@
 {
-  "revision": "2026-10-06",
+  "revision": "2026-10-07",
   "status": "published image package",
   "base_url": "https://raw.githubusercontent.com/Venator-Ignis/WeaveFall/main",
   "files": [
@@ -20,12 +20,92 @@
       "sha256": "ae535cb3f2bb7f2fa53c8ac7417ab757cda5b8fb7bf4270ea9f42efcdf32ece7"
     },
     {
+      "id": "WF-011-A",
+      "role": "book",
+      "path": "assets/book/WF-011-A.webp",
+      "source": "homebrewery/art/images/exports/WF-011-A-batch-20261007-v1.webp",
+      "bytes": 2645656,
+      "sha256": "186b431f7926edecfccfc1bb1898abdd513604968d1d39e55f4e172619fb03cf"
+    },
+    {
+      "id": "WF-013-A",
+      "role": "book",
+      "path": "assets/book/WF-013-A.webp",
+      "source": "homebrewery/art/images/exports/WF-013-A-batch-20261007-v1.webp",
+      "bytes": 2689052,
+      "sha256": "e3082fc0c9ecb57b3af2401eff56ca705c15d3e1ae301c5f8b82c394fa3689d6"
+    },
+    {
+      "id": "WF-014-A",
+      "role": "book",
+      "path": "assets/book/WF-014-A.webp",
+      "source": "homebrewery/art/images/exports/WF-014-A-batch-20261007-v1.webp",
+      "bytes": 2357908,
+      "sha256": "bc9d3f9a1b1d3a4b034ed4c4bd995e68b5ad165622a73be9d7a8254537a7498f"
+    },
+    {
+      "id": "WF-015-A",
+      "role": "book",
+      "path": "assets/book/WF-015-A.webp",
+      "source": "homebrewery/art/images/exports/WF-015-A-batch-20261007-v1.webp",
+      "bytes": 2440456,
+      "sha256": "b27c54cc8c759b83e07dfd78e89999982553c23aa66a32fcec529c2a9e498fec"
+    },
+    {
+      "id": "WF-019-A",
+      "role": "book",
+      "path": "assets/book/WF-019-A.webp",
+      "source": "homebrewery/art/images/exports/WF-019-A-batch-20261007-v2.webp",
+      "bytes": 2240636,
+      "sha256": "262b9d55af2cd6c1bb45dbfad207132770c6f181da9ad189199225d726cbf7ad"
+    },
+    {
       "id": "WF-020-A",
       "role": "book",
       "path": "assets/book/WF-020-A.webp",
       "source": "homebrewery/art/images/exports/WF-020-A-v2.webp",
       "bytes": 2189586,
       "sha256": "b183e9a576d391817b8d0f79e4999cf38e835ab8dee42309a02ea9ed0a3a5b15"
+    },
+    {
+      "id": "WF-022-A",
+      "role": "book",
+      "path": "assets/book/WF-022-A.webp",
+      "source": "homebrewery/art/images/exports/WF-022-A-batch-20261007-v2.webp",
+      "bytes": 1562962,
+      "sha256": "b577162ec530c4ff3f4e792c83333a15e52fb1da1bcad736912f99fd8dd20d4a"
+    },
+    {
+      "id": "WF-023-A",
+      "role": "book",
+      "path": "assets/book/WF-023-A.webp",
+      "source": "homebrewery/art/images/exports/WF-023-A-batch-20261007-v1.webp",
+      "bytes": 1981726,
+      "sha256": "7b509a66e027fae044d42e62e46a23aeb27a2ad78822e5dadfa8e726f06c92bd"
+    },
+    {
+      "id": "WF-024-A",
+      "role": "book",
+      "path": "assets/book/WF-024-A.webp",
+      "source": "homebrewery/art/images/exports/WF-024-A-batch-20261007-v1.webp",
+      "bytes": 2166414,
+      "sha256": "22816bf4df9507da3dff4f9027aa764bea2adb837c62a061ad9733345d29a75c"
+    },
+    {
+      "id": "WF-025-A",
+      "role": "book",
+      "path": "assets/book/WF-025-A.webp",
+      "source": "homebrewery/art/images/exports/WF-025-A-batch-20261007-v1.webp",
+      "bytes": 2482326,
+      "sha256": "eb8449f19ad616a5802c35acd2cf575421084641b6e0bb7fb75a43fb65b71684"
+    },
+    {
+      "id": "WF-026-A",
+      "role": "book",
+      "path": "assets/book/WF-026-A.webp",
+      "source": "homebrewery/art/images/exports/WF-026-A-batch-20261007-v1.webp",
+      "bytes": 2554090,
+      "sha256": "939fb8a2092548012bef517a41855d077d1c262304c63d4379cf578a5b726ad9"
     },
     {
       "id": "WF-030-A",
@@ -106,6 +186,54 @@
       "source": "homebrewery/art/images/exports/WF-436-A-v1.webp",
       "bytes": 2065728,
       "sha256": "c58f5d4ed3b4cc8bfd7d04591c7dabe67aeb3543733cf1bc47754884a68294b4"
+    },
+    {
+      "id": "WF-437-A",
+      "role": "book",
+      "path": "assets/book/WF-437-A.webp",
+      "source": "homebrewery/art/images/exports/WF-437-A-batch-20261007-v2.webp",
+      "bytes": 1131068,
+      "sha256": "d95d7d80e277fc70ed37ad9e4a3930469171243d20045007a54e71caabf1f6f6"
+    },
+    {
+      "id": "WF-438-A",
+      "role": "book",
+      "path": "assets/book/WF-438-A.webp",
+      "source": "homebrewery/art/images/exports/WF-438-A-batch-20261007-v2.webp",
+      "bytes": 1667214,
+      "sha256": "ab3b8a06da1ca64fe105f296fe6e866f03d7473d05d86b8eb02baff7a45194d9"
+    },
+    {
+      "id": "WF-439-A",
+      "role": "book",
+      "path": "assets/book/WF-439-A.webp",
+      "source": "homebrewery/art/images/exports/WF-439-A-batch-20261007-v2.webp",
+      "bytes": 1917128,
+      "sha256": "e150dcd878097084c812ef43711e90b7c78013e6895f6c675ae43deaeca556f4"
+    },
+    {
+      "id": "WF-440-A",
+      "role": "book",
+      "path": "assets/book/WF-440-A.webp",
+      "source": "homebrewery/art/images/exports/WF-440-A-batch-20261007-v2.webp",
+      "bytes": 312142,
+      "sha256": "d1fc94d0ff404c3fa54594d0fdb2c7ff34de71e31c796d02549cca3abe076bd0"
+    },
+    {
+      "id": "WF-442-A",
+      "role": "book",
+      "path": "assets/book/WF-442-A.webp",
+      "source": "homebrewery/art/images/exports/WF-442-A-batch-20261007-v1.webp",
+      "bytes": 1688564,
+      "sha256": "833027debff88acd8d1249d90c094c13d99a65fe65646e0f797f1944536b9d3b"
+    },
+    {
+      "id": "WF-443-A",
+      "role": "book",
+      "path": "assets/book/WF-443-A.webp",
+      "source": "homebrewery/art/images/exports/WF-443-A-batch-20261007-v2.webp",
+      "bytes": 790224,
+      "sha256": "0e3733f10c1a823a72f2c762733bd31ee922461f7988dd3b1be44db1537ea0c1"
     },
     {
       "id": "WF-473-A",
@@ -631,7 +759,17 @@
   "book_paths": {
     "WF-001-A": "assets/book/WF-001-A.webp",
     "WF-004-A": "assets/book/WF-004-A.svg",
+    "WF-011-A": "assets/book/WF-011-A.webp",
+    "WF-013-A": "assets/book/WF-013-A.webp",
+    "WF-014-A": "assets/book/WF-014-A.webp",
+    "WF-015-A": "assets/book/WF-015-A.webp",
+    "WF-019-A": "assets/book/WF-019-A.webp",
     "WF-020-A": "assets/book/WF-020-A.webp",
+    "WF-022-A": "assets/book/WF-022-A.webp",
+    "WF-023-A": "assets/book/WF-023-A.webp",
+    "WF-024-A": "assets/book/WF-024-A.webp",
+    "WF-025-A": "assets/book/WF-025-A.webp",
+    "WF-026-A": "assets/book/WF-026-A.webp",
     "WF-030-A": "assets/book/WF-030-A.webp",
     "WF-035-A": "assets/book/WF-035-A.svg",
     "WF-054-A": "assets/book/WF-054-A.svg",
@@ -642,6 +780,12 @@
     "WF-172-A": "assets/book/WF-172-A.svg",
     "WF-226-A": "assets/book/WF-226-A.svg",
     "WF-436-A": "assets/book/WF-436-A.webp",
+    "WF-437-A": "assets/book/WF-437-A.webp",
+    "WF-438-A": "assets/book/WF-438-A.webp",
+    "WF-439-A": "assets/book/WF-439-A.webp",
+    "WF-440-A": "assets/book/WF-440-A.webp",
+    "WF-442-A": "assets/book/WF-442-A.webp",
+    "WF-443-A": "assets/book/WF-443-A.webp",
     "WF-473-A": "assets/book/WF-473-A.svg"
   },
   "mask_paths": {
