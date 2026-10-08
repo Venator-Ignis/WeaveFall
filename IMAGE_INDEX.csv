@@ -11,6 +11,8 @@ WF-011-A,book,assets/book/WF-011-A.webp,homebrewery/art/images/exports/WF-011-A-
 WF-013-A,book,assets/book/WF-013-A.webp,homebrewery/art/images/exports/WF-013-A-ink-20261008-v1.webp,2593098,6a555a24385895c1fa7fa1bd5fa397f5282da4f98b5ab9ee0ab908ac654e0810
 WF-014-A,book,assets/book/WF-014-A.webp,homebrewery/art/images/exports/WF-014-A-ink-20261008-v2.webp,1814948,d5eb977d4216adcef19c995131dcce756b74a8f9ca63aa5bc9f2f5ff2a4d3f24
 WF-015-A,book,assets/book/WF-015-A.webp,homebrewery/art/images/exports/WF-015-A-batch-20261007-v1.webp,2440456,b27c54cc8c759b83e07dfd78e89999982553c23aa66a32fcec529c2a9e498fec
+WF-016-A,book,assets/book/WF-016-A.webp,homebrewery/art/images/exports/WF-016-A-frontier2-20261008-v1.webp,2492636,5eacbb14a24cdc5cc6a10433c766f8c5b42ccf9e81047687a8826225fc931228
+WF-017-A,book,assets/book/WF-017-A.webp,homebrewery/art/images/exports/WF-017-A-frontier2-20261008-v1.webp,2320764,fd2c2052f5bad2b76974b0f09e32446da57603a991144752c9b592745318fdfe
 WF-019-A,book,assets/book/WF-019-A.webp,homebrewery/art/images/exports/WF-019-A-ink-20261008-v1.webp,2517420,cd6a09ec7210fcafd86dee50f8f87741b2841d0cc46e303d9f294f52897d1e95
 WF-020-A,book,assets/book/WF-020-A.webp,homebrewery/art/images/exports/WF-020-A-ink-pilot-20261008-v1.webp,2466904,4d0f3c3ddab33b439c424692bcee5bcdd516b54e733ae1b07c371285a7292048
 WF-021-A,book,assets/book/WF-021-A.webp,homebrewery/art/images/exports/WF-021-A-ink-20261008-v1.webp,2729284,19de47430770c9a676b8d637e0c62fa92cf0bb64b4b44e8440339aff12759a29
@@ -35,23 +37,39 @@ WF-040-A,book,assets/book/WF-040-A.webp,homebrewery/art/images/exports/WF-040-A-
 WF-041-A,book,assets/book/WF-041-A.webp,homebrewery/art/images/exports/WF-041-A-ink-20261008-v1.webp,2453626,593d6bdfff7c78f399c690431b244b125a758876538a46a7c3b543642e71c561
 WF-042-A,book,assets/book/WF-042-A.webp,homebrewery/art/images/exports/WF-042-A-ink-20261008-v1.webp,2602082,6467f94423649060f771ff068796d47b127b92eeb451b90eae254b55945899a4
 WF-043-A,book,assets/book/WF-043-A.webp,homebrewery/art/images/exports/WF-043-A-ink-20261008-v1.webp,2581986,efda3d37ba86d4c6ffa942de41986207a275edbcb059f875a4b83117cda57705
+WF-045-B,book,assets/book/WF-045-B.webp,homebrewery/art/images/exports/WF-045-B-frontier2-20261008-v1.webp,2165626,44983816faeba7836fab06994a481c32ead99f1ae992e680585ce30c1b108e84
 WF-050-A,book,assets/book/WF-050-A.webp,homebrewery/art/images/exports/WF-050-A-ink-20261008-v1.webp,2467398,005872903a04640d8821f8d3bc14770d05921c8e05ed5d807f02eab0bc24201e
+WF-052-A,book,assets/book/WF-052-A.webp,homebrewery/art/images/exports/WF-052-A-frontier2-20261008-v1.webp,2071830,53ca8be6c9cb3d8555f73321f49809965411bcb0a4007475e0901f4946e0b6c8
+WF-053-A,book,assets/book/WF-053-A.webp,homebrewery/art/images/exports/WF-053-A-frontier2-20261008-v2.webp,1336314,b1acf5774c85e33eb1fa47bd878b814729f82e4dcfe526fa3067f853f5031552
 WF-054-A,book,assets/book/WF-054-A.svg,homebrewery/art/maps/WF-054-A-compass-v1.svg,52089,9a2230b1eb086d435179440c6fec13cdfbb1a7e44fd8532054573396b4c27c2e
 WF-054-B,book,assets/book/WF-054-B.svg,homebrewery/art/maps/WF-054-B-wrenmarch-book-v1.svg,81026,8e7d6d4537e0120cf0b9858b3bb925d20590b3e884c5e709ed708f4cf0998288
 WF-056-A,book,assets/book/WF-056-A.webp,homebrewery/art/images/exports/WF-056-A-ink-20261008-v1.webp,1573500,9efa45548267495815db97faf8dbc9be1a6c74b96972c5fe9e47b6ece0fc5ae9
 WF-057-A,book,assets/book/WF-057-A.webp,homebrewery/art/images/exports/WF-057-A-ink-20261008-v1.webp,1732928,5c248ba8d60064d7c2eead9b071b23f33b038b5f8d84a8b7053a61da9df0eeb3
 WF-058-A,book,assets/book/WF-058-A.webp,homebrewery/art/images/exports/WF-058-A-ink-20261008-v1.webp,2623822,f393044bada782f01051e7bda2ae534b51786a3b99411b3974326e96e3e39427
+WF-059-A,book,assets/book/WF-059-A.webp,homebrewery/art/images/exports/WF-059-A-frontier2-20261008-v2.webp,1831188,b5aa91b719e2dbf692faa4d63af2a8a3e4116792d1cf64d4c3537967cab996f8
 WF-060-A,book,assets/book/WF-060-A.webp,homebrewery/art/images/exports/WF-060-A-ink-20261008-v1.webp,1599332,3da9052fa9c3ece7f21f7185a7d4026adf319dadc9b8dfdd612b3677f8b7305e
 WF-061-A,book,assets/book/WF-061-A.webp,homebrewery/art/images/exports/WF-061-A-ink-20261008-v1.webp,1621878,b4b5023d46befe73e6f1c7f44055fbcc4a22c052c4c035a0d20e7e3c4baa0fde
 WF-062-A,book,assets/book/WF-062-A.webp,homebrewery/art/images/exports/WF-062-A-v2.webp,1642638,37698bf701dfa8e5fad718a435bfad81d84bcdcef9ebce87baa70718bcecca0a
 WF-063-A,book,assets/book/WF-063-A.webp,homebrewery/art/images/exports/WF-063-A-ink-20261008-v1.webp,2618466,e671d5aff129e741c56fcf41988753354f542f06bb04dc4d8fa34d2fa35d0e1c
+WF-065-A,book,assets/book/WF-065-A.webp,homebrewery/art/images/exports/WF-065-A-frontier2-20261008-v1.webp,2398548,612207603b3dbc72c71a5b5ec8e4d9ad0ffcc7ee3ee9b22195da4768d8810a92
+WF-066-A,book,assets/book/WF-066-A.webp,homebrewery/art/images/exports/WF-066-A-frontier2-20261008-v2.webp,2055834,ebe40267bb4db1ac15eddbab66b06654fbde65e65da45ff3f359d47ca1f7e9aa
 WF-067-A,book,assets/book/WF-067-A.svg,homebrewery/art/maps/WF-067-A-book-v1.svg,71266,be3b9395a0dec3dbfd02de690b8459ffa7cbbaa969a7b0c7f32eddfb0623664f
+WF-069-A,book,assets/book/WF-069-A.webp,homebrewery/art/images/exports/WF-069-A-frontier2-20261008-v1.webp,2344128,8e48270afc50de6a928192122e2e6dadfc6a933ad5398baff1d0b921f6556937
 WF-070-B,book,assets/book/WF-070-B.svg,homebrewery/art/maps/WF-070-B-book-v1.svg,72848,08065deb5508311d843c9a807cbbfa967ae04a00f6f981e6d1e0ab96bf2c50f2
+WF-072-A,book,assets/book/WF-072-A.webp,homebrewery/art/images/exports/WF-072-A-frontier2-20261008-v1.webp,2227004,b9320c26b14eef90c9a36fa5bf39ee8aa1150ff58c0d8ffe4089259d04199b52
+WF-074-A,book,assets/book/WF-074-A.webp,homebrewery/art/images/exports/WF-074-A-frontier2-20261008-v1.webp,1786016,45824f7833205883757c04abaf34691a9a35b97a059a9494ab084a1b8d4f908f
+WF-075-A,book,assets/book/WF-075-A.webp,homebrewery/art/images/exports/WF-075-A-frontier2-20261008-v1.webp,2236590,47d7d8c6e35eb8fd01956d9e26d9d169b1e11633fadc850268788e28d83dfb8b
 WF-080-A,book,assets/book/WF-080-A.webp,homebrewery/art/images/exports/WF-080-A-ink-20261008-v1.webp,1840240,f3b3507c2d486d68c2084a226519a9f26e855d4e6f360e10597cff671333d72a
+WF-081-A,book,assets/book/WF-081-A.webp,homebrewery/art/images/exports/WF-081-A-frontier2-20261008-v2.webp,2059520,d2f457b2058247c5f3072fe72fdd2ae59ee0a88d88b0617fde3336253ad3ddb6
 WF-085-A,book,assets/book/WF-085-A.webp,homebrewery/art/images/exports/WF-085-A-ink-20261008-v1.webp,1972488,6399056bca587581b163dc201205d0a57b8f6d66ee5600ff541634f02676639c
+WF-087-A,book,assets/book/WF-087-A.webp,homebrewery/art/images/exports/WF-087-A-frontier2-20261008-v1.webp,2268046,c77d9e165495a13296a20024ddf45887096b180e617c5297311d3245bbf9d68f
 WF-088-A,book,assets/book/WF-088-A.webp,homebrewery/art/images/exports/WF-088-A-ink-20261008-v1.webp,2339314,77968dc7d202a5bb510312157b8b7040fcc05146d912c4070433f326f0aab79e
+WF-089-A,book,assets/book/WF-089-A.webp,homebrewery/art/images/exports/WF-089-A-frontier2-20261008-v1.webp,2318346,dc0d67a49de868030472ab8d53debb3a36a7e506950f310480039f01ddf42852
 WF-090-A,book,assets/book/WF-090-A.webp,homebrewery/art/images/exports/WF-090-A-ink-20261008-v1.webp,1344244,8b24ced7403eea0583f30d60f14b5e0f3fd00593132d1e9a17fa6c43dfcfb76d
 WF-091-A,book,assets/book/WF-091-A.webp,homebrewery/art/images/exports/WF-091-A-ink-20261008-v1.webp,1962284,a38c2274d73f2a1908502f578b75a9744d2f846308945459dbc2a49c74e22d33
+WF-093-A,book,assets/book/WF-093-A.webp,homebrewery/art/images/exports/WF-093-A-frontier2-20261008-v1.webp,1822404,40776d3660ac6ead74e54c4e5d0809b1f200d3150351cf793bc2ca99a3f37101
+WF-094-A,book,assets/book/WF-094-A.webp,homebrewery/art/images/exports/WF-094-A-frontier2-20261008-v1.webp,2180918,dc4584a4020eca224064e86fdd9c32e973cc06d9927a2fc5f25d8a5a775653df
+WF-097-A,book,assets/book/WF-097-A.webp,homebrewery/art/images/exports/WF-097-A-frontier2-20261008-v1.webp,1925850,166ef40224bf9de86364f5b998463ee78c0c12e400238f434425e4f69885c2c0
 WF-172-A,book,assets/book/WF-172-A.svg,homebrewery/art/maps/WF-172-A-selvane-gm-book-v1.svg,88527,bf40ba1a3f6fc186f80d637eeccde60b10acf86cc64664611d46429e534c679f
 WF-226-A,book,assets/book/WF-226-A.svg,homebrewery/art/maps/WF-226-A-letter-book-v1.svg,53349,38d03dc6cd9df4a14c96b2e2015348adbfd7e1fac53ab26ab8dd41ee91da20b1
 WF-436-A,book,assets/book/WF-436-A.webp,homebrewery/art/images/exports/WF-436-A-ink-20261008-v1.webp,1909540,ec2b5b01a9792abe260ae7de8b3693b85584d35fb8e2a4f6d5550348c40c6d4f
@@ -72,6 +90,11 @@ REF-COURSERS,reference,assets/references/REF-COURSERS.png,homebrewery/art/models
 REF-ASHBOUND-INK,reference,assets/references/REF-ASHBOUND-INK.png,homebrewery/art/models/REF-ASHBOUND-INK-ink-20261008-v1.png,1908119,835d228ca50241d0c3a9e9973ad681d5894d70963a0da055a0278149eb3aa37e
 STYLE-WARM-INK,reference,assets/references/STYLE-WARM-INK.png,homebrewery/art/models/STYLE-WARM-INK-20261008-v1.png,2529093,186d95455a7a26089eac0b0f6752372750bc81aa3c2e5068bb7079ea501d1a94
 STYLE-GRISAILLE-INK,reference,assets/references/STYLE-GRISAILLE-INK.png,homebrewery/art/models/STYLE-GRISAILLE-INK-20261008-v1.png,2064145,5364293ec42130da43a59cc44b17fa8f5b5d9ff55d5195fd1d5bc332e6c8875a
+REF-ALDRIC,reference,assets/references/REF-ALDRIC.png,homebrewery/art/models/REF-ALDRIC-frontier2-20261008-v3.png,2760955,835b4bc062d595ed7682cc7149b0a193a56024461d68bec8c369d35c1ad816d7
+REF-PROCTOR,reference,assets/references/REF-PROCTOR.png,homebrewery/art/models/REF-PROCTOR-frontier2-20261008-v1.png,2586468,976e07c7438bfd472920ab2abedf8d9d7e9086ee6228426393a6d9022416f513
+REF-CORVINO,reference,assets/references/REF-CORVINO.png,homebrewery/art/models/REF-CORVINO-frontier2-20261008-v1.png,2913577,9c81ce070eaa4838468f7a90a2674dab8e6100bceb051ab5485d6df35dc9bc79
+REF-BEASTFOLK,reference,assets/references/REF-BEASTFOLK.png,homebrewery/art/models/REF-BEASTFOLK-frontier2-20261008-v1.png,3318824,71d6e5f27bcc6f8376e26896f5a87bacf4c3a6726b22d79a5ca71839fd0e5544
+REF-PERYTON,reference,assets/references/REF-PERYTON.png,homebrewery/art/models/REF-PERYTON-frontier2-20261008-v1.png,2559900,a1ef28e77ea1a2746372401a9df2c46e4104d8c62d751481e9f9c180496ea030
 WF-035-A,book vector,assets/maps/WF-035-A-town-book-v1.svg,homebrewery/art/maps/WF-035-A-town-book-v1.svg,115709,7c27e4a955123d113c2df7c163fa194964508910c3e5908da594642cf7d27a47
 WF-035-A,book PNG,assets/maps/png/WF-035-A-town-book-v1.png,homebrewery/art/maps/exports/WF-035-A-town-book-v1.png,886380,87529f5715ac6c4124d414edf6459a7fbc9e3eacaf0343fa2959f117ab2ded4b
 WF-035-A,player-print vector,assets/maps/WF-035-A-town-player-v1.svg,homebrewery/art/maps/WF-035-A-town-player-v1.svg,115709,7c27e4a955123d113c2df7c163fa194964508910c3e5908da594642cf7d27a47
