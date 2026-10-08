@@ -1,0 +1,70 @@
+/* WeaveFall reusable fonts: byte-identical copies from the author’s existing font stylesheet. */
+@font-face {    /* Kaiburr Imitation, a modified version of Fifth Century Caps */
+    font-family : 'Kaiburr';
+    src: url("kaiburr.woff2") format('woff2');
+    font-weight : normal;
+    font-style  : normal;
+}
+
+@font-face {    /* Historical Felltype Roman */
+    font-family : 'Historical';
+    src: url("historical.woff2") format('woff2');
+    font-weight : 500;
+    font-style  : normal;
+}
+
+@font-face {    /* Historical Test */
+    font-family : 'Historical Test';
+    src: url("historical-test.woff2") format('woff2');
+    font-weight : normal;
+    font-style  : normal;
+}
+
+@font-face {    /* Pterra Regular */
+    font-family : 'Pterra';
+    src: url("pterra.woff2") format('woff2');
+    font-weight : normal;
+    font-style  : normal;
+}
+
+@font-face {    /* Celestia Antiqua Std */
+    font-family : 'Celestia';
+    src: url("celestia.woff2") format('woff2');
+    font-weight : 600;
+    font-style  : normal;
+}
+
+@font-face {    /* Celestia Antiqua Semibold */
+    font-family : 'Celestia Semibold';
+    src: url("celestia-semibold.woff2") format('woff2');
+    font-weight : 600;
+    font-style  : normal;
+}
+
+@font-face {    /* Vitriol */
+    font-family : 'Vitriol';
+    src: url("vitriol.woff2") format('woff2');
+    font-weight : 500;
+    font-style  : normal;
+}
+
+@font-face {    /* Alchemy Gold A24 */
+    font-family : 'Alchemy';
+    src: url("alchemy.woff2") format('woff2');
+    font-weight : normal;
+    font-style  : normal;
+}
+
+@font-face {   /* Alchemy Gold A24 Test */
+    font-family: 'Alchemy Test';
+    src: url("alchemy-test.woff2") format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {    /* Mason Regular */
+    font-family : 'Mason';
+    src: url("mason.woff2") format('woff2');
+    font-weight : 100;
+    font-style  : normal;
+}

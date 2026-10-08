@@ -1,5 +1,5 @@
 {
-  "revision": "2026-10-07",
+  "revision": "2026-10-08",
   "status": "published image package",
   "base_url": "https://raw.githubusercontent.com/Venator-Ignis/WeaveFall/main",
   "files": [
@@ -18,6 +18,14 @@
       "source": "homebrewery/art/images/exports/WF-002-A-batch-20261008-v1.webp",
       "bytes": 1992126,
       "sha256": "ea5d4766df5391e4b8b949841d572dbb04413601110823ad0e08ad1c00690e34"
+    },
+    {
+      "id": "WF-003-A",
+      "role": "book",
+      "path": "assets/book/WF-003-A.jpg",
+      "source": "homebrewery/art/author-images/dedication-2026-10-07.jpg",
+      "bytes": 74389,
+      "sha256": "8509038f490451b0ffa5a9af8f15396193097d23fcd7e461587e4b211f411d8c"
     },
     {
       "id": "WF-004-A",
@@ -930,11 +938,108 @@
       "bytes": 33856,
       "sha256": "4b73687a8ec28ff5a7e6c0b8ced239aab3a8dab72efa94e2e857e410f08427d0",
       "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/edge/0008.webp"
+    },
+    {
+      "id": "Kaiburr",
+      "role": "font",
+      "path": "assets/fonts/kaiburr.woff2",
+      "source": "homebrewery/art/fonts/kaiburr.woff2",
+      "bytes": 26048,
+      "sha256": "97ed3821052a647ceed4ba2dece14f3e63e97d97bdcfa90dd9709662ebb3175b"
+    },
+    {
+      "id": "Historical",
+      "role": "font",
+      "path": "assets/fonts/historical.woff2",
+      "source": "homebrewery/art/fonts/historical.woff2",
+      "bytes": 55700,
+      "sha256": "86f8d48dccb6849f79a72022f6d2a37521e64f8f2d16548b2cef63a3e99bca76"
+    },
+    {
+      "id": "Historical Test",
+      "role": "font",
+      "path": "assets/fonts/historical-test.woff2",
+      "source": "homebrewery/art/fonts/historical-test.woff2",
+      "bytes": 55632,
+      "sha256": "fcc84b2a02f9c90ae8e0df0d1df59f1cc38f0b232aecc5dfd55c40983a658f5d"
+    },
+    {
+      "id": "Pterra",
+      "role": "font",
+      "path": "assets/fonts/pterra.woff2",
+      "source": "homebrewery/art/fonts/pterra.woff2",
+      "bytes": 26768,
+      "sha256": "1ab83f0c530811de7c8a1661622efb270642e6dd2fa57a1e6a3fc8b0c955af9f"
+    },
+    {
+      "id": "Celestia",
+      "role": "font",
+      "path": "assets/fonts/celestia.woff2",
+      "source": "homebrewery/art/fonts/celestia.woff2",
+      "bytes": 47120,
+      "sha256": "ee55525b1fff7b0d7a243fdca42784f55d63cd1d06c256e685fe26b4000e6931"
+    },
+    {
+      "id": "Celestia Semibold",
+      "role": "font",
+      "path": "assets/fonts/celestia-semibold.woff2",
+      "source": "homebrewery/art/fonts/celestia-semibold.woff2",
+      "bytes": 16900,
+      "sha256": "36064afbd74a4bb627a5a7d85cb37462598275f7eee7e76a5d73de12a90b3e26"
+    },
+    {
+      "id": "Vitriol",
+      "role": "font",
+      "path": "assets/fonts/vitriol.woff2",
+      "source": "homebrewery/art/fonts/vitriol.woff2",
+      "bytes": 21672,
+      "sha256": "7ece2ee253d5af087a26ba00a68b7edc18b536aec8dae7bf8f3728369e3d34c4"
+    },
+    {
+      "id": "Alchemy",
+      "role": "font",
+      "path": "assets/fonts/alchemy.woff2",
+      "source": "homebrewery/art/fonts/alchemy.woff2",
+      "bytes": 1504,
+      "sha256": "9dce109d421e00cff03e89b6a789c62d7398452acc0a878e0da33191242fab7b"
+    },
+    {
+      "id": "Alchemy Test",
+      "role": "font",
+      "path": "assets/fonts/alchemy-test.woff2",
+      "source": "homebrewery/art/fonts/alchemy-test.woff2",
+      "bytes": 1528,
+      "sha256": "e76a4804fa10e8c980aa10d778f94a1ad434c7b64ff6af0eb5b83c3a5e56017d"
+    },
+    {
+      "id": "Mason",
+      "role": "font",
+      "path": "assets/fonts/mason.woff2",
+      "source": "homebrewery/art/fonts/mason.woff2",
+      "bytes": 20916,
+      "sha256": "bf416085c11229339675a38546c5ca8a385fe9e8c7fc1ecf0a82075327c30d4e"
+    },
+    {
+      "id": "Home-Font.css",
+      "role": "font stylesheet",
+      "path": "assets/fonts/Home-Font.css",
+      "source": "homebrewery/art/fonts/Home-Font.css",
+      "bytes": 1952,
+      "sha256": "492520d4008ea7ae0e5f38400e51fcb57910ba4d72ebf15d59006016a148e37e"
+    },
+    {
+      "id": "font provenance",
+      "role": "font documentation",
+      "path": "assets/fonts/README.md",
+      "source": "homebrewery/art/fonts/README.md",
+      "bytes": 728,
+      "sha256": "93d4982c0d1546a74ee99fe5dc94ddf63a401817ca112ccd109c1032d32e89dd"
     }
   ],
   "book_paths": {
     "WF-001-A": "assets/book/WF-001-A.webp",
     "WF-002-A": "assets/book/WF-002-A.webp",
+    "WF-003-A": "assets/book/WF-003-A.jpg",
     "WF-004-A": "assets/book/WF-004-A.svg",
     "WF-005-A": "assets/book/WF-005-A.webp",
     "WF-006-A": "assets/book/WF-006-A.webp",
@@ -994,23 +1099,43 @@
     "imageMaskEdge5": "assets/masks/edge-0005.webp",
     "imageMaskEdge8": "assets/masks/edge-0008.webp"
   },
-  "verified_commit": "5b7b79c7949aa1e5f61a0c068900b0562b19bc5e",
+  "verified_commit": "4cad3b5820bcdfcf348b2076fe2fa9d33035e3a2",
   "effective_book_paths": {
     "WF-001-A": "assets/book/WF-001-A.webp",
+    "WF-002-A": "assets/book/WF-002-A.webp",
     "WF-004-A": "assets/book/WF-004-A.svg",
+    "WF-005-A": "assets/book/WF-005-A.webp",
+    "WF-006-A": "assets/book/WF-006-A.webp",
+    "WF-007-A": "assets/book/WF-007-A.webp",
+    "WF-008-A": "assets/book/WF-008-A.webp",
     "WF-011-A": "assets/book/WF-011-A.webp",
     "WF-013-A": "assets/book/WF-013-A.webp",
     "WF-014-A": "assets/book/WF-014-A.webp",
     "WF-015-A": "assets/book/WF-015-A.webp",
     "WF-019-A": "assets/book/WF-019-A.webp",
     "WF-020-A": "assets/book/WF-020-A.webp",
+    "WF-021-A": "assets/book/WF-021-A.webp",
     "WF-022-A": "assets/book/WF-022-A.webp",
     "WF-023-A": "assets/book/WF-023-A.webp",
     "WF-024-A": "assets/book/WF-024-A.webp",
     "WF-025-A": "assets/book/WF-025-A.webp",
+    "WF-025-B": "assets/book/WF-025-B.webp",
     "WF-026-A": "assets/book/WF-026-A.webp",
+    "WF-027-A": "assets/book/WF-027-A.webp",
+    "WF-028-A": "assets/book/WF-028-A.webp",
+    "WF-029-A": "assets/book/WF-029-A.webp",
     "WF-030-A": "assets/book/WF-030-A.webp",
+    "WF-034-A": "assets/book/WF-034-A.webp",
     "WF-035-A": "assets/maps/png/WF-035-A-town-book-v1.png",
+    "WF-036-A": "assets/book/WF-036-A.webp",
+    "WF-037-A": "assets/book/WF-037-A.webp",
+    "WF-038-A": "assets/book/WF-038-A.webp",
+    "WF-039-A": "assets/book/WF-039-A.webp",
+    "WF-039-B": "assets/book/WF-039-B.webp",
+    "WF-040-A": "assets/book/WF-040-A.webp",
+    "WF-041-A": "assets/book/WF-041-A.webp",
+    "WF-042-A": "assets/book/WF-042-A.webp",
+    "WF-043-A": "assets/book/WF-043-A.webp",
     "WF-054-A": "assets/book/WF-054-A.svg",
     "WF-054-B": "assets/maps/png/WF-054-B-wrenmarch-book-v1.png",
     "WF-062-A": "assets/book/WF-062-A.webp",

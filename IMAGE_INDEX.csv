@@ -1,6 +1,7 @@
 ﻿id,role,path,source,bytes,sha256
 WF-001-A,book,assets/book/WF-001-A.webp,homebrewery/art/images/exports/WF-001-A-v2.webp,2095518,f8393ea1d8a0ed1ce8911f9f1b9a80ba5fdd19d46bb342951cde1142c7b89ca0
 WF-002-A,book,assets/book/WF-002-A.webp,homebrewery/art/images/exports/WF-002-A-batch-20261008-v1.webp,1992126,ea5d4766df5391e4b8b949841d572dbb04413601110823ad0e08ad1c00690e34
+WF-003-A,book,assets/book/WF-003-A.jpg,homebrewery/art/author-images/dedication-2026-10-07.jpg,74389,8509038f490451b0ffa5a9af8f15396193097d23fcd7e461587e4b211f411d8c
 WF-004-A,book,assets/book/WF-004-A.svg,homebrewery/art/images/WF-004-A-v1.svg,858,ae535cb3f2bb7f2fa53c8ac7417ab757cda5b8fb7bf4270ea9f42efcdf32ece7
 WF-005-A,book,assets/book/WF-005-A.webp,homebrewery/art/images/exports/WF-005-A-batch-20261008-v1.webp,2813206,63bf771c175385074a81870e9f92d214426265029a0a44ac924b8737712d11cd
 WF-006-A,book,assets/book/WF-006-A.webp,homebrewery/art/images/exports/WF-006-A-batch-20261008-v1.webp,2521404,0f866dc98654453429934d933a94c57d92ffa33bcf9b3caa47219df56c529e84
@@ -114,3 +115,15 @@ imageMaskEdge1,watercolor mask,assets/masks/edge-0001.webp,homebrewery/art/masks
 imageMaskEdge4,watercolor mask,assets/masks/edge-0004.webp,homebrewery/art/masks/edge-0004.webp,42194,c020ba7b9cb1e14a19e5a50654f1d3bd59587235a9f4da3b2f973df1d3da675a
 imageMaskEdge5,watercolor mask,assets/masks/edge-0005.webp,homebrewery/art/masks/edge-0005.webp,42204,c250c08e61f749bc85e4f0def1f507deba7b968192eb7a5e09e4e82853622667
 imageMaskEdge8,watercolor mask,assets/masks/edge-0008.webp,homebrewery/art/masks/edge-0008.webp,33856,4b73687a8ec28ff5a7e6c0b8ced239aab3a8dab72efa94e2e857e410f08427d0
+Kaiburr,font,assets/fonts/kaiburr.woff2,homebrewery/art/fonts/kaiburr.woff2,26048,97ed3821052a647ceed4ba2dece14f3e63e97d97bdcfa90dd9709662ebb3175b
+Historical,font,assets/fonts/historical.woff2,homebrewery/art/fonts/historical.woff2,55700,86f8d48dccb6849f79a72022f6d2a37521e64f8f2d16548b2cef63a3e99bca76
+Historical Test,font,assets/fonts/historical-test.woff2,homebrewery/art/fonts/historical-test.woff2,55632,fcc84b2a02f9c90ae8e0df0d1df59f1cc38f0b232aecc5dfd55c40983a658f5d
+Pterra,font,assets/fonts/pterra.woff2,homebrewery/art/fonts/pterra.woff2,26768,1ab83f0c530811de7c8a1661622efb270642e6dd2fa57a1e6a3fc8b0c955af9f
+Celestia,font,assets/fonts/celestia.woff2,homebrewery/art/fonts/celestia.woff2,47120,ee55525b1fff7b0d7a243fdca42784f55d63cd1d06c256e685fe26b4000e6931
+Celestia Semibold,font,assets/fonts/celestia-semibold.woff2,homebrewery/art/fonts/celestia-semibold.woff2,16900,36064afbd74a4bb627a5a7d85cb37462598275f7eee7e76a5d73de12a90b3e26
+Vitriol,font,assets/fonts/vitriol.woff2,homebrewery/art/fonts/vitriol.woff2,21672,7ece2ee253d5af087a26ba00a68b7edc18b536aec8dae7bf8f3728369e3d34c4
+Alchemy,font,assets/fonts/alchemy.woff2,homebrewery/art/fonts/alchemy.woff2,1504,9dce109d421e00cff03e89b6a789c62d7398452acc0a878e0da33191242fab7b
+Alchemy Test,font,assets/fonts/alchemy-test.woff2,homebrewery/art/fonts/alchemy-test.woff2,1528,e76a4804fa10e8c980aa10d778f94a1ad434c7b64ff6af0eb5b83c3a5e56017d
+Mason,font,assets/fonts/mason.woff2,homebrewery/art/fonts/mason.woff2,20916,bf416085c11229339675a38546c5ca8a385fe9e8c7fc1ecf0a82075327c30d4e
+Home-Font.css,font stylesheet,assets/fonts/Home-Font.css,homebrewery/art/fonts/Home-Font.css,1952,492520d4008ea7ae0e5f38400e51fcb57910ba4d72ebf15d59006016a148e37e
+font provenance,font documentation,assets/fonts/README.md,homebrewery/art/fonts/README.md,728,93d4982c0d1546a74ee99fe5dc94ddf63a401817ca112ccd109c1032d32e89dd
