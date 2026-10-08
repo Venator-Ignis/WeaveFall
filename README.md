@@ -1,9 +1,9 @@
 # WeaveFall Campaign Artwork
 
-Image library for the WeaveFall A4 Homebrewery campaign book. The library includes selected book illustrations, five reference sheets, layered maps, player handouts and high-resolution PNG exports.
+Image library for the WeaveFall A4 Homebrewery campaign book. The library includes selected book illustrations, character and creature reference sheets, layered maps, player handouts and high-resolution PNG exports.
 
 - `assets/book`: stable image paths used by the campaign manuscript.
-- `assets/references`: architecture, uniform, Eleanor, the Last Doge and Ferox model sheets.
+- `assets/references`: architecture, uniform, character and creature model sheets.
 - `assets/maps`: editable versioned SVG map and handout masters.
 - `assets/maps/png`: PNG map/prop exports, including GM, player, blank and exploration-detail versions.
 - `assets/masks`: unchanged Homebrewery watercolour masks used by the book's CSS.

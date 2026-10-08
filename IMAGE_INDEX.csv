@@ -1,19 +1,39 @@
 ﻿id,role,path,source,bytes,sha256
 WF-001-A,book,assets/book/WF-001-A.webp,homebrewery/art/images/exports/WF-001-A-v2.webp,2095518,f8393ea1d8a0ed1ce8911f9f1b9a80ba5fdd19d46bb342951cde1142c7b89ca0
+WF-002-A,book,assets/book/WF-002-A.webp,homebrewery/art/images/exports/WF-002-A-batch-20261008-v1.webp,1992126,ea5d4766df5391e4b8b949841d572dbb04413601110823ad0e08ad1c00690e34
 WF-004-A,book,assets/book/WF-004-A.svg,homebrewery/art/images/WF-004-A-v1.svg,858,ae535cb3f2bb7f2fa53c8ac7417ab757cda5b8fb7bf4270ea9f42efcdf32ece7
+WF-005-A,book,assets/book/WF-005-A.webp,homebrewery/art/images/exports/WF-005-A-batch-20261008-v1.webp,2813206,63bf771c175385074a81870e9f92d214426265029a0a44ac924b8737712d11cd
+WF-006-A,book,assets/book/WF-006-A.webp,homebrewery/art/images/exports/WF-006-A-batch-20261008-v1.webp,2521404,0f866dc98654453429934d933a94c57d92ffa33bcf9b3caa47219df56c529e84
+WF-007-A,book,assets/book/WF-007-A.webp,homebrewery/art/images/exports/WF-007-A-batch-20261008-v1.webp,2641560,5bfb0c007370c4e3c1c7f1b04dac66a101b3e98565e91105d47de72f7f44b766
+WF-008-A,book,assets/book/WF-008-A.webp,homebrewery/art/images/exports/WF-008-A-batch-20261008-v1.webp,2130222,d9bb010ff2ee913a54eb66e12b7777a65ae9e98dcc00a4d292418f5a5b1c985f
 WF-011-A,book,assets/book/WF-011-A.webp,homebrewery/art/images/exports/WF-011-A-batch-20261007-v1.webp,2645656,186b431f7926edecfccfc1bb1898abdd513604968d1d39e55f4e172619fb03cf
 WF-013-A,book,assets/book/WF-013-A.webp,homebrewery/art/images/exports/WF-013-A-batch-20261007-v1.webp,2689052,e3082fc0c9ecb57b3af2401eff56ca705c15d3e1ae301c5f8b82c394fa3689d6
 WF-014-A,book,assets/book/WF-014-A.webp,homebrewery/art/images/exports/WF-014-A-batch-20261007-v1.webp,2357908,bc9d3f9a1b1d3a4b034ed4c4bd995e68b5ad165622a73be9d7a8254537a7498f
 WF-015-A,book,assets/book/WF-015-A.webp,homebrewery/art/images/exports/WF-015-A-batch-20261007-v1.webp,2440456,b27c54cc8c759b83e07dfd78e89999982553c23aa66a32fcec529c2a9e498fec
 WF-019-A,book,assets/book/WF-019-A.webp,homebrewery/art/images/exports/WF-019-A-batch-20261007-v2.webp,2240636,262b9d55af2cd6c1bb45dbfad207132770c6f181da9ad189199225d726cbf7ad
 WF-020-A,book,assets/book/WF-020-A.webp,homebrewery/art/images/exports/WF-020-A-v2.webp,2189586,b183e9a576d391817b8d0f79e4999cf38e835ab8dee42309a02ea9ed0a3a5b15
+WF-021-A,book,assets/book/WF-021-A.webp,homebrewery/art/images/exports/WF-021-A-batch-20261008-v2.webp,2394024,dacaff4041bd93f3c6a5c4dabf15f911f8a39873c9d870c525ce307c7a2e7923
 WF-022-A,book,assets/book/WF-022-A.webp,homebrewery/art/images/exports/WF-022-A-batch-20261007-v2.webp,1562962,b577162ec530c4ff3f4e792c83333a15e52fb1da1bcad736912f99fd8dd20d4a
 WF-023-A,book,assets/book/WF-023-A.webp,homebrewery/art/images/exports/WF-023-A-batch-20261007-v1.webp,1981726,7b509a66e027fae044d42e62e46a23aeb27a2ad78822e5dadfa8e726f06c92bd
 WF-024-A,book,assets/book/WF-024-A.webp,homebrewery/art/images/exports/WF-024-A-batch-20261007-v1.webp,2166414,22816bf4df9507da3dff4f9027aa764bea2adb837c62a061ad9733345d29a75c
 WF-025-A,book,assets/book/WF-025-A.webp,homebrewery/art/images/exports/WF-025-A-batch-20261007-v1.webp,2482326,eb8449f19ad616a5802c35acd2cf575421084641b6e0bb7fb75a43fb65b71684
+WF-025-B,book,assets/book/WF-025-B.webp,homebrewery/art/images/exports/WF-025-B-batch-20261008-v1.webp,1776526,4695fc016d79646b0c1530974a2ad7eacde6e026dedd2164572e415bfe8aa144
 WF-026-A,book,assets/book/WF-026-A.webp,homebrewery/art/images/exports/WF-026-A-batch-20261007-v1.webp,2554090,939fb8a2092548012bef517a41855d077d1c262304c63d4379cf578a5b726ad9
+WF-027-A,book,assets/book/WF-027-A.webp,homebrewery/art/images/exports/WF-027-A-batch-20261008-v1.webp,2389514,3ddec1f010c3663c00b5ab768c63e3c54bdf4aca4f1583be40eea6bb7e23daa4
+WF-028-A,book,assets/book/WF-028-A.webp,homebrewery/art/images/exports/WF-028-A-batch-20261008-v1.webp,1547290,c29d173fc1991d286ca2f22a5d78ad0b55db2b2676d9c297aab0915a137a14ee
+WF-029-A,book,assets/book/WF-029-A.webp,homebrewery/art/images/exports/WF-029-A-batch-20261008-v2.webp,2064256,76167fdee75adc30ee11745de574373f69dc7b0ef54fb00ed9a04410e5563a87
 WF-030-A,book,assets/book/WF-030-A.webp,homebrewery/art/images/exports/WF-030-A-v2.webp,1805216,ed2fd3149dc4577570e6cada9b05841ae62c179d89a4cfae317164bfe4fa3d8b
+WF-034-A,book,assets/book/WF-034-A.webp,homebrewery/art/images/exports/WF-034-A-batch-20261008-v2.webp,2262410,2936ff29f1b5bfd1491a523a29ece03bafa54688739e6b37ad67ee2dc47e7e2c
 WF-035-A,book,assets/book/WF-035-A.svg,homebrewery/art/maps/WF-035-A-town-book-v1.svg,115709,7c27e4a955123d113c2df7c163fa194964508910c3e5908da594642cf7d27a47
+WF-036-A,book,assets/book/WF-036-A.webp,homebrewery/art/images/exports/WF-036-A-batch-20261008-v2.webp,2560360,95c715256f212451ed1558ca9afde202b09bba3aea31364f807e6f5e2e900560
+WF-037-A,book,assets/book/WF-037-A.webp,homebrewery/art/images/exports/WF-037-A-batch-20261008-v4.webp,2196152,00d9c3a34f3f825fabc2d36737b74d6dc070ee9e53a50eaa2426091d802367bb
+WF-038-A,book,assets/book/WF-038-A.webp,homebrewery/art/images/exports/WF-038-A-batch-20261008-v2.webp,2261046,6f2a327f9b7714247a9de08b3caf58910dd6087aab6a573738ea1ebb2efcad97
+WF-039-A,book,assets/book/WF-039-A.webp,homebrewery/art/images/exports/WF-039-A-batch-20261008-v1.webp,2246784,d3349a7f4c2840f71567b7a5876a361a118e0f05f4182514f0b71cebb1c51ce7
+WF-039-B,book,assets/book/WF-039-B.webp,homebrewery/art/images/exports/WF-039-B-batch-20261008-v2.webp,2310374,61000280707a6efd35216c4f5b06bd673311025f06212a1b765920d7b5ab17e4
+WF-040-A,book,assets/book/WF-040-A.webp,homebrewery/art/images/exports/WF-040-A-batch-20261008-v1.webp,2572662,fd2e5e48ce83d6d79a7ac827d2f7cc44333d97fcbd7c5af098ba29a0677bb606
+WF-041-A,book,assets/book/WF-041-A.webp,homebrewery/art/images/exports/WF-041-A-batch-20261008-v2.webp,2220024,289279e5f28b5cfb14b2fee4af7bc97fa3c4e9aed3696e4bd8264be56bf9e53d
+WF-042-A,book,assets/book/WF-042-A.webp,homebrewery/art/images/exports/WF-042-A-batch-20261008-v2.webp,2442912,647209e0a84227715d71075c4d035c11ba888ca6ba8d9728950aae807ecc3092
+WF-043-A,book,assets/book/WF-043-A.webp,homebrewery/art/images/exports/WF-043-A-batch-20261008-v1.webp,2616558,e783e7fed003f20b6ccaa8be78d76aca99056b1a4537fe1418b5fb6cd8e7f4eb
 WF-054-A,book,assets/book/WF-054-A.svg,homebrewery/art/maps/WF-054-A-compass-v1.svg,52089,9a2230b1eb086d435179440c6fec13cdfbb1a7e44fd8532054573396b4c27c2e
 WF-054-B,book,assets/book/WF-054-B.svg,homebrewery/art/maps/WF-054-B-wrenmarch-book-v1.svg,81026,8e7d6d4537e0120cf0b9858b3bb925d20590b3e884c5e709ed708f4cf0998288
 WF-062-A,book,assets/book/WF-062-A.webp,homebrewery/art/images/exports/WF-062-A-v2.webp,1642638,37698bf701dfa8e5fad718a435bfad81d84bcdcef9ebce87baa70718bcecca0a
@@ -34,6 +54,8 @@ REF-BRACKENHALL-UNIFORM,reference,assets/references/REF-BRACKENHALL-UNIFORM.png,
 REF-ELEANOR,reference,assets/references/REF-ELEANOR.png,homebrewery/art/models/REF-ELEANOR-v1-a6626e34.png,2961734,60cd82f41b0934ab092dc4d812d39f2569f639e9f99d0cb1f2aad6009b76c901
 REF-DOGE,reference,assets/references/REF-DOGE.png,homebrewery/art/models/REF-DOGE-v2-4cf3899b.png,3030450,5ac6f8d8e2db755fa5b4b8b3106bd32698c4cd629881302a8f2b1bbf49946ac9
 REF-FEROX,reference,assets/references/REF-FEROX.png,homebrewery/art/models/REF-FEROX-v1-1bf60db4.png,2911499,dbc8deba8b97b587d2179aa109306d6795f38a9efb6e75282a0b27d0994f36da
+REF-TEMPLE-IMP,reference,assets/references/REF-TEMPLE-IMP.png,homebrewery/art/models/REF-TEMPLE-IMP-20261008-v2.png,2503614,61c569e2e0dac65ae4cef5002e3c592833e83113a07498846d1963ec48579475
+REF-COURSERS,reference,assets/references/REF-COURSERS.png,homebrewery/art/models/REF-COURSERS-20261008-v1.png,1776357,0ef24d3489c12d2deaefefe8cffea25f22c142415807fbe8993de54f87b3e100
 WF-035-A,book vector,assets/maps/WF-035-A-town-book-v1.svg,homebrewery/art/maps/WF-035-A-town-book-v1.svg,115709,7c27e4a955123d113c2df7c163fa194964508910c3e5908da594642cf7d27a47
 WF-035-A,book PNG,assets/maps/png/WF-035-A-town-book-v1.png,homebrewery/art/maps/exports/WF-035-A-town-book-v1.png,886380,87529f5715ac6c4124d414edf6459a7fbc9e3eacaf0343fa2959f117ab2ded4b
 WF-035-A,player-print vector,assets/maps/WF-035-A-town-player-v1.svg,homebrewery/art/maps/WF-035-A-town-player-v1.svg,115709,7c27e4a955123d113c2df7c163fa194964508910c3e5908da594642cf7d27a47
