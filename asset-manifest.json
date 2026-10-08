@@ -612,14 +612,6 @@
       "sha256": "eb3130e7eda21fdfb90626721d56fd9136dc91d59f36e5434a7cc815cc714eca"
     },
     {
-      "id": "WF-113-A",
-      "role": "book",
-      "path": "assets/book/WF-113-A.webp",
-      "source": "homebrewery/art/images/exports/WF-113-A-basilica-20261008-v1.webp",
-      "bytes": 2333132,
-      "sha256": "f3e98e626801c2e93f11b8d2ce450f843d83b0539764b331fb4031edffcb57d0"
-    },
-    {
       "id": "WF-172-A",
       "role": "book",
       "path": "assets/book/WF-172-A.svg",
@@ -1505,7 +1497,6 @@
     "WF-107-A": "assets/book/WF-107-A.webp",
     "WF-108-A": "assets/book/WF-108-A.webp",
     "WF-112-A": "assets/book/WF-112-A.webp",
-    "WF-113-A": "assets/book/WF-113-A.webp",
     "WF-172-A": "assets/book/WF-172-A.svg",
     "WF-226-A": "assets/book/WF-226-A.svg",
     "WF-436-A": "assets/book/WF-436-A.webp",
