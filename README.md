@@ -6,6 +6,7 @@ Image library for the WeaveFall A4 Homebrewery campaign book. The library includ
 - `assets/references`: architecture, uniform, character and creature model sheets.
 - `assets/maps`: editable versioned SVG map and handout masters.
 - `assets/maps/png`: PNG map/prop exports, including GM, player, blank and exploration-detail versions.
+- `assets/vectors`: editable faction emblems, calendars, encounter/location plans and matching PNG exports.
 - `assets/masks`: unchanged Homebrewery watercolour masks used by the book's CSS.
 - `assets/fonts`: reusable WOFF2 files, original font-family declarations and provenance.
 

@@ -15,6 +15,7 @@ WF-016-A,book,assets/book/WF-016-A.webp,homebrewery/art/images/exports/WF-016-A-
 WF-017-A,book,assets/book/WF-017-A.webp,homebrewery/art/images/exports/WF-017-A-frontier2-20261008-v1.webp,2320764,fd2c2052f5bad2b76974b0f09e32446da57603a991144752c9b592745318fdfe
 WF-019-A,book,assets/book/WF-019-A.webp,homebrewery/art/images/exports/WF-019-A-ink-20261008-v1.webp,2517420,cd6a09ec7210fcafd86dee50f8f87741b2841d0cc46e303d9f294f52897d1e95
 WF-020-A,book,assets/book/WF-020-A.webp,homebrewery/art/images/exports/WF-020-A-ink-pilot-20261008-v1.webp,2466904,4d0f3c3ddab33b439c424692bcee5bcdd516b54e733ae1b07c371285a7292048
+WF-020-B,book,assets/book/WF-020-B.svg,homebrewery/art/vectors/WF-020-B-book-v2.svg,1832,6f03a285f3fca8f46258c4f691c2b709b832306e573754628802e1bc16c7a7ca
 WF-021-A,book,assets/book/WF-021-A.webp,homebrewery/art/images/exports/WF-021-A-ink-20261008-v1.webp,2729284,19de47430770c9a676b8d637e0c62fa92cf0bb64b4b44e8440339aff12759a29
 WF-022-A,book,assets/book/WF-022-A.webp,homebrewery/art/images/exports/WF-022-A-ink-20261008-v1.webp,1798966,88feaeecd5c9a44105c0ddab51179710d772ed17c3e24c08ed8161a9cb110545
 WF-023-A,book,assets/book/WF-023-A.webp,homebrewery/art/images/exports/WF-023-A-ink-20261008-v1.webp,1925444,43b04ed5fbbe1da337ade36e8b3b7fa4b03033101f2abbf6413cf41d1387594b
@@ -38,7 +39,9 @@ WF-041-A,book,assets/book/WF-041-A.webp,homebrewery/art/images/exports/WF-041-A-
 WF-042-A,book,assets/book/WF-042-A.webp,homebrewery/art/images/exports/WF-042-A-ink-20261008-v1.webp,2602082,6467f94423649060f771ff068796d47b127b92eeb451b90eae254b55945899a4
 WF-043-A,book,assets/book/WF-043-A.webp,homebrewery/art/images/exports/WF-043-A-ink-20261008-v1.webp,2581986,efda3d37ba86d4c6ffa942de41986207a275edbcb059f875a4b83117cda57705
 WF-045-B,book,assets/book/WF-045-B.webp,homebrewery/art/images/exports/WF-045-B-frontier2-20261008-v1.webp,2165626,44983816faeba7836fab06994a481c32ead99f1ae992e680585ce30c1b108e84
+WF-048-A,book,assets/book/WF-048-A.svg,homebrewery/art/vectors/WF-048-A-book-v2.svg,10242,20a133a1bdb2fa205756a5ddfd2e6657cc357305d2fd68762e5cbd0ae120f2c0
 WF-050-A,book,assets/book/WF-050-A.webp,homebrewery/art/images/exports/WF-050-A-ink-20261008-v1.webp,2467398,005872903a04640d8821f8d3bc14770d05921c8e05ed5d807f02eab0bc24201e
+WF-051-A,book,assets/book/WF-051-A.svg,homebrewery/art/vectors/WF-051-A-book-v2.svg,1201,a60ff80173c977b793ab09df7047707f3fe94ebe29ba8b3067801b1baca5e93a
 WF-052-A,book,assets/book/WF-052-A.webp,homebrewery/art/images/exports/WF-052-A-frontier2-20261008-v1.webp,2071830,53ca8be6c9cb3d8555f73321f49809965411bcb0a4007475e0901f4946e0b6c8
 WF-053-A,book,assets/book/WF-053-A.webp,homebrewery/art/images/exports/WF-053-A-frontier2-20261008-v2.webp,1336314,b1acf5774c85e33eb1fa47bd878b814729f82e4dcfe526fa3067f853f5031552
 WF-054-A,book,assets/book/WF-054-A.svg,homebrewery/art/maps/WF-054-A-compass-v1.svg,52089,9a2230b1eb086d435179440c6fec13cdfbb1a7e44fd8532054573396b4c27c2e
@@ -51,8 +54,10 @@ WF-060-A,book,assets/book/WF-060-A.webp,homebrewery/art/images/exports/WF-060-A-
 WF-061-A,book,assets/book/WF-061-A.webp,homebrewery/art/images/exports/WF-061-A-ink-20261008-v1.webp,1621878,b4b5023d46befe73e6f1c7f44055fbcc4a22c052c4c035a0d20e7e3c4baa0fde
 WF-062-A,book,assets/book/WF-062-A.webp,homebrewery/art/images/exports/WF-062-A-v2.webp,1642638,37698bf701dfa8e5fad718a435bfad81d84bcdcef9ebce87baa70718bcecca0a
 WF-063-A,book,assets/book/WF-063-A.webp,homebrewery/art/images/exports/WF-063-A-ink-20261008-v1.webp,2618466,e671d5aff129e741c56fcf41988753354f542f06bb04dc4d8fa34d2fa35d0e1c
+WF-064-A,book,assets/book/WF-064-A.svg,homebrewery/art/vectors/WF-064-A-book-v2.svg,1084,87247daabd1ebb4f9a78fc41d0d3a4d0d6cc5acbe7f0a2ad400d0a2a72bc4f27
 WF-065-A,book,assets/book/WF-065-A.webp,homebrewery/art/images/exports/WF-065-A-frontier2-20261008-v1.webp,2398548,612207603b3dbc72c71a5b5ec8e4d9ad0ffcc7ee3ee9b22195da4768d8810a92
 WF-066-A,book,assets/book/WF-066-A.webp,homebrewery/art/images/exports/WF-066-A-frontier2-20261008-v2.webp,2055834,ebe40267bb4db1ac15eddbab66b06654fbde65e65da45ff3f359d47ca1f7e9aa
+WF-066-B,book,assets/book/WF-066-B.svg,homebrewery/art/vectors/WF-066-B-book-v2.svg,1870,00ee19c76bcfbadcd64d0ca84de7e9242bcabead5bc3a5303d028d7528189f70
 WF-067-A,book,assets/book/WF-067-A.svg,homebrewery/art/maps/WF-067-A-book-v1.svg,71266,be3b9395a0dec3dbfd02de690b8459ffa7cbbaa969a7b0c7f32eddfb0623664f
 WF-069-A,book,assets/book/WF-069-A.webp,homebrewery/art/images/exports/WF-069-A-frontier2-20261008-v1.webp,2344128,8e48270afc50de6a928192122e2e6dadfc6a933ad5398baff1d0b921f6556937
 WF-070-B,book,assets/book/WF-070-B.svg,homebrewery/art/maps/WF-070-B-book-v1.svg,72848,08065deb5508311d843c9a807cbbfa967ae04a00f6f981e6d1e0ab96bf2c50f2
@@ -62,21 +67,35 @@ WF-075-A,book,assets/book/WF-075-A.webp,homebrewery/art/images/exports/WF-075-A-
 WF-080-A,book,assets/book/WF-080-A.webp,homebrewery/art/images/exports/WF-080-A-ink-20261008-v1.webp,1840240,f3b3507c2d486d68c2084a226519a9f26e855d4e6f360e10597cff671333d72a
 WF-081-A,book,assets/book/WF-081-A.webp,homebrewery/art/images/exports/WF-081-A-frontier2-20261008-v2.webp,2059520,d2f457b2058247c5f3072fe72fdd2ae59ee0a88d88b0617fde3336253ad3ddb6
 WF-085-A,book,assets/book/WF-085-A.webp,homebrewery/art/images/exports/WF-085-A-ink-20261008-v1.webp,1972488,6399056bca587581b163dc201205d0a57b8f6d66ee5600ff541634f02676639c
+WF-086-A,book,assets/book/WF-086-A.svg,homebrewery/art/vectors/WF-086-A-choirs-line-book-v2.svg,16931,211d1f5e80ae7cf4f7964f43f079e6eb325ff38e94a353f88395d870743b5d7f
 WF-087-A,book,assets/book/WF-087-A.webp,homebrewery/art/images/exports/WF-087-A-frontier2-20261008-v1.webp,2268046,c77d9e165495a13296a20024ddf45887096b180e617c5297311d3245bbf9d68f
 WF-088-A,book,assets/book/WF-088-A.webp,homebrewery/art/images/exports/WF-088-A-ink-20261008-v1.webp,2339314,77968dc7d202a5bb510312157b8b7040fcc05146d912c4070433f326f0aab79e
 WF-089-A,book,assets/book/WF-089-A.webp,homebrewery/art/images/exports/WF-089-A-frontier2-20261008-v1.webp,2318346,dc0d67a49de868030472ab8d53debb3a36a7e506950f310480039f01ddf42852
 WF-090-A,book,assets/book/WF-090-A.webp,homebrewery/art/images/exports/WF-090-A-ink-20261008-v1.webp,1344244,8b24ced7403eea0583f30d60f14b5e0f3fd00593132d1e9a17fa6c43dfcfb76d
 WF-091-A,book,assets/book/WF-091-A.webp,homebrewery/art/images/exports/WF-091-A-ink-20261008-v1.webp,1962284,a38c2274d73f2a1908502f578b75a9744d2f846308945459dbc2a49c74e22d33
+WF-092-A,book,assets/book/WF-092-A.svg,homebrewery/art/vectors/WF-092-A-coiled-sanctum-book-v2.svg,11184,dd6e3584a8d2ccf68ff98c12e83ce97b845e9514276dbad38187e6c26655f984
 WF-093-A,book,assets/book/WF-093-A.webp,homebrewery/art/images/exports/WF-093-A-frontier2-20261008-v1.webp,1822404,40776d3660ac6ead74e54c4e5d0809b1f200d3150351cf793bc2ca99a3f37101
-WF-094-A,book,assets/book/WF-094-A.webp,homebrewery/art/images/exports/WF-094-A-frontier2-20261008-v1.webp,2180918,dc4584a4020eca224064e86fdd9c32e973cc06d9927a2fc5f25d8a5a775653df
 WF-097-A,book,assets/book/WF-097-A.webp,homebrewery/art/images/exports/WF-097-A-frontier2-20261008-v1.webp,1925850,166ef40224bf9de86364f5b998463ee78c0c12e400238f434425e4f69885c2c0
 WF-099-B,book,assets/book/WF-099-B.webp,homebrewery/art/images/exports/WF-099-B-basilica-20261008-v1.webp,2102734,25daaee18cdfa0fcb77a13ca3142bb757241359ad5a6ed185aafcfdd9edb72a5
 WF-100-A,book,assets/book/WF-100-A.webp,homebrewery/art/images/exports/WF-100-A-basilica-20261008-v1.webp,1156810,3d30c882cbccbbecd99ad8157fcb5b90c1299baec042c919d07a0c40f0dd394d
+WF-102-A,book,assets/book/WF-102-A.svg,homebrewery/art/vectors/WF-102-A-ashwatch-book-v2.svg,7453,b4df14ea434812b08a8df39c51061c42bf961fd0f88ef108f60725c2ac764b2b
 WF-107-A,book,assets/book/WF-107-A.webp,homebrewery/art/images/exports/WF-107-A-basilica-20261008-v1.webp,2395546,71ea8d8c9f21d46eff48a6b59c9ccd0b26a782ab99f86428bc490dde6f3d7705
 WF-108-A,book,assets/book/WF-108-A.webp,homebrewery/art/images/exports/WF-108-A-basilica-20261008-v1.webp,1982452,5de194328f8332d8b8b2dfab1d56711e6fc56bb50ee8d15f61886b7349d1f4d0
 WF-112-A,book,assets/book/WF-112-A.webp,homebrewery/art/images/exports/WF-112-A-basilica-20261008-v1.webp,2469762,eb3130e7eda21fdfb90626721d56fd9136dc91d59f36e5434a7cc815cc714eca
+WF-155-B,book,assets/book/WF-155-B.svg,homebrewery/art/vectors/WF-155-B-skylark-defense-book-v2.svg,11131,ccefd6e059257fb813942344fbb61ef8c085dafee62445e7bf6796b30c3f221f
+WF-160-A,book,assets/book/WF-160-A.svg,homebrewery/art/vectors/WF-160-A-book-v2.svg,1894,f95e00f2789eb19e80487dfe1f682891c76a3478d9cd551841cfed958e61da40
+WF-170-A,book,assets/book/WF-170-A.svg,homebrewery/art/vectors/WF-170-A-book-v2.svg,25444,71181f0c401f3aea93631e917dd4b5afd3b5ac5df8812e9e29a69e9e4b44c8f4
 WF-172-A,book,assets/book/WF-172-A.svg,homebrewery/art/maps/WF-172-A-selvane-gm-book-v1.svg,88527,bf40ba1a3f6fc186f80d637eeccde60b10acf86cc64664611d46429e534c679f
+WF-213-A,book,assets/book/WF-213-A.svg,homebrewery/art/vectors/WF-213-A-book-v2.svg,1873,8f518d05220eb8f6cb1ed83bd813e6d7d4fec4a37121d02f66dc54a2ea42927c
 WF-226-A,book,assets/book/WF-226-A.svg,homebrewery/art/maps/WF-226-A-letter-book-v1.svg,53349,38d03dc6cd9df4a14c96b2e2015348adbfd7e1fac53ab26ab8dd41ee91da20b1
+WF-319-A,book,assets/book/WF-319-A.svg,homebrewery/art/vectors/WF-319-A-book-v2.svg,2304,f5bdfcf97192787557c109905115e6c32f25174d0aada05f52c07f209792cd5a
+WF-352-A,book,assets/book/WF-352-A.svg,homebrewery/art/vectors/WF-352-A-book-v2.svg,2707,085889f796341597767c25b9307b3df5282f4944588efe706bafe822147a5c3a
+WF-365-B,book,assets/book/WF-365-B.svg,homebrewery/art/vectors/WF-365-B-wrenhaven-siege-book-v2.svg,56429,cef907d00a208de6e6a08dfef588bff45c91cc6c3fd1657c9836af213448efca
+WF-378-A,book,assets/book/WF-378-A.svg,homebrewery/art/vectors/WF-378-A-book-v2.svg,3788,7f52938294cf0a9349a125616c391e7ad711aa7f9285e3a086d5e317bb8c78cb
+WF-387-A,book,assets/book/WF-387-A.svg,homebrewery/art/vectors/WF-387-A-book-v2.svg,1524,f185933ba29ad61181bb6af8f51b339d70aba425cf25ac7aad2c7328fc36b811
+WF-396-B,book,assets/book/WF-396-B.svg,homebrewery/art/vectors/WF-396-B-book-v2.svg,2044,9e8538b0242d6c68dfca59cf6025ac661d2668266abf499138c8725c21c993f3
+WF-403-A,book,assets/book/WF-403-A.svg,homebrewery/art/vectors/WF-403-A-book-v2.svg,4614,c902d554ae1d0dddb9796bf32a024c0e7a518ac4f2e7524887c1cdb42472f479
+WF-404-A,book,assets/book/WF-404-A.svg,homebrewery/art/vectors/WF-404-A-book-v2.svg,987,d80d3bad4dbfed44510d2a069ff5462df827775c87ecd002da6407e9c048ba17
 WF-436-A,book,assets/book/WF-436-A.webp,homebrewery/art/images/exports/WF-436-A-ink-20261008-v1.webp,1909540,ec2b5b01a9792abe260ae7de8b3693b85584d35fb8e2a4f6d5550348c40c6d4f
 WF-437-A,book,assets/book/WF-437-A.webp,homebrewery/art/images/exports/WF-437-A-ink-20261008-v1.webp,1575086,aa5c5efccdcedb3a256e89d41d7b1ab7e8234b03d358ed6a7260e1cd1b940497
 WF-438-A,book,assets/book/WF-438-A.webp,homebrewery/art/images/exports/WF-438-A-ink-20261008-v2.webp,1599098,c813f60a04524e84a74940b245b26c90aab8ea5a649bed5f39a788de8f2480a9
@@ -155,6 +174,78 @@ WF-172-A,player-exploration-detail vector,assets/maps/WF-172-A-player-detail-wre
 WF-172-A,player-exploration-detail PNG,assets/maps/png/WF-172-A-player-detail-wrenhaven-ashwatch-v1.png,homebrewery/art/maps/exports/WF-172-A-player-detail-wrenhaven-ashwatch-v1.png,4215286,bec52de8119f2f6fb95421a4c3cc0d9d657119daa86daba932301e04d154ab16
 WF-172-A,player-exploration-detail vector,assets/maps/WF-172-A-player-detail-western-dunes-v1.svg,homebrewery/art/maps/WF-172-A-player-detail-western-dunes-v1.svg,72945,05c9b4cc2dcc6bda35ee64f72b5ced7b0699a0d05f33aac10bc182edc62662f2
 WF-172-A,player-exploration-detail PNG,assets/maps/png/WF-172-A-player-detail-western-dunes-v1.png,homebrewery/art/maps/exports/WF-172-A-player-detail-western-dunes-v1.png,5367901,8aa91f15609267dc6ef0b28a75696393835dc537a0bf1d46e428365c0dd74571
+WF-020-B,book vector,assets/vectors/WF-020-B-book-v2.svg,homebrewery/art/vectors/WF-020-B-book-v2.svg,1832,6f03a285f3fca8f46258c4f691c2b709b832306e573754628802e1bc16c7a7ca
+WF-020-B,book PNG,assets/vectors/png/WF-020-B-book-v2.png,homebrewery/art/vectors/exports/WF-020-B-book-v2.png,73213,0895f3eac64fcdecd1e572cc14fc8c82398d58b5d922e43c1d12228b8eee72c9
+WF-048-A,book vector,assets/vectors/WF-048-A-book-v2.svg,homebrewery/art/vectors/WF-048-A-book-v2.svg,10242,20a133a1bdb2fa205756a5ddfd2e6657cc357305d2fd68762e5cbd0ae120f2c0
+WF-048-A,book PNG,assets/vectors/png/WF-048-A-book-v2.png,homebrewery/art/vectors/exports/WF-048-A-book-v2.png,320852,0d5d34e1828a14a7f223c28e20549e820cf66b0708d421a02571cc333c083e64
+WF-051-A,book vector,assets/vectors/WF-051-A-book-v2.svg,homebrewery/art/vectors/WF-051-A-book-v2.svg,1201,a60ff80173c977b793ab09df7047707f3fe94ebe29ba8b3067801b1baca5e93a
+WF-051-A,book PNG,assets/vectors/png/WF-051-A-book-v2.png,homebrewery/art/vectors/exports/WF-051-A-book-v2.png,124102,24017cd5ca654860a4773b85559ff34755640ac5f3ceed0d377eaf9e383a0171
+WF-064-A,book vector,assets/vectors/WF-064-A-book-v2.svg,homebrewery/art/vectors/WF-064-A-book-v2.svg,1084,87247daabd1ebb4f9a78fc41d0d3a4d0d6cc5acbe7f0a2ad400d0a2a72bc4f27
+WF-064-A,book PNG,assets/vectors/png/WF-064-A-book-v2.png,homebrewery/art/vectors/exports/WF-064-A-book-v2.png,106268,d52d34754db8cd50f45f9d0da0d75d4b951aec8156bf545eb5d9dd82be22819d
+WF-066-B,book vector,assets/vectors/WF-066-B-book-v2.svg,homebrewery/art/vectors/WF-066-B-book-v2.svg,1870,00ee19c76bcfbadcd64d0ca84de7e9242bcabead5bc3a5303d028d7528189f70
+WF-066-B,book PNG,assets/vectors/png/WF-066-B-book-v2.png,homebrewery/art/vectors/exports/WF-066-B-book-v2.png,160314,549efb4840ccc499616670e0637266587462b06e3692fda7e658e6a99ab4570a
+WF-160-A,book vector,assets/vectors/WF-160-A-book-v2.svg,homebrewery/art/vectors/WF-160-A-book-v2.svg,1894,f95e00f2789eb19e80487dfe1f682891c76a3478d9cd551841cfed958e61da40
+WF-160-A,book PNG,assets/vectors/png/WF-160-A-book-v2.png,homebrewery/art/vectors/exports/WF-160-A-book-v2.png,134511,368709cdd4703d7b0364988e04806149208acfe0bae34fa5d69cb23a67323d7f
+WF-396-B,book vector,assets/vectors/WF-396-B-book-v2.svg,homebrewery/art/vectors/WF-396-B-book-v2.svg,2044,9e8538b0242d6c68dfca59cf6025ac661d2668266abf499138c8725c21c993f3
+WF-396-B,book PNG,assets/vectors/png/WF-396-B-book-v2.png,homebrewery/art/vectors/exports/WF-396-B-book-v2.png,212481,c3cfcf1b3f8d82fe857201b62e966695c2c6c8010a9151c984e6a7650ad8a129
+WF-213-A,book vector,assets/vectors/WF-213-A-book-v2.svg,homebrewery/art/vectors/WF-213-A-book-v2.svg,1873,8f518d05220eb8f6cb1ed83bd813e6d7d4fec4a37121d02f66dc54a2ea42927c
+WF-213-A,book PNG,assets/vectors/png/WF-213-A-book-v2.png,homebrewery/art/vectors/exports/WF-213-A-book-v2.png,199565,26e3b74abca2346b0f0a045b436c81a64fc4ccf73a61ccb2e3b7232cbb548609
+WF-387-A,book vector,assets/vectors/WF-387-A-book-v2.svg,homebrewery/art/vectors/WF-387-A-book-v2.svg,1524,f185933ba29ad61181bb6af8f51b339d70aba425cf25ac7aad2c7328fc36b811
+WF-387-A,book PNG,assets/vectors/png/WF-387-A-book-v2.png,homebrewery/art/vectors/exports/WF-387-A-book-v2.png,97345,f5e85f29d398cf86307840377167b761465538b1e7f5ae60e00c000fee23388c
+WF-404-A,book vector,assets/vectors/WF-404-A-book-v2.svg,homebrewery/art/vectors/WF-404-A-book-v2.svg,987,d80d3bad4dbfed44510d2a069ff5462df827775c87ecd002da6407e9c048ba17
+WF-404-A,book PNG,assets/vectors/png/WF-404-A-book-v2.png,homebrewery/art/vectors/exports/WF-404-A-book-v2.png,97075,1e9a61f0da29b3e43c8fca84a26d176379f65af65bd8b4df9a1029382d1277c4
+WF-170-A,book vector,assets/vectors/WF-170-A-book-v2.svg,homebrewery/art/vectors/WF-170-A-book-v2.svg,25444,71181f0c401f3aea93631e917dd4b5afd3b5ac5df8812e9e29a69e9e4b44c8f4
+WF-170-A,book PNG,assets/vectors/png/WF-170-A-book-v2.png,homebrewery/art/vectors/exports/WF-170-A-book-v2.png,498070,26fb4524562853084a808b1111a00fbcb9512992b37fead788389254ef6bf9bf
+WF-319-A,book vector,assets/vectors/WF-319-A-book-v2.svg,homebrewery/art/vectors/WF-319-A-book-v2.svg,2304,f5bdfcf97192787557c109905115e6c32f25174d0aada05f52c07f209792cd5a
+WF-319-A,book PNG,assets/vectors/png/WF-319-A-book-v2.png,homebrewery/art/vectors/exports/WF-319-A-book-v2.png,341019,6cc04ddcf564f5fb391c2f8134bdd4bc384c8b50bca6bf5ecddecb984f75e27e
+WF-403-A,book vector,assets/vectors/WF-403-A-book-v2.svg,homebrewery/art/vectors/WF-403-A-book-v2.svg,4614,c902d554ae1d0dddb9796bf32a024c0e7a518ac4f2e7524887c1cdb42472f479
+WF-403-A,book PNG,assets/vectors/png/WF-403-A-book-v2.png,homebrewery/art/vectors/exports/WF-403-A-book-v2.png,529233,e46b98936f2e6d68d0fab6de46baf2d0da486b320a9c5ee6d46eefcfb81d5d28
+WF-352-A,book vector,assets/vectors/WF-352-A-book-v2.svg,homebrewery/art/vectors/WF-352-A-book-v2.svg,2707,085889f796341597767c25b9307b3df5282f4944588efe706bafe822147a5c3a
+WF-352-A,book PNG,assets/vectors/png/WF-352-A-book-v2.png,homebrewery/art/vectors/exports/WF-352-A-book-v2.png,117469,4328b7177a1afae432ed08ed5ecfa5c2526bbfe718f3069485f5629a30ce37ca
+WF-378-A,book vector,assets/vectors/WF-378-A-book-v2.svg,homebrewery/art/vectors/WF-378-A-book-v2.svg,3788,7f52938294cf0a9349a125616c391e7ad711aa7f9285e3a086d5e317bb8c78cb
+WF-378-A,book PNG,assets/vectors/png/WF-378-A-book-v2.png,homebrewery/art/vectors/exports/WF-378-A-book-v2.png,388112,e295052a3d13106e3ec4fc39d28bfe57be7f2f81f5a723311fd6093fa5a6ab19
+WF-086-A,gm-grid vector,assets/vectors/WF-086-A-choirs-line-deck-gm-grid-v2.svg,homebrewery/art/vectors/WF-086-A-choirs-line-deck-gm-grid-v2.svg,7505,31231a153db53e4564e881d7987c40663106e8a0480d2683f42ea31819ebfbd6
+WF-086-A,gm-grid PNG,assets/vectors/png/WF-086-A-choirs-line-deck-gm-grid-v2.png,homebrewery/art/vectors/exports/WF-086-A-choirs-line-deck-gm-grid-v2.png,215463,803966c5e33407f1171028b0830811f2c3d9726829ed0b09ddb53833debd2578
+WF-086-A,player-grid vector,assets/vectors/WF-086-A-choirs-line-deck-player-grid-v2.svg,homebrewery/art/vectors/WF-086-A-choirs-line-deck-player-grid-v2.svg,6974,1778c3aaa88371ee0ae69aa75432e07f5c73b932bffa7f4b6530d7246e5d5e8b
+WF-086-A,player-grid PNG,assets/vectors/png/WF-086-A-choirs-line-deck-player-grid-v2.png,homebrewery/art/vectors/exports/WF-086-A-choirs-line-deck-player-grid-v2.png,199940,30cee7b4545d73712bc6fa3a5ad1387ac2ae336e1ae25cadc0ff9f000a6b3f1d
+WF-086-A,player-clear vector,assets/vectors/WF-086-A-choirs-line-deck-player-clear-v2.svg,homebrewery/art/vectors/WF-086-A-choirs-line-deck-player-clear-v2.svg,6696,ee035fc5a29eee22d7f8ee2dd48bfef04666a0b0406c896d905ef2005ae907e1
+WF-086-A,player-clear PNG,assets/vectors/png/WF-086-A-choirs-line-deck-player-clear-v2.png,homebrewery/art/vectors/exports/WF-086-A-choirs-line-deck-player-clear-v2.png,179248,45630d964f0e983c634c7b7a3814382a24cc02929ec222b4e1ac910530781515
+WF-086-A,grid-overlay vector,assets/vectors/WF-086-A-choirs-line-deck-grid-overlay-v2.svg,homebrewery/art/vectors/WF-086-A-choirs-line-deck-grid-overlay-v2.svg,758,44a008dcf29757f7099c21be6d5107545bd37138f5f2f6fa817d3f6d040281e6
+WF-086-A,grid-overlay PNG,assets/vectors/png/WF-086-A-choirs-line-deck-grid-overlay-v2.png,homebrewery/art/vectors/exports/WF-086-A-choirs-line-deck-grid-overlay-v2.png,39303,b317466d362d4af6e5b3cc93d358ff73ceccbdb74dff78daf653f0485ff4dd76
+WF-086-A,gm-grid vector,assets/vectors/WF-086-A-choirs-line-hold-gm-grid-v2.svg,homebrewery/art/vectors/WF-086-A-choirs-line-hold-gm-grid-v2.svg,8825,99960595a231e2a833d6cddd14fa923a86c595fc91aee7c568fd953a9f66ead0
+WF-086-A,gm-grid PNG,assets/vectors/png/WF-086-A-choirs-line-hold-gm-grid-v2.png,homebrewery/art/vectors/exports/WF-086-A-choirs-line-hold-gm-grid-v2.png,253908,c83bd83edcb9945fe20dcc6785929d5b005fdb1d1aff23fa014e4e32985a01a2
+WF-086-A,player-grid vector,assets/vectors/WF-086-A-choirs-line-hold-player-grid-v2.svg,homebrewery/art/vectors/WF-086-A-choirs-line-hold-player-grid-v2.svg,7233,b237edc9bb5c9362fe2a7ca8dd4f7885d71949cc108eb92b685d5ece4f8a8403
+WF-086-A,player-grid PNG,assets/vectors/png/WF-086-A-choirs-line-hold-player-grid-v2.png,homebrewery/art/vectors/exports/WF-086-A-choirs-line-hold-player-grid-v2.png,213977,b00f925d3b4e5b1eb04026071a4f1bb5468363de8746de8ce15caa4b4f39a5ce
+WF-086-A,player-clear vector,assets/vectors/WF-086-A-choirs-line-hold-player-clear-v2.svg,homebrewery/art/vectors/WF-086-A-choirs-line-hold-player-clear-v2.svg,6955,7899332a44a0ae29368fb45d3aa1ae6fe647d8e7166a39d0d57d664da5c4c252
+WF-086-A,player-clear PNG,assets/vectors/png/WF-086-A-choirs-line-hold-player-clear-v2.png,homebrewery/art/vectors/exports/WF-086-A-choirs-line-hold-player-clear-v2.png,191777,3d96aafa74fcae83a6ab9d40a577a038d8bcfb2c0252db04d56baea0e479d145
+WF-086-A,grid-overlay vector,assets/vectors/WF-086-A-choirs-line-hold-grid-overlay-v2.svg,homebrewery/art/vectors/WF-086-A-choirs-line-hold-grid-overlay-v2.svg,758,cfbfdbfb8d793fc950e09bbdb742fa5270b5c36e8fb630cc9d7f09510fc06af1
+WF-086-A,grid-overlay PNG,assets/vectors/png/WF-086-A-choirs-line-hold-grid-overlay-v2.png,homebrewery/art/vectors/exports/WF-086-A-choirs-line-hold-grid-overlay-v2.png,39303,b317466d362d4af6e5b3cc93d358ff73ceccbdb74dff78daf653f0485ff4dd76
+WF-086-A,book vector,assets/vectors/WF-086-A-choirs-line-book-v2.svg,homebrewery/art/vectors/WF-086-A-choirs-line-book-v2.svg,16931,211d1f5e80ae7cf4f7964f43f079e6eb325ff38e94a353f88395d870743b5d7f
+WF-086-A,book PNG,assets/vectors/png/WF-086-A-choirs-line-book-v2.png,homebrewery/art/vectors/exports/WF-086-A-choirs-line-book-v2.png,509151,7c8c61c5e8206525502b7e96e146d5160eba4538b054892e46d1ab038a58cac4
+WF-092-A,gm-plan vector,assets/vectors/WF-092-A-coiled-sanctum-gm-plan-v2.svg,homebrewery/art/vectors/WF-092-A-coiled-sanctum-gm-plan-v2.svg,9776,dab6fd05ff879db9163c4a93bf599c9150021d3d6f3ebf3ba629e5d2f8dc2f9f
+WF-092-A,gm-plan PNG,assets/vectors/png/WF-092-A-coiled-sanctum-gm-plan-v2.png,homebrewery/art/vectors/exports/WF-092-A-coiled-sanctum-gm-plan-v2.png,293817,98cce875290988eeaf67eed297ad5307e701206d9cb71cac2013167316d46b0a
+WF-092-A,player-plan vector,assets/vectors/WF-092-A-coiled-sanctum-player-plan-v2.svg,homebrewery/art/vectors/WF-092-A-coiled-sanctum-player-plan-v2.svg,6533,49a74a8dc773528a015d12abd81d20ff85037b7f6c7519a92a502250345c73c0
+WF-092-A,player-plan PNG,assets/vectors/png/WF-092-A-coiled-sanctum-player-plan-v2.png,homebrewery/art/vectors/exports/WF-092-A-coiled-sanctum-player-plan-v2.png,161182,6bad08661eb7fb765b24e37f8e1fd2a726df6c2e40eb0f955ff774d091a5f292
+WF-092-A,book vector,assets/vectors/WF-092-A-coiled-sanctum-book-v2.svg,homebrewery/art/vectors/WF-092-A-coiled-sanctum-book-v2.svg,11184,dd6e3584a8d2ccf68ff98c12e83ce97b845e9514276dbad38187e6c26655f984
+WF-092-A,book PNG,assets/vectors/png/WF-092-A-coiled-sanctum-book-v2.png,homebrewery/art/vectors/exports/WF-092-A-coiled-sanctum-book-v2.png,584118,c3a59da83701c958aba63e8847a3d11f93d34d8adbf1f781cc7a368c0b039c6d
+WF-102-A,book vector,assets/vectors/WF-102-A-ashwatch-book-v2.svg,homebrewery/art/vectors/WF-102-A-ashwatch-book-v2.svg,7453,b4df14ea434812b08a8df39c51061c42bf961fd0f88ef108f60725c2ac764b2b
+WF-102-A,book PNG,assets/vectors/png/WF-102-A-ashwatch-book-v2.png,homebrewery/art/vectors/exports/WF-102-A-ashwatch-book-v2.png,788210,9a7d96b9d8990db7398d13cfe2fd1bfea6f8425e8628ecf95781f9d2ecb4479b
+WF-102-A,player-plan vector,assets/vectors/WF-102-A-ashwatch-player-v2.svg,homebrewery/art/vectors/WF-102-A-ashwatch-player-v2.svg,7447,c79dba0c7c3c2be9a45bda1859e6adcf781c89f04872067bacd0c39ed276d366
+WF-102-A,player-plan PNG,assets/vectors/png/WF-102-A-ashwatch-player-v2.png,homebrewery/art/vectors/exports/WF-102-A-ashwatch-player-v2.png,788210,9a7d96b9d8990db7398d13cfe2fd1bfea6f8425e8628ecf95781f9d2ecb4479b
+WF-155-B,gm-grid vector,assets/vectors/WF-155-B-skylark-defense-gm-grid-v2.svg,homebrewery/art/vectors/WF-155-B-skylark-defense-gm-grid-v2.svg,10240,3ab488d02daa34c6a9c3174a0ef9d5db0de9ea608ef0a638f520290d92667e54
+WF-155-B,gm-grid PNG,assets/vectors/png/WF-155-B-skylark-defense-gm-grid-v2.png,homebrewery/art/vectors/exports/WF-155-B-skylark-defense-gm-grid-v2.png,349071,4600dd51950c08eeab11a7b3d31fdd3d852514acc83f0c3ee7a78e3e1d622de4
+WF-155-B,player-grid vector,assets/vectors/WF-155-B-skylark-defense-player-grid-v2.svg,homebrewery/art/vectors/WF-155-B-skylark-defense-player-grid-v2.svg,4045,8ace0c3786b0849c192d0ee6a1d374308e1e06e25f86255a639e2e361f8383ce
+WF-155-B,player-grid PNG,assets/vectors/png/WF-155-B-skylark-defense-player-grid-v2.png,homebrewery/art/vectors/exports/WF-155-B-skylark-defense-player-grid-v2.png,198996,bd2c4dd25266758972d3ba0effc90a4b3de54933651ac3a06207d21a936f2724
+WF-155-B,player-clear vector,assets/vectors/WF-155-B-skylark-defense-player-clear-v2.svg,homebrewery/art/vectors/WF-155-B-skylark-defense-player-clear-v2.svg,3768,6ce43347af2525f308bc91e5cbee9a8be104e708c8034969f94aeb6076fa766c
+WF-155-B,player-clear PNG,assets/vectors/png/WF-155-B-skylark-defense-player-clear-v2.png,homebrewery/art/vectors/exports/WF-155-B-skylark-defense-player-clear-v2.png,187000,d8d4631191511ac4e6f495d464a99fc6bd2062c06b30315eb2f36b380a226d93
+WF-155-B,grid-overlay vector,assets/vectors/WF-155-B-skylark-defense-grid-overlay-v2.svg,homebrewery/art/vectors/WF-155-B-skylark-defense-grid-overlay-v2.svg,771,40edf5d97dd9a3653c8e96ac548cf1f5c3227745b33bece0847756bf3b6b77f1
+WF-155-B,grid-overlay PNG,assets/vectors/png/WF-155-B-skylark-defense-grid-overlay-v2.png,homebrewery/art/vectors/exports/WF-155-B-skylark-defense-grid-overlay-v2.png,39303,b317466d362d4af6e5b3cc93d358ff73ceccbdb74dff78daf653f0485ff4dd76
+WF-155-B,book vector,assets/vectors/WF-155-B-skylark-defense-book-v2.svg,homebrewery/art/vectors/WF-155-B-skylark-defense-book-v2.svg,11131,ccefd6e059257fb813942344fbb61ef8c085dafee62445e7bf6796b30c3f221f
+WF-155-B,book PNG,assets/vectors/png/WF-155-B-skylark-defense-book-v2.png,homebrewery/art/vectors/exports/WF-155-B-skylark-defense-book-v2.png,588192,cbf3981c75bcda2235925d2f6bff0a8731027665471bf9b537cabd2dda47b3db
+WF-365-B,book vector,assets/vectors/WF-365-B-wrenhaven-siege-book-v2.svg,homebrewery/art/vectors/WF-365-B-wrenhaven-siege-book-v2.svg,56429,cef907d00a208de6e6a08dfef588bff45c91cc6c3fd1657c9836af213448efca
+WF-365-B,book PNG,assets/vectors/png/WF-365-B-wrenhaven-siege-book-v2.png,homebrewery/art/vectors/exports/WF-365-B-wrenhaven-siege-book-v2.png,947102,58a0d5666be3672df2e7c87cd86860e67254e960352e2a31eeb9b341c303b265
+WF-365-B,player-planning vector,assets/vectors/WF-365-B-wrenhaven-siege-planning-v2.svg,homebrewery/art/vectors/WF-365-B-wrenhaven-siege-planning-v2.svg,55888,bc066b141a9affda60ac73cb1ce9b0614e9afd89c1d4aebff62057545b965e4e
+WF-365-B,player-planning PNG,assets/vectors/png/WF-365-B-wrenhaven-siege-planning-v2.png,homebrewery/art/vectors/exports/WF-365-B-wrenhaven-siege-planning-v2.png,921697,80b8b758ebcaa85548765ad58075f6127ffb9c84843ee0a6bc8f7bf1e57e20aa
 imageMaskCenter6,watercolor mask,assets/masks/center-0006.webp,homebrewery/art/masks/center-0006.webp,69654,318d435b513df1ed9ab527d56bcb98f979173127c131bcfa1a9abd7a210ab93c
 imageMaskCorner19,watercolor mask,assets/masks/corner-0019.webp,homebrewery/art/masks/corner-0019.webp,160236,47050ea728e8f57451e4c9e05a15d051171501da73619b5fb0ae5baf3a51df5d
 imageMaskCorner23,watercolor mask,assets/masks/corner-0023.webp,homebrewery/art/masks/corner-0023.webp,158198,b30b5ef6ae9277dc92ab1098ec281adc12ed7382b67d973674632273bd0f5fc4

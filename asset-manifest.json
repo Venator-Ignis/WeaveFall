@@ -132,6 +132,14 @@
       "sha256": "4d0f3c3ddab33b439c424692bcee5bcdd516b54e733ae1b07c371285a7292048"
     },
     {
+      "id": "WF-020-B",
+      "role": "book",
+      "path": "assets/book/WF-020-B.svg",
+      "source": "homebrewery/art/vectors/WF-020-B-book-v2.svg",
+      "bytes": 1832,
+      "sha256": "6f03a285f3fca8f46258c4f691c2b709b832306e573754628802e1bc16c7a7ca"
+    },
+    {
       "id": "WF-021-A",
       "role": "book",
       "path": "assets/book/WF-021-A.webp",
@@ -316,12 +324,28 @@
       "sha256": "44983816faeba7836fab06994a481c32ead99f1ae992e680585ce30c1b108e84"
     },
     {
+      "id": "WF-048-A",
+      "role": "book",
+      "path": "assets/book/WF-048-A.svg",
+      "source": "homebrewery/art/vectors/WF-048-A-book-v2.svg",
+      "bytes": 10242,
+      "sha256": "20a133a1bdb2fa205756a5ddfd2e6657cc357305d2fd68762e5cbd0ae120f2c0"
+    },
+    {
       "id": "WF-050-A",
       "role": "book",
       "path": "assets/book/WF-050-A.webp",
       "source": "homebrewery/art/images/exports/WF-050-A-ink-20261008-v1.webp",
       "bytes": 2467398,
       "sha256": "005872903a04640d8821f8d3bc14770d05921c8e05ed5d807f02eab0bc24201e"
+    },
+    {
+      "id": "WF-051-A",
+      "role": "book",
+      "path": "assets/book/WF-051-A.svg",
+      "source": "homebrewery/art/vectors/WF-051-A-book-v2.svg",
+      "bytes": 1201,
+      "sha256": "a60ff80173c977b793ab09df7047707f3fe94ebe29ba8b3067801b1baca5e93a"
     },
     {
       "id": "WF-052-A",
@@ -420,6 +444,14 @@
       "sha256": "e671d5aff129e741c56fcf41988753354f542f06bb04dc4d8fa34d2fa35d0e1c"
     },
     {
+      "id": "WF-064-A",
+      "role": "book",
+      "path": "assets/book/WF-064-A.svg",
+      "source": "homebrewery/art/vectors/WF-064-A-book-v2.svg",
+      "bytes": 1084,
+      "sha256": "87247daabd1ebb4f9a78fc41d0d3a4d0d6cc5acbe7f0a2ad400d0a2a72bc4f27"
+    },
+    {
       "id": "WF-065-A",
       "role": "book",
       "path": "assets/book/WF-065-A.webp",
@@ -434,6 +466,14 @@
       "source": "homebrewery/art/images/exports/WF-066-A-frontier2-20261008-v2.webp",
       "bytes": 2055834,
       "sha256": "ebe40267bb4db1ac15eddbab66b06654fbde65e65da45ff3f359d47ca1f7e9aa"
+    },
+    {
+      "id": "WF-066-B",
+      "role": "book",
+      "path": "assets/book/WF-066-B.svg",
+      "source": "homebrewery/art/vectors/WF-066-B-book-v2.svg",
+      "bytes": 1870,
+      "sha256": "00ee19c76bcfbadcd64d0ca84de7e9242bcabead5bc3a5303d028d7528189f70"
     },
     {
       "id": "WF-067-A",
@@ -508,6 +548,14 @@
       "sha256": "6399056bca587581b163dc201205d0a57b8f6d66ee5600ff541634f02676639c"
     },
     {
+      "id": "WF-086-A",
+      "role": "book",
+      "path": "assets/book/WF-086-A.svg",
+      "source": "homebrewery/art/vectors/WF-086-A-choirs-line-book-v2.svg",
+      "bytes": 16931,
+      "sha256": "211d1f5e80ae7cf4f7964f43f079e6eb325ff38e94a353f88395d870743b5d7f"
+    },
+    {
       "id": "WF-087-A",
       "role": "book",
       "path": "assets/book/WF-087-A.webp",
@@ -548,20 +596,20 @@
       "sha256": "a38c2274d73f2a1908502f578b75a9744d2f846308945459dbc2a49c74e22d33"
     },
     {
+      "id": "WF-092-A",
+      "role": "book",
+      "path": "assets/book/WF-092-A.svg",
+      "source": "homebrewery/art/vectors/WF-092-A-coiled-sanctum-book-v2.svg",
+      "bytes": 11184,
+      "sha256": "dd6e3584a8d2ccf68ff98c12e83ce97b845e9514276dbad38187e6c26655f984"
+    },
+    {
       "id": "WF-093-A",
       "role": "book",
       "path": "assets/book/WF-093-A.webp",
       "source": "homebrewery/art/images/exports/WF-093-A-frontier2-20261008-v1.webp",
       "bytes": 1822404,
       "sha256": "40776d3660ac6ead74e54c4e5d0809b1f200d3150351cf793bc2ca99a3f37101"
-    },
-    {
-      "id": "WF-094-A",
-      "role": "book",
-      "path": "assets/book/WF-094-A.webp",
-      "source": "homebrewery/art/images/exports/WF-094-A-frontier2-20261008-v1.webp",
-      "bytes": 2180918,
-      "sha256": "dc4584a4020eca224064e86fdd9c32e973cc06d9927a2fc5f25d8a5a775653df"
     },
     {
       "id": "WF-097-A",
@@ -588,6 +636,14 @@
       "sha256": "3d30c882cbccbbecd99ad8157fcb5b90c1299baec042c919d07a0c40f0dd394d"
     },
     {
+      "id": "WF-102-A",
+      "role": "book",
+      "path": "assets/book/WF-102-A.svg",
+      "source": "homebrewery/art/vectors/WF-102-A-ashwatch-book-v2.svg",
+      "bytes": 7453,
+      "sha256": "b4df14ea434812b08a8df39c51061c42bf961fd0f88ef108f60725c2ac764b2b"
+    },
+    {
       "id": "WF-107-A",
       "role": "book",
       "path": "assets/book/WF-107-A.webp",
@@ -612,6 +668,30 @@
       "sha256": "eb3130e7eda21fdfb90626721d56fd9136dc91d59f36e5434a7cc815cc714eca"
     },
     {
+      "id": "WF-155-B",
+      "role": "book",
+      "path": "assets/book/WF-155-B.svg",
+      "source": "homebrewery/art/vectors/WF-155-B-skylark-defense-book-v2.svg",
+      "bytes": 11131,
+      "sha256": "ccefd6e059257fb813942344fbb61ef8c085dafee62445e7bf6796b30c3f221f"
+    },
+    {
+      "id": "WF-160-A",
+      "role": "book",
+      "path": "assets/book/WF-160-A.svg",
+      "source": "homebrewery/art/vectors/WF-160-A-book-v2.svg",
+      "bytes": 1894,
+      "sha256": "f95e00f2789eb19e80487dfe1f682891c76a3478d9cd551841cfed958e61da40"
+    },
+    {
+      "id": "WF-170-A",
+      "role": "book",
+      "path": "assets/book/WF-170-A.svg",
+      "source": "homebrewery/art/vectors/WF-170-A-book-v2.svg",
+      "bytes": 25444,
+      "sha256": "71181f0c401f3aea93631e917dd4b5afd3b5ac5df8812e9e29a69e9e4b44c8f4"
+    },
+    {
       "id": "WF-172-A",
       "role": "book",
       "path": "assets/book/WF-172-A.svg",
@@ -620,12 +700,84 @@
       "sha256": "bf40ba1a3f6fc186f80d637eeccde60b10acf86cc64664611d46429e534c679f"
     },
     {
+      "id": "WF-213-A",
+      "role": "book",
+      "path": "assets/book/WF-213-A.svg",
+      "source": "homebrewery/art/vectors/WF-213-A-book-v2.svg",
+      "bytes": 1873,
+      "sha256": "8f518d05220eb8f6cb1ed83bd813e6d7d4fec4a37121d02f66dc54a2ea42927c"
+    },
+    {
       "id": "WF-226-A",
       "role": "book",
       "path": "assets/book/WF-226-A.svg",
       "source": "homebrewery/art/maps/WF-226-A-letter-book-v1.svg",
       "bytes": 53349,
       "sha256": "38d03dc6cd9df4a14c96b2e2015348adbfd7e1fac53ab26ab8dd41ee91da20b1"
+    },
+    {
+      "id": "WF-319-A",
+      "role": "book",
+      "path": "assets/book/WF-319-A.svg",
+      "source": "homebrewery/art/vectors/WF-319-A-book-v2.svg",
+      "bytes": 2304,
+      "sha256": "f5bdfcf97192787557c109905115e6c32f25174d0aada05f52c07f209792cd5a"
+    },
+    {
+      "id": "WF-352-A",
+      "role": "book",
+      "path": "assets/book/WF-352-A.svg",
+      "source": "homebrewery/art/vectors/WF-352-A-book-v2.svg",
+      "bytes": 2707,
+      "sha256": "085889f796341597767c25b9307b3df5282f4944588efe706bafe822147a5c3a"
+    },
+    {
+      "id": "WF-365-B",
+      "role": "book",
+      "path": "assets/book/WF-365-B.svg",
+      "source": "homebrewery/art/vectors/WF-365-B-wrenhaven-siege-book-v2.svg",
+      "bytes": 56429,
+      "sha256": "cef907d00a208de6e6a08dfef588bff45c91cc6c3fd1657c9836af213448efca"
+    },
+    {
+      "id": "WF-378-A",
+      "role": "book",
+      "path": "assets/book/WF-378-A.svg",
+      "source": "homebrewery/art/vectors/WF-378-A-book-v2.svg",
+      "bytes": 3788,
+      "sha256": "7f52938294cf0a9349a125616c391e7ad711aa7f9285e3a086d5e317bb8c78cb"
+    },
+    {
+      "id": "WF-387-A",
+      "role": "book",
+      "path": "assets/book/WF-387-A.svg",
+      "source": "homebrewery/art/vectors/WF-387-A-book-v2.svg",
+      "bytes": 1524,
+      "sha256": "f185933ba29ad61181bb6af8f51b339d70aba425cf25ac7aad2c7328fc36b811"
+    },
+    {
+      "id": "WF-396-B",
+      "role": "book",
+      "path": "assets/book/WF-396-B.svg",
+      "source": "homebrewery/art/vectors/WF-396-B-book-v2.svg",
+      "bytes": 2044,
+      "sha256": "9e8538b0242d6c68dfca59cf6025ac661d2668266abf499138c8725c21c993f3"
+    },
+    {
+      "id": "WF-403-A",
+      "role": "book",
+      "path": "assets/book/WF-403-A.svg",
+      "source": "homebrewery/art/vectors/WF-403-A-book-v2.svg",
+      "bytes": 4614,
+      "sha256": "c902d554ae1d0dddb9796bf32a024c0e7a518ac4f2e7524887c1cdb42472f479"
+    },
+    {
+      "id": "WF-404-A",
+      "role": "book",
+      "path": "assets/book/WF-404-A.svg",
+      "source": "homebrewery/art/vectors/WF-404-A-book-v2.svg",
+      "bytes": 987,
+      "sha256": "d80d3bad4dbfed44510d2a069ff5462df827775c87ecd002da6407e9c048ba17"
     },
     {
       "id": "WF-436-A",
@@ -1252,6 +1404,582 @@
       "sha256": "8aa91f15609267dc6ef0b28a75696393835dc537a0bf1d46e428365c0dd74571"
     },
     {
+      "id": "WF-020-B",
+      "role": "book vector",
+      "path": "assets/vectors/WF-020-B-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-020-B-book-v2.svg",
+      "bytes": 1832,
+      "sha256": "6f03a285f3fca8f46258c4f691c2b709b832306e573754628802e1bc16c7a7ca"
+    },
+    {
+      "id": "WF-020-B",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-020-B-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-020-B-book-v2.png",
+      "bytes": 73213,
+      "sha256": "0895f3eac64fcdecd1e572cc14fc8c82398d58b5d922e43c1d12228b8eee72c9"
+    },
+    {
+      "id": "WF-048-A",
+      "role": "book vector",
+      "path": "assets/vectors/WF-048-A-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-048-A-book-v2.svg",
+      "bytes": 10242,
+      "sha256": "20a133a1bdb2fa205756a5ddfd2e6657cc357305d2fd68762e5cbd0ae120f2c0"
+    },
+    {
+      "id": "WF-048-A",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-048-A-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-048-A-book-v2.png",
+      "bytes": 320852,
+      "sha256": "0d5d34e1828a14a7f223c28e20549e820cf66b0708d421a02571cc333c083e64"
+    },
+    {
+      "id": "WF-051-A",
+      "role": "book vector",
+      "path": "assets/vectors/WF-051-A-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-051-A-book-v2.svg",
+      "bytes": 1201,
+      "sha256": "a60ff80173c977b793ab09df7047707f3fe94ebe29ba8b3067801b1baca5e93a"
+    },
+    {
+      "id": "WF-051-A",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-051-A-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-051-A-book-v2.png",
+      "bytes": 124102,
+      "sha256": "24017cd5ca654860a4773b85559ff34755640ac5f3ceed0d377eaf9e383a0171"
+    },
+    {
+      "id": "WF-064-A",
+      "role": "book vector",
+      "path": "assets/vectors/WF-064-A-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-064-A-book-v2.svg",
+      "bytes": 1084,
+      "sha256": "87247daabd1ebb4f9a78fc41d0d3a4d0d6cc5acbe7f0a2ad400d0a2a72bc4f27"
+    },
+    {
+      "id": "WF-064-A",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-064-A-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-064-A-book-v2.png",
+      "bytes": 106268,
+      "sha256": "d52d34754db8cd50f45f9d0da0d75d4b951aec8156bf545eb5d9dd82be22819d"
+    },
+    {
+      "id": "WF-066-B",
+      "role": "book vector",
+      "path": "assets/vectors/WF-066-B-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-066-B-book-v2.svg",
+      "bytes": 1870,
+      "sha256": "00ee19c76bcfbadcd64d0ca84de7e9242bcabead5bc3a5303d028d7528189f70"
+    },
+    {
+      "id": "WF-066-B",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-066-B-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-066-B-book-v2.png",
+      "bytes": 160314,
+      "sha256": "549efb4840ccc499616670e0637266587462b06e3692fda7e658e6a99ab4570a"
+    },
+    {
+      "id": "WF-160-A",
+      "role": "book vector",
+      "path": "assets/vectors/WF-160-A-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-160-A-book-v2.svg",
+      "bytes": 1894,
+      "sha256": "f95e00f2789eb19e80487dfe1f682891c76a3478d9cd551841cfed958e61da40"
+    },
+    {
+      "id": "WF-160-A",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-160-A-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-160-A-book-v2.png",
+      "bytes": 134511,
+      "sha256": "368709cdd4703d7b0364988e04806149208acfe0bae34fa5d69cb23a67323d7f"
+    },
+    {
+      "id": "WF-396-B",
+      "role": "book vector",
+      "path": "assets/vectors/WF-396-B-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-396-B-book-v2.svg",
+      "bytes": 2044,
+      "sha256": "9e8538b0242d6c68dfca59cf6025ac661d2668266abf499138c8725c21c993f3"
+    },
+    {
+      "id": "WF-396-B",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-396-B-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-396-B-book-v2.png",
+      "bytes": 212481,
+      "sha256": "c3cfcf1b3f8d82fe857201b62e966695c2c6c8010a9151c984e6a7650ad8a129"
+    },
+    {
+      "id": "WF-213-A",
+      "role": "book vector",
+      "path": "assets/vectors/WF-213-A-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-213-A-book-v2.svg",
+      "bytes": 1873,
+      "sha256": "8f518d05220eb8f6cb1ed83bd813e6d7d4fec4a37121d02f66dc54a2ea42927c"
+    },
+    {
+      "id": "WF-213-A",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-213-A-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-213-A-book-v2.png",
+      "bytes": 199565,
+      "sha256": "26e3b74abca2346b0f0a045b436c81a64fc4ccf73a61ccb2e3b7232cbb548609"
+    },
+    {
+      "id": "WF-387-A",
+      "role": "book vector",
+      "path": "assets/vectors/WF-387-A-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-387-A-book-v2.svg",
+      "bytes": 1524,
+      "sha256": "f185933ba29ad61181bb6af8f51b339d70aba425cf25ac7aad2c7328fc36b811"
+    },
+    {
+      "id": "WF-387-A",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-387-A-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-387-A-book-v2.png",
+      "bytes": 97345,
+      "sha256": "f5e85f29d398cf86307840377167b761465538b1e7f5ae60e00c000fee23388c"
+    },
+    {
+      "id": "WF-404-A",
+      "role": "book vector",
+      "path": "assets/vectors/WF-404-A-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-404-A-book-v2.svg",
+      "bytes": 987,
+      "sha256": "d80d3bad4dbfed44510d2a069ff5462df827775c87ecd002da6407e9c048ba17"
+    },
+    {
+      "id": "WF-404-A",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-404-A-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-404-A-book-v2.png",
+      "bytes": 97075,
+      "sha256": "1e9a61f0da29b3e43c8fca84a26d176379f65af65bd8b4df9a1029382d1277c4"
+    },
+    {
+      "id": "WF-170-A",
+      "role": "book vector",
+      "path": "assets/vectors/WF-170-A-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-170-A-book-v2.svg",
+      "bytes": 25444,
+      "sha256": "71181f0c401f3aea93631e917dd4b5afd3b5ac5df8812e9e29a69e9e4b44c8f4"
+    },
+    {
+      "id": "WF-170-A",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-170-A-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-170-A-book-v2.png",
+      "bytes": 498070,
+      "sha256": "26fb4524562853084a808b1111a00fbcb9512992b37fead788389254ef6bf9bf"
+    },
+    {
+      "id": "WF-319-A",
+      "role": "book vector",
+      "path": "assets/vectors/WF-319-A-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-319-A-book-v2.svg",
+      "bytes": 2304,
+      "sha256": "f5bdfcf97192787557c109905115e6c32f25174d0aada05f52c07f209792cd5a"
+    },
+    {
+      "id": "WF-319-A",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-319-A-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-319-A-book-v2.png",
+      "bytes": 341019,
+      "sha256": "6cc04ddcf564f5fb391c2f8134bdd4bc384c8b50bca6bf5ecddecb984f75e27e"
+    },
+    {
+      "id": "WF-403-A",
+      "role": "book vector",
+      "path": "assets/vectors/WF-403-A-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-403-A-book-v2.svg",
+      "bytes": 4614,
+      "sha256": "c902d554ae1d0dddb9796bf32a024c0e7a518ac4f2e7524887c1cdb42472f479"
+    },
+    {
+      "id": "WF-403-A",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-403-A-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-403-A-book-v2.png",
+      "bytes": 529233,
+      "sha256": "e46b98936f2e6d68d0fab6de46baf2d0da486b320a9c5ee6d46eefcfb81d5d28"
+    },
+    {
+      "id": "WF-352-A",
+      "role": "book vector",
+      "path": "assets/vectors/WF-352-A-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-352-A-book-v2.svg",
+      "bytes": 2707,
+      "sha256": "085889f796341597767c25b9307b3df5282f4944588efe706bafe822147a5c3a"
+    },
+    {
+      "id": "WF-352-A",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-352-A-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-352-A-book-v2.png",
+      "bytes": 117469,
+      "sha256": "4328b7177a1afae432ed08ed5ecfa5c2526bbfe718f3069485f5629a30ce37ca"
+    },
+    {
+      "id": "WF-378-A",
+      "role": "book vector",
+      "path": "assets/vectors/WF-378-A-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-378-A-book-v2.svg",
+      "bytes": 3788,
+      "sha256": "7f52938294cf0a9349a125616c391e7ad711aa7f9285e3a086d5e317bb8c78cb"
+    },
+    {
+      "id": "WF-378-A",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-378-A-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-378-A-book-v2.png",
+      "bytes": 388112,
+      "sha256": "e295052a3d13106e3ec4fc39d28bfe57be7f2f81f5a723311fd6093fa5a6ab19"
+    },
+    {
+      "id": "WF-086-A",
+      "role": "gm-grid vector",
+      "path": "assets/vectors/WF-086-A-choirs-line-deck-gm-grid-v2.svg",
+      "source": "homebrewery/art/vectors/WF-086-A-choirs-line-deck-gm-grid-v2.svg",
+      "bytes": 7505,
+      "sha256": "31231a153db53e4564e881d7987c40663106e8a0480d2683f42ea31819ebfbd6"
+    },
+    {
+      "id": "WF-086-A",
+      "role": "gm-grid PNG",
+      "path": "assets/vectors/png/WF-086-A-choirs-line-deck-gm-grid-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-086-A-choirs-line-deck-gm-grid-v2.png",
+      "bytes": 215463,
+      "sha256": "803966c5e33407f1171028b0830811f2c3d9726829ed0b09ddb53833debd2578"
+    },
+    {
+      "id": "WF-086-A",
+      "role": "player-grid vector",
+      "path": "assets/vectors/WF-086-A-choirs-line-deck-player-grid-v2.svg",
+      "source": "homebrewery/art/vectors/WF-086-A-choirs-line-deck-player-grid-v2.svg",
+      "bytes": 6974,
+      "sha256": "1778c3aaa88371ee0ae69aa75432e07f5c73b932bffa7f4b6530d7246e5d5e8b"
+    },
+    {
+      "id": "WF-086-A",
+      "role": "player-grid PNG",
+      "path": "assets/vectors/png/WF-086-A-choirs-line-deck-player-grid-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-086-A-choirs-line-deck-player-grid-v2.png",
+      "bytes": 199940,
+      "sha256": "30cee7b4545d73712bc6fa3a5ad1387ac2ae336e1ae25cadc0ff9f000a6b3f1d"
+    },
+    {
+      "id": "WF-086-A",
+      "role": "player-clear vector",
+      "path": "assets/vectors/WF-086-A-choirs-line-deck-player-clear-v2.svg",
+      "source": "homebrewery/art/vectors/WF-086-A-choirs-line-deck-player-clear-v2.svg",
+      "bytes": 6696,
+      "sha256": "ee035fc5a29eee22d7f8ee2dd48bfef04666a0b0406c896d905ef2005ae907e1"
+    },
+    {
+      "id": "WF-086-A",
+      "role": "player-clear PNG",
+      "path": "assets/vectors/png/WF-086-A-choirs-line-deck-player-clear-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-086-A-choirs-line-deck-player-clear-v2.png",
+      "bytes": 179248,
+      "sha256": "45630d964f0e983c634c7b7a3814382a24cc02929ec222b4e1ac910530781515"
+    },
+    {
+      "id": "WF-086-A",
+      "role": "grid-overlay vector",
+      "path": "assets/vectors/WF-086-A-choirs-line-deck-grid-overlay-v2.svg",
+      "source": "homebrewery/art/vectors/WF-086-A-choirs-line-deck-grid-overlay-v2.svg",
+      "bytes": 758,
+      "sha256": "44a008dcf29757f7099c21be6d5107545bd37138f5f2f6fa817d3f6d040281e6"
+    },
+    {
+      "id": "WF-086-A",
+      "role": "grid-overlay PNG",
+      "path": "assets/vectors/png/WF-086-A-choirs-line-deck-grid-overlay-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-086-A-choirs-line-deck-grid-overlay-v2.png",
+      "bytes": 39303,
+      "sha256": "b317466d362d4af6e5b3cc93d358ff73ceccbdb74dff78daf653f0485ff4dd76"
+    },
+    {
+      "id": "WF-086-A",
+      "role": "gm-grid vector",
+      "path": "assets/vectors/WF-086-A-choirs-line-hold-gm-grid-v2.svg",
+      "source": "homebrewery/art/vectors/WF-086-A-choirs-line-hold-gm-grid-v2.svg",
+      "bytes": 8825,
+      "sha256": "99960595a231e2a833d6cddd14fa923a86c595fc91aee7c568fd953a9f66ead0"
+    },
+    {
+      "id": "WF-086-A",
+      "role": "gm-grid PNG",
+      "path": "assets/vectors/png/WF-086-A-choirs-line-hold-gm-grid-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-086-A-choirs-line-hold-gm-grid-v2.png",
+      "bytes": 253908,
+      "sha256": "c83bd83edcb9945fe20dcc6785929d5b005fdb1d1aff23fa014e4e32985a01a2"
+    },
+    {
+      "id": "WF-086-A",
+      "role": "player-grid vector",
+      "path": "assets/vectors/WF-086-A-choirs-line-hold-player-grid-v2.svg",
+      "source": "homebrewery/art/vectors/WF-086-A-choirs-line-hold-player-grid-v2.svg",
+      "bytes": 7233,
+      "sha256": "b237edc9bb5c9362fe2a7ca8dd4f7885d71949cc108eb92b685d5ece4f8a8403"
+    },
+    {
+      "id": "WF-086-A",
+      "role": "player-grid PNG",
+      "path": "assets/vectors/png/WF-086-A-choirs-line-hold-player-grid-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-086-A-choirs-line-hold-player-grid-v2.png",
+      "bytes": 213977,
+      "sha256": "b00f925d3b4e5b1eb04026071a4f1bb5468363de8746de8ce15caa4b4f39a5ce"
+    },
+    {
+      "id": "WF-086-A",
+      "role": "player-clear vector",
+      "path": "assets/vectors/WF-086-A-choirs-line-hold-player-clear-v2.svg",
+      "source": "homebrewery/art/vectors/WF-086-A-choirs-line-hold-player-clear-v2.svg",
+      "bytes": 6955,
+      "sha256": "7899332a44a0ae29368fb45d3aa1ae6fe647d8e7166a39d0d57d664da5c4c252"
+    },
+    {
+      "id": "WF-086-A",
+      "role": "player-clear PNG",
+      "path": "assets/vectors/png/WF-086-A-choirs-line-hold-player-clear-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-086-A-choirs-line-hold-player-clear-v2.png",
+      "bytes": 191777,
+      "sha256": "3d96aafa74fcae83a6ab9d40a577a038d8bcfb2c0252db04d56baea0e479d145"
+    },
+    {
+      "id": "WF-086-A",
+      "role": "grid-overlay vector",
+      "path": "assets/vectors/WF-086-A-choirs-line-hold-grid-overlay-v2.svg",
+      "source": "homebrewery/art/vectors/WF-086-A-choirs-line-hold-grid-overlay-v2.svg",
+      "bytes": 758,
+      "sha256": "cfbfdbfb8d793fc950e09bbdb742fa5270b5c36e8fb630cc9d7f09510fc06af1"
+    },
+    {
+      "id": "WF-086-A",
+      "role": "grid-overlay PNG",
+      "path": "assets/vectors/png/WF-086-A-choirs-line-hold-grid-overlay-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-086-A-choirs-line-hold-grid-overlay-v2.png",
+      "bytes": 39303,
+      "sha256": "b317466d362d4af6e5b3cc93d358ff73ceccbdb74dff78daf653f0485ff4dd76"
+    },
+    {
+      "id": "WF-086-A",
+      "role": "book vector",
+      "path": "assets/vectors/WF-086-A-choirs-line-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-086-A-choirs-line-book-v2.svg",
+      "bytes": 16931,
+      "sha256": "211d1f5e80ae7cf4f7964f43f079e6eb325ff38e94a353f88395d870743b5d7f"
+    },
+    {
+      "id": "WF-086-A",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-086-A-choirs-line-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-086-A-choirs-line-book-v2.png",
+      "bytes": 509151,
+      "sha256": "7c8c61c5e8206525502b7e96e146d5160eba4538b054892e46d1ab038a58cac4"
+    },
+    {
+      "id": "WF-092-A",
+      "role": "gm-plan vector",
+      "path": "assets/vectors/WF-092-A-coiled-sanctum-gm-plan-v2.svg",
+      "source": "homebrewery/art/vectors/WF-092-A-coiled-sanctum-gm-plan-v2.svg",
+      "bytes": 9776,
+      "sha256": "dab6fd05ff879db9163c4a93bf599c9150021d3d6f3ebf3ba629e5d2f8dc2f9f"
+    },
+    {
+      "id": "WF-092-A",
+      "role": "gm-plan PNG",
+      "path": "assets/vectors/png/WF-092-A-coiled-sanctum-gm-plan-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-092-A-coiled-sanctum-gm-plan-v2.png",
+      "bytes": 293817,
+      "sha256": "98cce875290988eeaf67eed297ad5307e701206d9cb71cac2013167316d46b0a"
+    },
+    {
+      "id": "WF-092-A",
+      "role": "player-plan vector",
+      "path": "assets/vectors/WF-092-A-coiled-sanctum-player-plan-v2.svg",
+      "source": "homebrewery/art/vectors/WF-092-A-coiled-sanctum-player-plan-v2.svg",
+      "bytes": 6533,
+      "sha256": "49a74a8dc773528a015d12abd81d20ff85037b7f6c7519a92a502250345c73c0"
+    },
+    {
+      "id": "WF-092-A",
+      "role": "player-plan PNG",
+      "path": "assets/vectors/png/WF-092-A-coiled-sanctum-player-plan-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-092-A-coiled-sanctum-player-plan-v2.png",
+      "bytes": 161182,
+      "sha256": "6bad08661eb7fb765b24e37f8e1fd2a726df6c2e40eb0f955ff774d091a5f292"
+    },
+    {
+      "id": "WF-092-A",
+      "role": "book vector",
+      "path": "assets/vectors/WF-092-A-coiled-sanctum-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-092-A-coiled-sanctum-book-v2.svg",
+      "bytes": 11184,
+      "sha256": "dd6e3584a8d2ccf68ff98c12e83ce97b845e9514276dbad38187e6c26655f984"
+    },
+    {
+      "id": "WF-092-A",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-092-A-coiled-sanctum-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-092-A-coiled-sanctum-book-v2.png",
+      "bytes": 584118,
+      "sha256": "c3a59da83701c958aba63e8847a3d11f93d34d8adbf1f781cc7a368c0b039c6d"
+    },
+    {
+      "id": "WF-102-A",
+      "role": "book vector",
+      "path": "assets/vectors/WF-102-A-ashwatch-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-102-A-ashwatch-book-v2.svg",
+      "bytes": 7453,
+      "sha256": "b4df14ea434812b08a8df39c51061c42bf961fd0f88ef108f60725c2ac764b2b"
+    },
+    {
+      "id": "WF-102-A",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-102-A-ashwatch-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-102-A-ashwatch-book-v2.png",
+      "bytes": 788210,
+      "sha256": "9a7d96b9d8990db7398d13cfe2fd1bfea6f8425e8628ecf95781f9d2ecb4479b"
+    },
+    {
+      "id": "WF-102-A",
+      "role": "player-plan vector",
+      "path": "assets/vectors/WF-102-A-ashwatch-player-v2.svg",
+      "source": "homebrewery/art/vectors/WF-102-A-ashwatch-player-v2.svg",
+      "bytes": 7447,
+      "sha256": "c79dba0c7c3c2be9a45bda1859e6adcf781c89f04872067bacd0c39ed276d366"
+    },
+    {
+      "id": "WF-102-A",
+      "role": "player-plan PNG",
+      "path": "assets/vectors/png/WF-102-A-ashwatch-player-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-102-A-ashwatch-player-v2.png",
+      "bytes": 788210,
+      "sha256": "9a7d96b9d8990db7398d13cfe2fd1bfea6f8425e8628ecf95781f9d2ecb4479b"
+    },
+    {
+      "id": "WF-155-B",
+      "role": "gm-grid vector",
+      "path": "assets/vectors/WF-155-B-skylark-defense-gm-grid-v2.svg",
+      "source": "homebrewery/art/vectors/WF-155-B-skylark-defense-gm-grid-v2.svg",
+      "bytes": 10240,
+      "sha256": "3ab488d02daa34c6a9c3174a0ef9d5db0de9ea608ef0a638f520290d92667e54"
+    },
+    {
+      "id": "WF-155-B",
+      "role": "gm-grid PNG",
+      "path": "assets/vectors/png/WF-155-B-skylark-defense-gm-grid-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-155-B-skylark-defense-gm-grid-v2.png",
+      "bytes": 349071,
+      "sha256": "4600dd51950c08eeab11a7b3d31fdd3d852514acc83f0c3ee7a78e3e1d622de4"
+    },
+    {
+      "id": "WF-155-B",
+      "role": "player-grid vector",
+      "path": "assets/vectors/WF-155-B-skylark-defense-player-grid-v2.svg",
+      "source": "homebrewery/art/vectors/WF-155-B-skylark-defense-player-grid-v2.svg",
+      "bytes": 4045,
+      "sha256": "8ace0c3786b0849c192d0ee6a1d374308e1e06e25f86255a639e2e361f8383ce"
+    },
+    {
+      "id": "WF-155-B",
+      "role": "player-grid PNG",
+      "path": "assets/vectors/png/WF-155-B-skylark-defense-player-grid-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-155-B-skylark-defense-player-grid-v2.png",
+      "bytes": 198996,
+      "sha256": "bd2c4dd25266758972d3ba0effc90a4b3de54933651ac3a06207d21a936f2724"
+    },
+    {
+      "id": "WF-155-B",
+      "role": "player-clear vector",
+      "path": "assets/vectors/WF-155-B-skylark-defense-player-clear-v2.svg",
+      "source": "homebrewery/art/vectors/WF-155-B-skylark-defense-player-clear-v2.svg",
+      "bytes": 3768,
+      "sha256": "6ce43347af2525f308bc91e5cbee9a8be104e708c8034969f94aeb6076fa766c"
+    },
+    {
+      "id": "WF-155-B",
+      "role": "player-clear PNG",
+      "path": "assets/vectors/png/WF-155-B-skylark-defense-player-clear-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-155-B-skylark-defense-player-clear-v2.png",
+      "bytes": 187000,
+      "sha256": "d8d4631191511ac4e6f495d464a99fc6bd2062c06b30315eb2f36b380a226d93"
+    },
+    {
+      "id": "WF-155-B",
+      "role": "grid-overlay vector",
+      "path": "assets/vectors/WF-155-B-skylark-defense-grid-overlay-v2.svg",
+      "source": "homebrewery/art/vectors/WF-155-B-skylark-defense-grid-overlay-v2.svg",
+      "bytes": 771,
+      "sha256": "40edf5d97dd9a3653c8e96ac548cf1f5c3227745b33bece0847756bf3b6b77f1"
+    },
+    {
+      "id": "WF-155-B",
+      "role": "grid-overlay PNG",
+      "path": "assets/vectors/png/WF-155-B-skylark-defense-grid-overlay-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-155-B-skylark-defense-grid-overlay-v2.png",
+      "bytes": 39303,
+      "sha256": "b317466d362d4af6e5b3cc93d358ff73ceccbdb74dff78daf653f0485ff4dd76"
+    },
+    {
+      "id": "WF-155-B",
+      "role": "book vector",
+      "path": "assets/vectors/WF-155-B-skylark-defense-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-155-B-skylark-defense-book-v2.svg",
+      "bytes": 11131,
+      "sha256": "ccefd6e059257fb813942344fbb61ef8c085dafee62445e7bf6796b30c3f221f"
+    },
+    {
+      "id": "WF-155-B",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-155-B-skylark-defense-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-155-B-skylark-defense-book-v2.png",
+      "bytes": 588192,
+      "sha256": "cbf3981c75bcda2235925d2f6bff0a8731027665471bf9b537cabd2dda47b3db"
+    },
+    {
+      "id": "WF-365-B",
+      "role": "book vector",
+      "path": "assets/vectors/WF-365-B-wrenhaven-siege-book-v2.svg",
+      "source": "homebrewery/art/vectors/WF-365-B-wrenhaven-siege-book-v2.svg",
+      "bytes": 56429,
+      "sha256": "cef907d00a208de6e6a08dfef588bff45c91cc6c3fd1657c9836af213448efca"
+    },
+    {
+      "id": "WF-365-B",
+      "role": "book PNG",
+      "path": "assets/vectors/png/WF-365-B-wrenhaven-siege-book-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-365-B-wrenhaven-siege-book-v2.png",
+      "bytes": 947102,
+      "sha256": "58a0d5666be3672df2e7c87cd86860e67254e960352e2a31eeb9b341c303b265"
+    },
+    {
+      "id": "WF-365-B",
+      "role": "player-planning vector",
+      "path": "assets/vectors/WF-365-B-wrenhaven-siege-planning-v2.svg",
+      "source": "homebrewery/art/vectors/WF-365-B-wrenhaven-siege-planning-v2.svg",
+      "bytes": 55888,
+      "sha256": "bc066b141a9affda60ac73cb1ce9b0614e9afd89c1d4aebff62057545b965e4e"
+    },
+    {
+      "id": "WF-365-B",
+      "role": "player-planning PNG",
+      "path": "assets/vectors/png/WF-365-B-wrenhaven-siege-planning-v2.png",
+      "source": "homebrewery/art/vectors/exports/WF-365-B-wrenhaven-siege-planning-v2.png",
+      "bytes": 921697,
+      "sha256": "80b8b758ebcaa85548765ad58075f6127ffb9c84843ee0a6bc8f7bf1e57e20aa"
+    },
+    {
       "id": "imageMaskCenter6",
       "role": "watercolor mask",
       "path": "assets/masks/center-0006.webp",
@@ -1437,6 +2165,7 @@
     "WF-017-A": "assets/book/WF-017-A.webp",
     "WF-019-A": "assets/book/WF-019-A.webp",
     "WF-020-A": "assets/book/WF-020-A.webp",
+    "WF-020-B": "assets/book/WF-020-B.svg",
     "WF-021-A": "assets/book/WF-021-A.webp",
     "WF-022-A": "assets/book/WF-022-A.webp",
     "WF-023-A": "assets/book/WF-023-A.webp",
@@ -1460,7 +2189,9 @@
     "WF-042-A": "assets/book/WF-042-A.webp",
     "WF-043-A": "assets/book/WF-043-A.webp",
     "WF-045-B": "assets/book/WF-045-B.webp",
+    "WF-048-A": "assets/book/WF-048-A.svg",
     "WF-050-A": "assets/book/WF-050-A.webp",
+    "WF-051-A": "assets/book/WF-051-A.svg",
     "WF-052-A": "assets/book/WF-052-A.webp",
     "WF-053-A": "assets/book/WF-053-A.webp",
     "WF-054-A": "assets/book/WF-054-A.svg",
@@ -1473,8 +2204,10 @@
     "WF-061-A": "assets/book/WF-061-A.webp",
     "WF-062-A": "assets/book/WF-062-A.webp",
     "WF-063-A": "assets/book/WF-063-A.webp",
+    "WF-064-A": "assets/book/WF-064-A.svg",
     "WF-065-A": "assets/book/WF-065-A.webp",
     "WF-066-A": "assets/book/WF-066-A.webp",
+    "WF-066-B": "assets/book/WF-066-B.svg",
     "WF-067-A": "assets/book/WF-067-A.svg",
     "WF-069-A": "assets/book/WF-069-A.webp",
     "WF-070-B": "assets/book/WF-070-B.svg",
@@ -1484,21 +2217,35 @@
     "WF-080-A": "assets/book/WF-080-A.webp",
     "WF-081-A": "assets/book/WF-081-A.webp",
     "WF-085-A": "assets/book/WF-085-A.webp",
+    "WF-086-A": "assets/book/WF-086-A.svg",
     "WF-087-A": "assets/book/WF-087-A.webp",
     "WF-088-A": "assets/book/WF-088-A.webp",
     "WF-089-A": "assets/book/WF-089-A.webp",
     "WF-090-A": "assets/book/WF-090-A.webp",
     "WF-091-A": "assets/book/WF-091-A.webp",
+    "WF-092-A": "assets/book/WF-092-A.svg",
     "WF-093-A": "assets/book/WF-093-A.webp",
-    "WF-094-A": "assets/book/WF-094-A.webp",
     "WF-097-A": "assets/book/WF-097-A.webp",
     "WF-099-B": "assets/book/WF-099-B.webp",
     "WF-100-A": "assets/book/WF-100-A.webp",
+    "WF-102-A": "assets/book/WF-102-A.svg",
     "WF-107-A": "assets/book/WF-107-A.webp",
     "WF-108-A": "assets/book/WF-108-A.webp",
     "WF-112-A": "assets/book/WF-112-A.webp",
+    "WF-155-B": "assets/book/WF-155-B.svg",
+    "WF-160-A": "assets/book/WF-160-A.svg",
+    "WF-170-A": "assets/book/WF-170-A.svg",
     "WF-172-A": "assets/book/WF-172-A.svg",
+    "WF-213-A": "assets/book/WF-213-A.svg",
     "WF-226-A": "assets/book/WF-226-A.svg",
+    "WF-319-A": "assets/book/WF-319-A.svg",
+    "WF-352-A": "assets/book/WF-352-A.svg",
+    "WF-365-B": "assets/book/WF-365-B.svg",
+    "WF-378-A": "assets/book/WF-378-A.svg",
+    "WF-387-A": "assets/book/WF-387-A.svg",
+    "WF-396-B": "assets/book/WF-396-B.svg",
+    "WF-403-A": "assets/book/WF-403-A.svg",
+    "WF-404-A": "assets/book/WF-404-A.svg",
     "WF-436-A": "assets/book/WF-436-A.webp",
     "WF-437-A": "assets/book/WF-437-A.webp",
     "WF-438-A": "assets/book/WF-438-A.webp",
@@ -1518,7 +2265,7 @@
     "imageMaskEdge5": "assets/masks/edge-0005.webp",
     "imageMaskEdge8": "assets/masks/edge-0008.webp"
   },
-  "verified_commit": "e1b5bbdebe1e3cfb59297b2c2f928baf62d2ba8f",
+  "verified_commit": "6dd7744568aa4f1bdfb21c479fba02006586309f",
   "effective_book_paths": {
     "WF-001-A": "assets/book/WF-001-A.webp",
     "WF-002-A": "assets/book/WF-002-A.webp",
@@ -1591,6 +2338,11 @@
     "WF-093-A": "assets/book/WF-093-A.webp",
     "WF-094-A": "assets/book/WF-094-A.webp",
     "WF-097-A": "assets/book/WF-097-A.webp",
+    "WF-099-B": "assets/book/WF-099-B.webp",
+    "WF-100-A": "assets/book/WF-100-A.webp",
+    "WF-107-A": "assets/book/WF-107-A.webp",
+    "WF-108-A": "assets/book/WF-108-A.webp",
+    "WF-112-A": "assets/book/WF-112-A.webp",
     "WF-172-A": "assets/maps/png/WF-172-A-selvane-gm-book-v1.png",
     "WF-226-A": "assets/maps/png/WF-226-A-letter-book-v1.png",
     "WF-436-A": "assets/book/WF-436-A.webp",
