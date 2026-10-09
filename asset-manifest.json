@@ -1092,6 +1092,14 @@
       "sha256": "16a53daf79bbb2d16d06e5073aa16ff6263a2f3419e45585d5fb87ae31022491"
     },
     {
+      "id": "WF-156-B",
+      "role": "book",
+      "path": "assets/book/WF-156-B.webp",
+      "source": "homebrewery/art/images/exports/WF-156-B-hollow-20261009-v2.webp",
+      "bytes": 2426414,
+      "sha256": "d4b951d0f3edfb3947be04dd8d735a30bbf25ba76ed1360fb163c30d13ed0a03"
+    },
+    {
       "id": "WF-157-A",
       "role": "book",
       "path": "assets/book/WF-157-A.webp",
@@ -1148,6 +1156,38 @@
       "sha256": "d8819a9352e8318f9d79c84b295210e2c4c5ea672ecc17a44d753802d0468fa6"
     },
     {
+      "id": "WF-164-A",
+      "role": "book",
+      "path": "assets/book/WF-164-A.webp",
+      "source": "homebrewery/art/images/exports/WF-164-A-hollow-20261009-v3.webp",
+      "bytes": 1504442,
+      "sha256": "0d9a213daf149a96813fa6943ee750e1a547db7cd53026ff8ed6b8ac9384ac3b"
+    },
+    {
+      "id": "WF-165-A",
+      "role": "book",
+      "path": "assets/book/WF-165-A.webp",
+      "source": "homebrewery/art/images/exports/WF-165-A-hollow-20261009-v2.webp",
+      "bytes": 1239556,
+      "sha256": "40febfe7291e1931e42b29f7c62720267c692e0fd69d18e40360e656fc3fea83"
+    },
+    {
+      "id": "WF-166-A",
+      "role": "book",
+      "path": "assets/book/WF-166-A.webp",
+      "source": "homebrewery/art/images/exports/WF-166-A-hollow-20261009-v3.webp",
+      "bytes": 1959204,
+      "sha256": "7a9a31c857edb631625920559d2ca9d114805628f0ec48afdc3e8a9c441476bb"
+    },
+    {
+      "id": "WF-167-A",
+      "role": "book",
+      "path": "assets/book/WF-167-A.webp",
+      "source": "homebrewery/art/images/exports/WF-167-A-hollow-20261009-v1.webp",
+      "bytes": 1394826,
+      "sha256": "eb04c9d26cadefb3fed7b58bd8d12f70caf2b4d250e0e72e6b3ac6286ab879c8"
+    },
+    {
       "id": "WF-168-A",
       "role": "book",
       "path": "assets/book/WF-168-A.webp",
@@ -1172,12 +1212,132 @@
       "sha256": "71181f0c401f3aea93631e917dd4b5afd3b5ac5df8812e9e29a69e9e4b44c8f4"
     },
     {
+      "id": "WF-171-A",
+      "role": "book",
+      "path": "assets/book/WF-171-A.webp",
+      "source": "homebrewery/art/images/exports/WF-171-A-hollow-20261009-v1.webp",
+      "bytes": 1887274,
+      "sha256": "9886b183277e53d1021b253f80b775920a4efcdf0de25ee08e96556c43b968d7"
+    },
+    {
       "id": "WF-172-A",
       "role": "book",
       "path": "assets/book/WF-172-A.svg",
       "source": "homebrewery/art/maps/WF-172-A-selvane-gm-book-v1.svg",
       "bytes": 88527,
       "sha256": "bf40ba1a3f6fc186f80d637eeccde60b10acf86cc64664611d46429e534c679f"
+    },
+    {
+      "id": "WF-172-B",
+      "role": "book",
+      "path": "assets/book/WF-172-B.webp",
+      "source": "homebrewery/art/images/exports/WF-172-B-hollow-20261009-v1.webp",
+      "bytes": 2209316,
+      "sha256": "d8e3ddc4f0e37c6ddc8d8d0efec6bc65aac3afb46e6718add958815ffd3f5585"
+    },
+    {
+      "id": "WF-173-A",
+      "role": "book",
+      "path": "assets/book/WF-173-A.webp",
+      "source": "homebrewery/art/images/exports/WF-173-A-hollow-20261009-v2.webp",
+      "bytes": 2043422,
+      "sha256": "4101cbb3197e289fadd668a47a1789626e7b3dca8272c0a4066b66798f6e6b4f"
+    },
+    {
+      "id": "WF-174-A",
+      "role": "book",
+      "path": "assets/book/WF-174-A.webp",
+      "source": "homebrewery/art/images/exports/WF-174-A-hollow-20261009-v1.webp",
+      "bytes": 2186000,
+      "sha256": "7fceb3f685f1fafa6336cf9fa8de3552824b555d3d4c0987445fec6a1594f945"
+    },
+    {
+      "id": "WF-175-A",
+      "role": "book",
+      "path": "assets/book/WF-175-A.webp",
+      "source": "homebrewery/art/images/exports/WF-175-A-hollow-20261009-v1.webp",
+      "bytes": 2160196,
+      "sha256": "308a3ee9dc469bb567b21d62665cae5e917f22798f48e6ea719e7a441d570380"
+    },
+    {
+      "id": "WF-177-A",
+      "role": "book",
+      "path": "assets/book/WF-177-A.webp",
+      "source": "homebrewery/art/images/exports/WF-177-A-hollow-20261009-v1.webp",
+      "bytes": 1869660,
+      "sha256": "45e23fdf88153c9e32e086de3b1450dbcb02f46f5d364d8c953840aa946f4e75"
+    },
+    {
+      "id": "WF-178-A",
+      "role": "book",
+      "path": "assets/book/WF-178-A.webp",
+      "source": "homebrewery/art/images/exports/WF-178-A-hollow-20261009-v1.webp",
+      "bytes": 2409484,
+      "sha256": "41663b3c47d466593aec8773e780e8c017f4986798d1d54942cfeb4eafedf5b0"
+    },
+    {
+      "id": "WF-179-A",
+      "role": "book",
+      "path": "assets/book/WF-179-A.webp",
+      "source": "homebrewery/art/images/exports/WF-179-A-hollow-20261009-v1.webp",
+      "bytes": 1609310,
+      "sha256": "7ab5cdb8ddfa4e0bbb3dc31ba8797903c78b3e2a4127a4c096106b2482a45a2b"
+    },
+    {
+      "id": "WF-180-A",
+      "role": "book",
+      "path": "assets/book/WF-180-A.webp",
+      "source": "homebrewery/art/images/exports/WF-180-A-hollow-20261009-v2.webp",
+      "bytes": 2057904,
+      "sha256": "08970f20ce47f19f3cffe9659f5e6f0f26f7fc1bbec5914d58a11b729aa017cc"
+    },
+    {
+      "id": "WF-181-A",
+      "role": "book",
+      "path": "assets/book/WF-181-A.webp",
+      "source": "homebrewery/art/images/exports/WF-181-A-hollow-20261009-v1.webp",
+      "bytes": 1885362,
+      "sha256": "58b39490491bb898ff8b36ff1c73131a767585352b4a76edb443e544c41c1e19"
+    },
+    {
+      "id": "WF-182-A",
+      "role": "book",
+      "path": "assets/book/WF-182-A.webp",
+      "source": "homebrewery/art/images/exports/WF-182-A-hollow-20261009-v2.webp",
+      "bytes": 2248334,
+      "sha256": "7ffad352d9691ab0498e646cc7205150a906a4b922862a414b6f6ca588668cc9"
+    },
+    {
+      "id": "WF-182-B",
+      "role": "book",
+      "path": "assets/book/WF-182-B.webp",
+      "source": "homebrewery/art/images/exports/WF-182-B-hollow-20261009-v2.webp",
+      "bytes": 1411020,
+      "sha256": "59d42d066c8e59bf857a48ad447c6ed1030d7debf1b978f84e819cfb0986dd01"
+    },
+    {
+      "id": "WF-183-A",
+      "role": "book",
+      "path": "assets/book/WF-183-A.webp",
+      "source": "homebrewery/art/images/exports/WF-183-A-hollow-20261009-v1.webp",
+      "bytes": 2326862,
+      "sha256": "3cf19cfb2d337c3d63beafd942659627048a39fcb02e31a3f1c2d0d82f1561db"
+    },
+    {
+      "id": "WF-184-A",
+      "role": "book",
+      "path": "assets/book/WF-184-A.webp",
+      "source": "homebrewery/art/images/exports/WF-184-A-hollow-20261009-v1.webp",
+      "bytes": 2394982,
+      "sha256": "29decd4a1bdd85f0a25c8a2e8e543268165ae7c266ddb5ae2501f9e031171edb"
+    },
+    {
+      "id": "WF-185-A",
+      "role": "book",
+      "path": "assets/book/WF-185-A.webp",
+      "source": "homebrewery/art/images/exports/WF-185-A-hollow-20261009-v1.webp",
+      "bytes": 1446734,
+      "sha256": "d3097294fa8da94fde179b2f59d856fbca66f166e8a8d5430285bf01ac70bcf9"
     },
     {
       "id": "WF-213-A",
@@ -1538,6 +1698,38 @@
       "source": "homebrewery/art/models/REF-ISOLDE-loom-20261009-v1.png",
       "bytes": 2749071,
       "sha256": "d40971682eb048111e99c1f2e74978a07678c73345183debd12e4696b92ee493"
+    },
+    {
+      "id": "REF-FERRO",
+      "role": "reference",
+      "path": "assets/references/REF-FERRO.png",
+      "source": "homebrewery/art/models/REF-FERRO-hollow-20261009-v1.png",
+      "bytes": 2866447,
+      "sha256": "886009c22e24ade412c39f6eb5ca262de261524b5306cfbb9c1ff53d33f76dd0"
+    },
+    {
+      "id": "REF-WELLMERE-CAST",
+      "role": "reference",
+      "path": "assets/references/REF-WELLMERE-CAST.png",
+      "source": "homebrewery/art/models/REF-WELLMERE-CAST-hollow-20261009-v1.png",
+      "bytes": 3060149,
+      "sha256": "896153ba08ec5e52b68162e319493f3c94956da983996ae3d107d585de738932"
+    },
+    {
+      "id": "REF-LOOM-GENIES",
+      "role": "reference",
+      "path": "assets/references/REF-LOOM-GENIES.png",
+      "source": "homebrewery/art/models/REF-LOOM-GENIES-hollow-20261009-v1.png",
+      "bytes": 3216722,
+      "sha256": "5209d9122d8efc38ab471c406c672f31bbe24e1e02a5864235ad396cd12ab40c"
+    },
+    {
+      "id": "REF-GORGOROTH",
+      "role": "reference",
+      "path": "assets/references/REF-GORGOROTH.png",
+      "source": "homebrewery/art/models/REF-GORGOROTH-hollow-20261009-v3.png",
+      "bytes": 2863028,
+      "sha256": "97711152e8ea612b7746c968a74f968f899b667235c95e4a4ff0fee6b5512af0"
     },
     {
       "id": "WF-035-A",
@@ -2821,6 +3013,7 @@
     "WF-155-A": "assets/book/WF-155-A.webp",
     "WF-155-B": "assets/book/WF-155-B.svg",
     "WF-156-A": "assets/book/WF-156-A.webp",
+    "WF-156-B": "assets/book/WF-156-B.webp",
     "WF-157-A": "assets/book/WF-157-A.webp",
     "WF-158-A": "assets/book/WF-158-A.webp",
     "WF-159-A": "assets/book/WF-159-A.webp",
@@ -2828,10 +3021,29 @@
     "WF-161-A": "assets/book/WF-161-A.webp",
     "WF-162-A": "assets/book/WF-162-A.webp",
     "WF-163-A": "assets/book/WF-163-A.webp",
+    "WF-164-A": "assets/book/WF-164-A.webp",
+    "WF-165-A": "assets/book/WF-165-A.webp",
+    "WF-166-A": "assets/book/WF-166-A.webp",
+    "WF-167-A": "assets/book/WF-167-A.webp",
     "WF-168-A": "assets/book/WF-168-A.webp",
     "WF-169-A": "assets/book/WF-169-A.webp",
     "WF-170-A": "assets/book/WF-170-A.svg",
+    "WF-171-A": "assets/book/WF-171-A.webp",
     "WF-172-A": "assets/book/WF-172-A.svg",
+    "WF-172-B": "assets/book/WF-172-B.webp",
+    "WF-173-A": "assets/book/WF-173-A.webp",
+    "WF-174-A": "assets/book/WF-174-A.webp",
+    "WF-175-A": "assets/book/WF-175-A.webp",
+    "WF-177-A": "assets/book/WF-177-A.webp",
+    "WF-178-A": "assets/book/WF-178-A.webp",
+    "WF-179-A": "assets/book/WF-179-A.webp",
+    "WF-180-A": "assets/book/WF-180-A.webp",
+    "WF-181-A": "assets/book/WF-181-A.webp",
+    "WF-182-A": "assets/book/WF-182-A.webp",
+    "WF-182-B": "assets/book/WF-182-B.webp",
+    "WF-183-A": "assets/book/WF-183-A.webp",
+    "WF-184-A": "assets/book/WF-184-A.webp",
+    "WF-185-A": "assets/book/WF-185-A.webp",
     "WF-213-A": "assets/book/WF-213-A.svg",
     "WF-226-A": "assets/book/WF-226-A.svg",
     "WF-319-A": "assets/book/WF-319-A.svg",
