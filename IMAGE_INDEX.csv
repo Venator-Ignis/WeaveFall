@@ -217,7 +217,9 @@ WF-228-A,book,assets/book/WF-228-A.webp,homebrewery/art/images/exports/WF-228-A-
 WF-229-A,book,assets/book/WF-229-A.webp,homebrewery/art/images/exports/WF-229-A-veil40-20261009-v1.webp,2078102,8f70661164eec9e5423bb4eae0a8c0a252cdfba68adead10d50d80d779c1396d
 WF-230-A,book,assets/book/WF-230-A.webp,homebrewery/art/images/exports/WF-230-A-veil40-20261009-v2.webp,2109158,bf5cca53b49d26326d1534edd21078cab2d304c050b14b075a5e990a8276879b
 WF-231-A,book,assets/book/WF-231-A.webp,homebrewery/art/images/exports/WF-231-A-veil40-20261009-v2.webp,2097738,07992fc0b6c7427972af53e99f51836fdc323a16328265600954b1aa7384bfdd
+WF-232-A,book,assets/book/WF-232-A.webp,homebrewery/art/images/exports/WF-232-A-sommersa40-20261009-v4.webp,1894470,164bcddb04eab8a6f466dc6bc4a6b92013959bdb7d31c75a0f4bab7eaaa91c5a
 WF-233-A,book,assets/book/WF-233-A.svg,homebrewery/art/vectors/WF-233-A-book-veil40.svg,8263,8854a579809d3352cd3672bfbf244c20dfb9fa1334d985304495f3451e7af3b8
+WF-234-A,book,assets/book/WF-234-A.webp,homebrewery/art/images/exports/WF-234-A-sommersa40-20261009-v3.webp,2286706,a0cc00fa04da2a8cbf4256e3c76926b733c1c24468684cd6d1e5bd7a46c72803
 WF-235-A,book,assets/book/WF-235-A.webp,homebrewery/art/images/exports/WF-235-A-veil40-20261009-v1.webp,1798430,5381e0a635a8de1438dd146425029a4b2ed34e9019f7bc2848d4d0b6bd0846b8
 WF-236-A,book,assets/book/WF-236-A.webp,homebrewery/art/images/exports/WF-236-A-veil40-20261009-v1.webp,2316146,8e5eeb3dee624480e0a4188787e7f2a7edb1b58a2ee409a0b122b0cfd594d37a
 WF-237-A,book,assets/book/WF-237-A.webp,homebrewery/art/images/exports/WF-237-A-veil40-20261009-v1.webp,2324358,320de6209b6263061a628859743b85a5c582ad264e62410a81be1b30c70fbb5a
@@ -225,19 +227,57 @@ WF-238-A,book,assets/book/WF-238-A.webp,homebrewery/art/images/exports/WF-238-A-
 WF-239-A,book,assets/book/WF-239-A.webp,homebrewery/art/images/exports/WF-239-A-veil40-20261009-v1.webp,2030010,24205b42c8a3d910ef9d594de09e951a43569f11add87b4cdee4daad2f8c87a7
 WF-240-A,book,assets/book/WF-240-A.webp,homebrewery/art/images/exports/WF-240-A-veil40-20261009-v1.webp,2228306,ac887e5cbae4b4c507460fa53f45d3e9dbe03e1ddcd02ffe0a9ab30fe338d528
 WF-241-A,book,assets/book/WF-241-A.webp,homebrewery/art/images/exports/WF-241-A-veil40-20261009-v1.webp,1635266,efdb674ab509dedc413d399a823dbe563fb43d66e67ae10d6bbc24b9331eaf6c
+WF-242-A,book,assets/book/WF-242-A.webp,homebrewery/art/images/exports/WF-242-A-sommersa40-20261009-v3.webp,2135384,e2d2bf67a0f407510d1532e884fec289d212d98ed58e02f734bce491e0b08919
+WF-243-A,book,assets/book/WF-243-A.webp,homebrewery/art/images/exports/WF-243-A-sommersa40-20261009-v3.webp,2328756,29a7a6b73963ff4dd0a871be9dcac3256c34732eb6bafa9822c58de85b1f2d3a
+WF-244-A,book,assets/book/WF-244-A.webp,homebrewery/art/images/exports/WF-244-A-sommersa40-20261009-v2.webp,2385274,4a7f2192d420c1e1a66d5f513c10f59130f67cd64bd39f4571352e2925dfa691
 WF-245-A,book,assets/book/WF-245-A.webp,homebrewery/art/images/exports/WF-245-A-veil40-20261009-v1.webp,2508248,9f0c078bd62dfd4731205d686ca85ec124a1bacbc54adcdd3373d80d7e183fa5
 WF-246-A,book,assets/book/WF-246-A.webp,homebrewery/art/images/exports/WF-246-A-veil40-20261009-v1.webp,1069308,347396de17a33766d9bd058fa46dc46ef16d5addf3446ce314290eb7a47556d6
 WF-247-A,book,assets/book/WF-247-A.webp,homebrewery/art/images/exports/WF-247-A-veil40-20261009-v1.webp,1790872,68aa89b44494186fbcfab054c73d5c525564480be4b56fc0a97a56629ef59b38
 WF-248-A,book,assets/book/WF-248-A.svg,homebrewery/art/vectors/WF-248-A-book-veil40.svg,16368,3d614b78fbeb150298f3d97be581579ed2daf47be90bdf58166b28b544ffb0b1
 WF-249-A,book,assets/book/WF-249-A.webp,homebrewery/art/images/exports/WF-249-A-veil40-20261009-v1.webp,2348288,fa7efd5fb8f56b9c7adbe3b2c26a3aacb0311712886cd94f231325ce6120b384
 WF-250-A,book,assets/book/WF-250-A.webp,homebrewery/art/images/exports/WF-250-A-veil40-20261009-v1.webp,1787468,9fd33ba8ddccbae5e3de95e50409a70f50fe9094f9d0e074e589dc8f66b4b146
+WF-251-A,book,assets/book/WF-251-A.webp,homebrewery/art/images/exports/WF-251-A-sommersa40-20261009-v2.webp,1472878,afe51b237b0f7d89f7428d50422a568ac29ec90e267e5f335cf89f4bc18642a0
 WF-252-A,book,assets/book/WF-252-A.webp,homebrewery/art/images/exports/WF-252-A-veil40-20261009-v1.webp,1867676,e89d76e4ea7fe3b8d81a60e746a2277f10450f278ced99a2fe25428848db7c49
 WF-253-A,book,assets/book/WF-253-A.webp,homebrewery/art/images/exports/WF-253-A-veil40-20261009-v1.webp,1282018,ab8ed3e9efcc0676054442bf3445c8457e2558017a17ffe7b906fc2010964aec
 WF-254-A,book,assets/book/WF-254-A.webp,homebrewery/art/images/exports/WF-254-A-veil40-20261009-v1.webp,1575378,58ca0cb13a0dd508f3a2e1003aaaaaf82837cc0b9bad13ce6a99d1e783ccc3e1
 WF-255-A,book,assets/book/WF-255-A.webp,homebrewery/art/images/exports/WF-255-A-veil40-20261009-v1.webp,2057708,800a5fb31fc7df1535130eba38417a43622cc95dbbdbb9fba8c744e540c6781b
 WF-256-A,book,assets/book/WF-256-A.webp,homebrewery/art/images/exports/WF-256-A-veil40-20261009-v1.webp,1606580,8a4d31a39a24dbbfe95032485bec3b7083b967764aa13abbb6aae59d9b71d8b8
+WF-257-A,book,assets/book/WF-257-A.webp,homebrewery/art/images/exports/WF-257-A-sommersa40-20261009-v2.webp,1110650,4eaa6fbba6b158dd9e6580dded5ec151a674b4289108f3a4b1b13799200424a1
+WF-258-A,book,assets/book/WF-258-A.webp,homebrewery/art/images/exports/WF-258-A-sommersa40-20261009-v2.webp,1885206,bea899a2776f63244ef4fe5387583e50de1547dbb6a2e489973325edc9ab2a3e
+WF-259-A,book,assets/book/WF-259-A.webp,homebrewery/art/images/exports/WF-259-A-sommersa40-20261010-v3.webp,2089866,388d47e614e9cc15f6ba9726cf1fb4756767f2e8a82780fcf9bf6243be944f94
+WF-260-A,book,assets/book/WF-260-A.webp,homebrewery/art/images/exports/WF-260-A-sommersa40-20261009-v2.webp,2085474,129e8be652c50e4545e5ed98d8b72d64fb7348e53e8d33f790a6060fa9f1bb9a
+WF-261-A,book,assets/book/WF-261-A.webp,homebrewery/art/images/exports/WF-261-A-sommersa40-20261009-v1.webp,2022278,8a5659ada870c835f8bb335967d3140362314c49ddaa8f6969ebcfc3d40f3b01
 WF-262-A,book,assets/book/WF-262-A.svg,homebrewery/art/vectors/WF-262-A-book-finalmaps.svg,19829,59b72ab50f72b4d42497a6934df34c88877dc28cb222514f1038da1847194d74
-WF-277-A,book,assets/book/WF-277-A.svg,homebrewery/art/vectors/WF-277-A-book-finalmaps.svg,44088,f606d3a378ca1f893edb6cb5507a86e2a140e0d36c8df24169147e36331f1ccc
+WF-263-A,book,assets/book/WF-263-A.webp,homebrewery/art/images/exports/WF-263-A-sommersa40-20261010-v3.webp,2468268,39795c876df007a581fca017b2899e780bcb3283e6d9b266bf723fd8f25414f6
+WF-264-A,book,assets/book/WF-264-A.webp,homebrewery/art/images/exports/WF-264-A-sommersa40-20261009-v2.webp,1745520,f3bc0cf17c789a05afd552625a0a9076e86e7688638d8f7fdf314725e98c7a0d
+WF-265-A,book,assets/book/WF-265-A.webp,homebrewery/art/images/exports/WF-265-A-sommersa40-20261009-v1.webp,1842322,f28f7c945c624a51559e4a100a1b70d239eaf9141c17afb7af53f037b4517442
+WF-266-A,book,assets/book/WF-266-A.webp,homebrewery/art/images/exports/WF-266-A-sommersa40-20261009-v2.webp,2179792,ecbcea978aa74a4a7a2d97a22fdeb893b44503347ee54bf6303cdc306a8c8f5b
+WF-267-A,book,assets/book/WF-267-A.webp,homebrewery/art/images/exports/WF-267-A-sommersa40-20261009-v1.webp,1907758,3193a2968d97e91a8693c9b8740df73d382c1f2371279ec946ae935c0927f968
+WF-268-A,book,assets/book/WF-268-A.webp,homebrewery/art/images/exports/WF-268-A-sommersa40-20261009-v1.webp,2490916,c82a9eac32fede60cd39889f4ee7064ad6f224f50d8c34d3d726a497a02638e0
+WF-269-A,book,assets/book/WF-269-A.webp,homebrewery/art/images/exports/WF-269-A-sommersa40-20261009-v1.webp,2061288,1f1c58c94d0fce24d116c0308b9ec3e46baf4f849c3b54d8e93ffab5bae30078
+WF-270-A,book,assets/book/WF-270-A.webp,homebrewery/art/images/exports/WF-270-A-sommersa40-20261009-v1.webp,2587188,caf7a77a2ef4b30fac44a7f1562dbc54746d9e853492349a460e46cb4f3a926a
+WF-271-A,book,assets/book/WF-271-A.webp,homebrewery/art/images/exports/WF-271-A-sommersa40-20261009-v1.webp,2281142,274f4927863fd83b2eb4a19c57532fdbb5d8387564df6c1142df86abf3e70833
+WF-272-A,book,assets/book/WF-272-A.webp,homebrewery/art/images/exports/WF-272-A-sommersa40-20261009-v1.webp,2283296,e0e54dae9f08e646065a0d661ca23fa86a33f11ddd33a1bad61c561a7c65c83b
+WF-273-A,book,assets/book/WF-273-A.webp,homebrewery/art/images/exports/WF-273-A-sommersa40-20261010-v3.webp,1971206,c88a03f53a4aae57253770942893b9123db0e5ff61bd593a88012c05fc3b431f
+WF-274-A,book,assets/book/WF-274-A.webp,homebrewery/art/images/exports/WF-274-A-sommersa40-20261010-v3.webp,2210728,dbc0297e86cf8962b9031881f443eb23728c24cab45d18e26a52594fefc7b515
+WF-275-A,book,assets/book/WF-275-A.webp,homebrewery/art/images/exports/WF-275-A-sommersa40-20261010-v3.webp,2012990,98f91b7b96691f1e4bb61d1dd209586ba5bff24678e74ea8c5a757d6a437dcfa
+WF-276-A,book,assets/book/WF-276-A.webp,homebrewery/art/images/exports/WF-276-A-sommersa40-20261009-v1.webp,2293208,7208976bc2588c7460fb8b791424262031d3f884a5311fa6621dd6ecccf28c65
+WF-276-B,book,assets/book/WF-276-B.webp,homebrewery/art/images/exports/WF-276-B-sommersa40-20261009-v1.webp,1600758,39623fb9a1b1b913dedcf9a17d9b7f101909e93f1e4bac9ed5b18d2e1b8232f3
+WF-277-A,book,assets/book/WF-277-A.svg,homebrewery/art/vectors/WF-277-A-book-sommersa40-v2.svg,43048,16cee501b3f147db4ababcf84efa68a4bccf26d1d222ccdf43d4e281aa42376c
+WF-277-B,book,assets/book/WF-277-B.webp,homebrewery/art/images/exports/WF-277-B-sommersa40-20261009-v1.webp,1770316,1f204283ba21b242e66c09002fbd4540aa16ba0ba063f0b0ebfc154a4c5075fb
+WF-278-A,book,assets/book/WF-278-A.webp,homebrewery/art/images/exports/WF-278-A-sommersa40-20261009-v1.webp,2106134,598aa60fd1fe34503b88d5037e6ab5c9b7eef1c49d5b54bc88c3e386d2071ab8
+WF-279-A,book,assets/book/WF-279-A.webp,homebrewery/art/images/exports/WF-279-A-sommersa40-20261009-v1.webp,2284728,6cdd046cc2095cce0b4391601311241e0b75c29976c1a38949024758632e7efc
+WF-280-A,book,assets/book/WF-280-A.webp,homebrewery/art/images/exports/WF-280-A-sommersa40-20261009-v1.webp,1607476,c89331b548f56657ee40d7d1e000e55469d653db04772dae1b28f15766163e18
+WF-281-A,book,assets/book/WF-281-A.webp,homebrewery/art/images/exports/WF-281-A-sommersa40-20261009-v1.webp,2276732,cf86025dbe18580d77bd3ab1b482d1b821f3805fcf606302750037aded1754b1
+WF-282-A,book,assets/book/WF-282-A.webp,homebrewery/art/images/exports/WF-282-A-sommersa40-20261009-v2.webp,2072622,a243fec7287eaedcf2ddf06b568d82509757c9603c3ea77d19260cedee87cc68
+WF-283-A,book,assets/book/WF-283-A.webp,homebrewery/art/images/exports/WF-283-A-sommersa40-20261009-v3.webp,2193766,3c1bc08dbbdddf973028b4a897d951107a56c691a4647e6a98b60cd768180fb9
+WF-284-A,book,assets/book/WF-284-A.webp,homebrewery/art/images/exports/WF-284-A-sommersa40-20261009-v3.webp,1795674,917eea822e0893d993cef17195414665d2c8413f8123f08cb96a40d7e4060a0d
+WF-285-A,book,assets/book/WF-285-A.webp,homebrewery/art/images/exports/WF-285-A-sommersa40-20261010-v3.webp,1815056,a83b8ebc853924e0aa2174474d8ba2c19094653613073f2e102a6c6a7b92f523
+WF-285-B,book,assets/book/WF-285-B.webp,homebrewery/art/images/exports/WF-285-B-sommersa40-20261009-v1.webp,1799368,84e2a791340a268aff3454e13d7fd1063a5672d707633b8fb1adf72986c83b5e
+WF-286-A,book,assets/book/WF-286-A.webp,homebrewery/art/images/exports/WF-286-A-sommersa40-20261009-v1.webp,2387640,ee3d0029a572b4a929580a35b6744dc2e04bf2f26adfbb01c822378d8cd0a954
+WF-287-A,book,assets/book/WF-287-A.webp,homebrewery/art/images/exports/WF-287-A-sommersa40-20261009-v1.webp,2413594,c5384f2ce634456a22237d8c15b500d275ab294f3cc3fbc0dcb21d1348f40e65
+WF-287-B,book,assets/book/WF-287-B.webp,homebrewery/art/images/exports/WF-287-B-sommersa40-20261009-v2.webp,1823666,7bd5f2f28e88fd154c9be50911eaaca4f1dc19c1e2aa4423caa8c12ca9954b9c
+WF-288-A,book,assets/book/WF-288-A.webp,homebrewery/art/images/exports/WF-288-A-sommersa40-20261009-v2.webp,2292876,5a100df2ce37f785a6e3f110da40cd249e5c16a042c5916780e78bb6e10bd8c4
 WF-297-A,book,assets/book/WF-297-A.svg,homebrewery/art/vectors/WF-297-A-book-veil40.svg,4287,b17e211c023af99fae0b0adab498cebc9a4bf87f0bd4287cba202e9070033885
 WF-311-A,book,assets/book/WF-311-A.svg,homebrewery/art/vectors/WF-311-A-book-veil40.svg,7660,c82c1a8c84d1e0ea8143464f5539f65966005fd31c36ffec6f0c6d2f3fc21620
 WF-311-B,book,assets/book/WF-311-B.svg,homebrewery/art/vectors/WF-311-B-book-veil40.svg,8082,5e94f44eb3ad93bf74bb9716f73a14d43ee9a1c248f0c1d228e35e417e8eac67
@@ -329,7 +369,11 @@ REF-LILITH,reference,assets/references/REF-LILITH.png,homebrewery/art/models/REF
 REF-LILITH-SHADOW,reference,assets/references/REF-LILITH-SHADOW.png,homebrewery/art/models/REF-LILITH-SHADOW-veil40-20261009-v1.png,2674953,c79ec42a01d1bf5a3a268758a2f5fbb24ab998179f23d949c7ead2a5d416950f
 REF-TOPAZ-DAGGER,reference,assets/references/REF-TOPAZ-DAGGER.png,homebrewery/art/models/REF-TOPAZ-DAGGER-veil40-20261009-v1.png,2178164,618baa46e8aaaa93bffb7649d7f78f95d8bbfa8fb56ed5923718834728132ed9
 REF-GALA-BIDDERS,reference,assets/references/REF-GALA-BIDDERS.png,homebrewery/art/models/REF-GALA-BIDDERS-veil40-20261009-v2.png,2562760,0065cfcf863d0ac5aee50daf30e98486a3585bdca432f58c5e7977c4ab605925
-REF-CAMPANILE,reference,assets/references/REF-CAMPANILE.png,homebrewery/art/models/REF-CAMPANILE-veil40-20261009-v2.png,3199496,518dcabafb5a0b44f5f979d8d300369c5696f54faee19096771fb0baad54d42b
+REF-CAMPANILE,reference,assets/references/REF-CAMPANILE.png,homebrewery/art/models/REF-CAMPANILE-sommersa40-20261009-v3.png,2791457,ab97f7dc70ba5a54f1abab5f1e0fd3068567b915762494980df4cc7e5b5aa774
+REF-DEATHSTING,reference,assets/references/REF-DEATHSTING.png,homebrewery/art/models/REF-DEATHSTING-sommersa40-20261009-v1.png,2468692,25cc0ff802b7d12888da6e7e4072cc34d31435d3e5825f6f83ba3413a99292bb
+REF-LIBITINA-CHIMERA,reference,assets/references/REF-LIBITINA-CHIMERA.png,homebrewery/art/models/REF-LIBITINA-CHIMERA-sommersa40-20261009-v1.png,2811348,31f5b3509afc6cb6a37172c4a40447043417060943fbb5f987fd05c82b94dd79
+REF-IRON-MANUAL,reference,assets/references/REF-IRON-MANUAL.png,homebrewery/art/models/REF-IRON-MANUAL-sommersa40-20261009-v1.png,2471435,1d1647f102df95bbcdc0cebd00e528c3ff744fa4ea50727dad817535ecb42c59
+REF-ELIO,reference,assets/references/REF-ELIO.png,homebrewery/art/models/REF-ELIO-sommersa40-20261009-v4.png,2615694,5d5bc8b4cd10ceb8fbfe325cfabc54b56fc617b1a783d5de4bdca35954ec8c3c
 WF-035-A,book vector,assets/maps/WF-035-A-town-book-v1.svg,homebrewery/art/maps/WF-035-A-town-book-v1.svg,115709,7c27e4a955123d113c2df7c163fa194964508910c3e5908da594642cf7d27a47
 WF-035-A,book PNG,assets/maps/png/WF-035-A-town-book-v1.png,homebrewery/art/maps/exports/WF-035-A-town-book-v1.png,886380,87529f5715ac6c4124d414edf6459a7fbc9e3eacaf0343fa2959f117ab2ded4b
 WF-035-A,player-print vector,assets/maps/WF-035-A-town-player-v1.svg,homebrewery/art/maps/WF-035-A-town-player-v1.svg,115709,7c27e4a955123d113c2df7c163fa194964508910c3e5908da594642cf7d27a47
@@ -598,16 +642,16 @@ WF-262-A,gm-plan vector,assets/vectors/WF-262-A-gm-plan-finalmaps.svg,homebrewer
 WF-262-A,gm-plan PNG,assets/vectors/png/WF-262-A-gm-plan-finalmaps.png,homebrewery/art/vectors/exports/WF-262-A-gm-plan-finalmaps.png,388403,d599dff29e9b50c16af0b5dc8b9473e974118d6db9cf8be304f60080094e676f
 WF-262-A,player-clean vector,assets/vectors/WF-262-A-player-clean-finalmaps.svg,homebrewery/art/vectors/WF-262-A-player-clean-finalmaps.svg,7193,729431e3c26526b554771c6f05cfad0c95b8abf68798153f68cf7b28a00ba280
 WF-262-A,player-clean PNG,assets/vectors/png/WF-262-A-player-clean-finalmaps.png,homebrewery/art/vectors/exports/WF-262-A-player-clean-finalmaps.png,98190,8d7ee7551c967324a186247d4b5aaf421f9838a704df3c3bc002e457b4f027b8
-WF-277-A,book vector,assets/vectors/WF-277-A-book-finalmaps.svg,homebrewery/art/vectors/WF-277-A-book-finalmaps.svg,44088,f606d3a378ca1f893edb6cb5507a86e2a140e0d36c8df24169147e36331f1ccc
-WF-277-A,book PNG,assets/vectors/png/WF-277-A-book-finalmaps.png,homebrewery/art/vectors/exports/WF-277-A-book-finalmaps.png,1081357,cac016e964b80c318fe9dfd497cbab010f482402d780cd25d48d7c1d931b9206
-WF-277-A,gm-grid vector,assets/vectors/WF-277-A-gm-grid-finalmaps.svg,homebrewery/art/vectors/WF-277-A-gm-grid-finalmaps.svg,40950,ac7de86e8c28d83c6431812b1700c5ae693538575942c11c151a6360685ec41e
-WF-277-A,gm-grid PNG,assets/vectors/png/WF-277-A-gm-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-277-A-gm-grid-finalmaps.png,394300,3b6ec2ab6eff5dcd5e6db1f568fc9b4fe19c0caea1bd1d00d57b7a72fefa8d0b
-WF-277-A,player-grid vector,assets/vectors/WF-277-A-player-grid-finalmaps.svg,homebrewery/art/vectors/WF-277-A-player-grid-finalmaps.svg,29045,545df7aac19228fbc80a629f6e34f8ae15063b2be53e55f3b14e1d1d1896c18f
-WF-277-A,player-grid PNG,assets/vectors/png/WF-277-A-player-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-277-A-player-grid-finalmaps.png,136278,9402e437bbd8a57a7e85ed80cf89295e5786a7d1ea284675bed3f913f9d724cf
-WF-277-A,player-clean vector,assets/vectors/WF-277-A-player-clean-finalmaps.svg,homebrewery/art/vectors/WF-277-A-player-clean-finalmaps.svg,28750,83bdd30bcca7ebbef4e71eb70babe05ec1a12deee17ef63f485e046c4dfad23c
-WF-277-A,player-clean PNG,assets/vectors/png/WF-277-A-player-clean-finalmaps.png,homebrewery/art/vectors/exports/WF-277-A-player-clean-finalmaps.png,119559,7556d3cf0f282e0718c284716858f4acc2d49bd4398ec1cf152d9ff259d3583f
-WF-277-A,player-stage-grid vector,assets/vectors/WF-277-A-player-stage-grid-finalmaps.svg,homebrewery/art/vectors/WF-277-A-player-stage-grid-finalmaps.svg,34391,4d530364362888bfafeca6de3b7d36a5d911d4d67cb236a4129a42a14a5c2ba1
-WF-277-A,player-stage-grid PNG,assets/vectors/png/WF-277-A-player-stage-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-277-A-player-stage-grid-finalmaps.png,152072,cc876e8a79cc470a91ed7e5ca2d2100f82c316df102c72c32a446e6d82f5070d
+WF-277-A,superseded-book vector,assets/vectors/WF-277-A-book-finalmaps.svg,homebrewery/art/vectors/WF-277-A-book-finalmaps.svg,44088,f606d3a378ca1f893edb6cb5507a86e2a140e0d36c8df24169147e36331f1ccc
+WF-277-A,superseded-book PNG,assets/vectors/png/WF-277-A-book-finalmaps.png,homebrewery/art/vectors/exports/WF-277-A-book-finalmaps.png,1081357,cac016e964b80c318fe9dfd497cbab010f482402d780cd25d48d7c1d931b9206
+WF-277-A,superseded-gm-grid vector,assets/vectors/WF-277-A-gm-grid-finalmaps.svg,homebrewery/art/vectors/WF-277-A-gm-grid-finalmaps.svg,40950,ac7de86e8c28d83c6431812b1700c5ae693538575942c11c151a6360685ec41e
+WF-277-A,superseded-gm-grid PNG,assets/vectors/png/WF-277-A-gm-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-277-A-gm-grid-finalmaps.png,394300,3b6ec2ab6eff5dcd5e6db1f568fc9b4fe19c0caea1bd1d00d57b7a72fefa8d0b
+WF-277-A,superseded-player-grid vector,assets/vectors/WF-277-A-player-grid-finalmaps.svg,homebrewery/art/vectors/WF-277-A-player-grid-finalmaps.svg,29045,545df7aac19228fbc80a629f6e34f8ae15063b2be53e55f3b14e1d1d1896c18f
+WF-277-A,superseded-player-grid PNG,assets/vectors/png/WF-277-A-player-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-277-A-player-grid-finalmaps.png,136278,9402e437bbd8a57a7e85ed80cf89295e5786a7d1ea284675bed3f913f9d724cf
+WF-277-A,superseded-player-clean vector,assets/vectors/WF-277-A-player-clean-finalmaps.svg,homebrewery/art/vectors/WF-277-A-player-clean-finalmaps.svg,28750,83bdd30bcca7ebbef4e71eb70babe05ec1a12deee17ef63f485e046c4dfad23c
+WF-277-A,superseded-player-clean PNG,assets/vectors/png/WF-277-A-player-clean-finalmaps.png,homebrewery/art/vectors/exports/WF-277-A-player-clean-finalmaps.png,119559,7556d3cf0f282e0718c284716858f4acc2d49bd4398ec1cf152d9ff259d3583f
+WF-277-A,superseded-player-stage-grid vector,assets/vectors/WF-277-A-player-stage-grid-finalmaps.svg,homebrewery/art/vectors/WF-277-A-player-stage-grid-finalmaps.svg,34391,4d530364362888bfafeca6de3b7d36a5d911d4d67cb236a4129a42a14a5c2ba1
+WF-277-A,superseded-player-stage-grid PNG,assets/vectors/png/WF-277-A-player-stage-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-277-A-player-stage-grid-finalmaps.png,152072,cc876e8a79cc470a91ed7e5ca2d2100f82c316df102c72c32a446e6d82f5070d
 WF-382-A,book vector,assets/vectors/WF-382-A-book-finalmaps.svg,homebrewery/art/vectors/WF-382-A-book-finalmaps.svg,6081,69d6014029946f31fb113cdd94df6f80f86dc45a3e3e36b742aa4713a2da0481
 WF-382-A,book PNG,assets/vectors/png/WF-382-A-book-finalmaps.png,homebrewery/art/vectors/exports/WF-382-A-book-finalmaps.png,377160,ff18f3cd555da337cf552f5c48ac8e58b65367e86170c334d2f99c00a3faf72f
 WF-382-A,gm-grid vector,assets/vectors/WF-382-A-gm-grid-finalmaps.svg,homebrewery/art/vectors/WF-382-A-gm-grid-finalmaps.svg,4898,d629f4dcb508a585fca6cb08330b71eaf3b349bd23e5d10a78fdaa365d0ed6dd
@@ -642,6 +686,16 @@ WF-358-B,book vector,assets/vectors/WF-358-B-book-finalmaps.svg,homebrewery/art/
 WF-358-B,book PNG,assets/vectors/png/WF-358-B-book-finalmaps.png,homebrewery/art/vectors/exports/WF-358-B-book-finalmaps.png,194765,3f29cdecaf21b1b1ebea40529f86d1f9f930db7584068c7a5ae66c7d6a225b8a
 WF-365-B,book vector,assets/vectors/WF-365-B-wrenhaven-siege-book-v3.svg,homebrewery/art/vectors/WF-365-B-wrenhaven-siege-book-v3.svg,56506,9ad7e6f1c3b9fde1c580f4c4dd8818565016dd284c5a11c7303e757408bb6dfe
 WF-365-B,book PNG,assets/vectors/png/WF-365-B-wrenhaven-siege-book-v3.png,homebrewery/art/vectors/exports/WF-365-B-wrenhaven-siege-book-v3.png,899233,798eae7847e64c560e4ef1040846ad644acfbc02eeb0ff5799e5cf2d55eeb6db
+WF-277-A,book vector,assets/vectors/WF-277-A-book-sommersa40-v2.svg,homebrewery/art/vectors/WF-277-A-book-sommersa40-v2.svg,43048,16cee501b3f147db4ababcf84efa68a4bccf26d1d222ccdf43d4e281aa42376c
+WF-277-A,book PNG,assets/vectors/png/WF-277-A-book-sommersa40-v2.png,homebrewery/art/vectors/exports/WF-277-A-book-sommersa40-v2.png,1096027,dd6163125dade4f0f6834146a46c2d3e40484ff756b3338a3316028a92b152b7
+WF-277-A,gm-grid vector,assets/vectors/WF-277-A-gm-grid-sommersa40-v2.svg,homebrewery/art/vectors/WF-277-A-gm-grid-sommersa40-v2.svg,39903,aa2d1ca0ff93fb7271e465c0c60ffa22b8f3dac343360a083ab7326ce859bcb2
+WF-277-A,gm-grid PNG,assets/vectors/png/WF-277-A-gm-grid-sommersa40-v2.png,homebrewery/art/vectors/exports/WF-277-A-gm-grid-sommersa40-v2.png,404182,16c7f77a452fbf49af0da6cc63c9a19774fb797d35b2056c9ae8cd8d8b578009
+WF-277-A,player-grid vector,assets/vectors/WF-277-A-player-grid-sommersa40-v2.svg,homebrewery/art/vectors/WF-277-A-player-grid-sommersa40-v2.svg,27886,ba3e360d2e7538d74d96aef816423862fe72c83bdf79e5222d8dab7d130d5c24
+WF-277-A,player-grid PNG,assets/vectors/png/WF-277-A-player-grid-sommersa40-v2.png,homebrewery/art/vectors/exports/WF-277-A-player-grid-sommersa40-v2.png,139596,90f1f6f1c5c62b378833e4e49d1ba2460770a3d480c94b212601502adb632bae
+WF-277-A,player-clean vector,assets/vectors/WF-277-A-player-clean-sommersa40-v2.svg,homebrewery/art/vectors/WF-277-A-player-clean-sommersa40-v2.svg,27602,b822a9d6f193dfbd697c4dc7356448bb43bf942ce1ade7ecc84ca71f95a3c317
+WF-277-A,player-clean PNG,assets/vectors/png/WF-277-A-player-clean-sommersa40-v2.png,homebrewery/art/vectors/exports/WF-277-A-player-clean-sommersa40-v2.png,122676,bb6ac2d6c1351f330407fdad01e191ea0655183eb329cb638fcf65000d822430
+WF-277-A,player-stage-grid vector,assets/vectors/WF-277-A-player-stage-grid-sommersa40-v2.svg,homebrewery/art/vectors/WF-277-A-player-stage-grid-sommersa40-v2.svg,32959,d22e8cabaaee82c8d1e08457942863555a76ccb49fa1e0e88d015e6499108330
+WF-277-A,player-stage-grid PNG,assets/vectors/png/WF-277-A-player-stage-grid-sommersa40-v2.png,homebrewery/art/vectors/exports/WF-277-A-player-stage-grid-sommersa40-v2.png,155289,80b1e81d223dc4cae1573c4c3f5f809bffd00737f7c1f7bdea83db5af6ae7f86
 imageMaskCenter6,watercolor mask,assets/masks/center-0006.webp,homebrewery/art/masks/center-0006.webp,69654,318d435b513df1ed9ab527d56bcb98f979173127c131bcfa1a9abd7a210ab93c
 imageMaskCorner19,watercolor mask,assets/masks/corner-0019.webp,homebrewery/art/masks/corner-0019.webp,160236,47050ea728e8f57451e4c9e05a15d051171501da73619b5fb0ae5baf3a51df5d
 imageMaskCorner23,watercolor mask,assets/masks/corner-0023.webp,homebrewery/art/masks/corner-0023.webp,158198,b30b5ef6ae9277dc92ab1098ec281adc12ed7382b67d973674632273bd0f5fc4
