@@ -86,8 +86,8 @@ WF-102-A,book,assets/book/WF-102-A.svg,homebrewery/art/vectors/WF-102-A-ashwatch
 WF-107-A,book,assets/book/WF-107-A.webp,homebrewery/art/images/exports/WF-107-A-basilica-20261008-v1.webp,2395546,71ea8d8c9f21d46eff48a6b59c9ccd0b26a782ab99f86428bc490dde6f3d7705
 WF-108-A,book,assets/book/WF-108-A.webp,homebrewery/art/images/exports/WF-108-A-basilica-20261008-v1.webp,1982452,5de194328f8332d8b8b2dfab1d56711e6fc56bb50ee8d15f61886b7349d1f4d0
 WF-109-A,book,assets/book/WF-109-A.webp,homebrewery/art/images/exports/WF-109-A-basilica2-20261008-v2.webp,2069230,fd1af60614b68c90d9c6caf23890d14cbfa6c05370af6e72ad49a12946c6d055
-WF-110-A,book,assets/book/WF-110-A.svg,homebrewery/art/vectors/WF-110-A-book-finalmaps.svg,29791,0060b437e1068c50969e6a59e39a1cd130691ea4f52f611dd9cd8feff9947567
-WF-110-B,book,assets/book/WF-110-B.svg,homebrewery/art/vectors/WF-110-B-book-finalmaps.svg,18885,372f4d48d3a64372eec03cabe89d2e474164979f437793ea1513a5ec13e08224
+WF-110-A,book,assets/book/WF-110-A.svg,homebrewery/art/vectors/WF-110-A-book-finalmaps.svg,29791,560101e3ee75447e15e1350a4b597452af1670d138f3be52a2dab7407addcdff
+WF-110-B,book,assets/book/WF-110-B.svg,homebrewery/art/vectors/WF-110-B-book-finalmaps.svg,18885,fb6db65c772f450ead7b7a38d82889b46ad6dbf9329cba703d41a52ea54a1605
 WF-111-A,book,assets/book/WF-111-A.webp,homebrewery/art/images/exports/WF-111-A-basilica2-20261008-v2.webp,2037234,a87622e2bc9f0663123fa22a5e2e0a3fe1c0bfa99256a7bb24a72a9529b001eb
 WF-112-A,book,assets/book/WF-112-A.webp,homebrewery/art/images/exports/WF-112-A-basilica-20261008-v1.webp,2469762,eb3130e7eda21fdfb90626721d56fd9136dc91d59f36e5434a7cc815cc714eca
 WF-113-A,book,assets/book/WF-113-A.webp,homebrewery/art/images/exports/WF-113-A-basilica2-20261008-v2.webp,2312964,dccbe19d95148bf9870e196a96f13d9b1bcc860a38666774fa352093b14eceee
@@ -236,8 +236,8 @@ WF-253-A,book,assets/book/WF-253-A.webp,homebrewery/art/images/exports/WF-253-A-
 WF-254-A,book,assets/book/WF-254-A.webp,homebrewery/art/images/exports/WF-254-A-veil40-20261009-v1.webp,1575378,58ca0cb13a0dd508f3a2e1003aaaaaf82837cc0b9bad13ce6a99d1e783ccc3e1
 WF-255-A,book,assets/book/WF-255-A.webp,homebrewery/art/images/exports/WF-255-A-veil40-20261009-v1.webp,2057708,800a5fb31fc7df1535130eba38417a43622cc95dbbdbb9fba8c744e540c6781b
 WF-256-A,book,assets/book/WF-256-A.webp,homebrewery/art/images/exports/WF-256-A-veil40-20261009-v1.webp,1606580,8a4d31a39a24dbbfe95032485bec3b7083b967764aa13abbb6aae59d9b71d8b8
-WF-262-A,book,assets/book/WF-262-A.svg,homebrewery/art/vectors/WF-262-A-book-finalmaps.svg,19829,65318c3840da34e3520444b9b633a108525dc69af53a50a1e5150b5510f0d93a
-WF-277-A,book,assets/book/WF-277-A.svg,homebrewery/art/vectors/WF-277-A-book-finalmaps.svg,44088,bea426e7a35a715dd096556d9cca16237ee6c8b5daf3ab59c9bfb1432bffa6ac
+WF-262-A,book,assets/book/WF-262-A.svg,homebrewery/art/vectors/WF-262-A-book-finalmaps.svg,19829,59b72ab50f72b4d42497a6934df34c88877dc28cb222514f1038da1847194d74
+WF-277-A,book,assets/book/WF-277-A.svg,homebrewery/art/vectors/WF-277-A-book-finalmaps.svg,44088,f606d3a378ca1f893edb6cb5507a86e2a140e0d36c8df24169147e36331f1ccc
 WF-297-A,book,assets/book/WF-297-A.svg,homebrewery/art/vectors/WF-297-A-book-veil40.svg,4287,b17e211c023af99fae0b0adab498cebc9a4bf87f0bd4287cba202e9070033885
 WF-311-A,book,assets/book/WF-311-A.svg,homebrewery/art/vectors/WF-311-A-book-veil40.svg,7660,c82c1a8c84d1e0ea8143464f5539f65966005fd31c36ffec6f0c6d2f3fc21620
 WF-311-B,book,assets/book/WF-311-B.svg,homebrewery/art/vectors/WF-311-B-book-veil40.svg,8082,5e94f44eb3ad93bf74bb9716f73a14d43ee9a1c248f0c1d228e35e417e8eac67
@@ -255,13 +255,13 @@ WF-369-B,book,assets/book/WF-369-B.svg,homebrewery/art/vectors/WF-369-B-book-fin
 WF-377-A,book,assets/book/WF-377-A.svg,homebrewery/art/vectors/WF-377-A-book-veil40.svg,7748,a89497bc55eb8f86f42e8906e208e13b8311d6ddb4fd30cf2b0b94ce1b1ad300
 WF-378-A,book,assets/book/WF-378-A.svg,homebrewery/art/vectors/WF-378-A-book-v2.svg,3788,7f52938294cf0a9349a125616c391e7ad711aa7f9285e3a086d5e317bb8c78cb
 WF-379-A,book,assets/book/WF-379-A.svg,homebrewery/art/vectors/WF-379-A-book-veil40.svg,6563,53797bd02943e0304b9dc5cac766310b7b5d599678e9b50a247d0672f84c6c77
-WF-382-A,book,assets/book/WF-382-A.svg,homebrewery/art/vectors/WF-382-A-book-finalmaps.svg,6081,6a851ffba339a8bcadeccf4412927b9c78572108c712ed26f77bc638de05d383
+WF-382-A,book,assets/book/WF-382-A.svg,homebrewery/art/vectors/WF-382-A-book-finalmaps.svg,6081,69d6014029946f31fb113cdd94df6f80f86dc45a3e3e36b742aa4713a2da0481
 WF-387-A,book,assets/book/WF-387-A.svg,homebrewery/art/vectors/WF-387-A-book-v2.svg,1524,f185933ba29ad61181bb6af8f51b339d70aba425cf25ac7aad2c7328fc36b811
-WF-390-A,book,assets/book/WF-390-A.svg,homebrewery/art/vectors/WF-390-A-book-finalmaps.svg,8102,f814a33e17612713b62ef7f471f2e8f77ac3972ae2a39b58675aa0d3071b3b1d
+WF-390-A,book,assets/book/WF-390-A.svg,homebrewery/art/vectors/WF-390-A-book-finalmaps.svg,8102,01363e77ca149af06cfbd49dd582c696edeccc6a83d8bda511fd8862cf16b10a
 WF-396-B,book,assets/book/WF-396-B.svg,homebrewery/art/vectors/WF-396-B-book-v2.svg,2044,9e8538b0242d6c68dfca59cf6025ac661d2668266abf499138c8725c21c993f3
 WF-403-A,book,assets/book/WF-403-A.svg,homebrewery/art/vectors/WF-403-A-book-v2.svg,4614,c902d554ae1d0dddb9796bf32a024c0e7a518ac4f2e7524887c1cdb42472f479
 WF-404-A,book,assets/book/WF-404-A.svg,homebrewery/art/vectors/WF-404-A-book-v2.svg,987,d80d3bad4dbfed44510d2a069ff5462df827775c87ecd002da6407e9c048ba17
-WF-412-A,book,assets/book/WF-412-A.svg,homebrewery/art/vectors/WF-412-A-book-finalmaps.svg,6609,3b7659a0fa2ed4e3ee62dab40b13dd0a9e57c48a459e382ba00758fd61d22e4f
+WF-412-A,book,assets/book/WF-412-A.svg,homebrewery/art/vectors/WF-412-A-book-finalmaps.svg,6609,f352623a78721384aa0c78d97a45e5d1b14487a18fbb5cc14007002f1816a27f
 WF-429-B,book,assets/book/WF-429-B.svg,homebrewery/art/vectors/WF-429-B-book-veil40.svg,809,4a2cee9dfa8af11a331d04c93c19f39d2dbb1d5621485ebddd3153f36bcd2030
 WF-436-A,book,assets/book/WF-436-A.webp,homebrewery/art/images/exports/WF-436-A-ink-20261008-v1.webp,1909540,ec2b5b01a9792abe260ae7de8b3693b85584d35fb8e2a4f6d5550348c40c6d4f
 WF-437-A,book,assets/book/WF-437-A.webp,homebrewery/art/images/exports/WF-437-A-ink-20261008-v1.webp,1575086,aa5c5efccdcedb3a256e89d41d7b1ab7e8234b03d358ed6a7260e1cd1b940497
@@ -572,9 +572,9 @@ WF-470-A,book vector,assets/vectors/WF-470-A-book-veil40.svg,homebrewery/art/vec
 WF-470-A,book PNG,assets/vectors/png/WF-470-A-book-veil40.png,homebrewery/art/vectors/exports/WF-470-A-book-veil40.png,123439,ad5021467e721182f79d5b5f45e8d3b3dbfaf9cfa088663d7df98ba3f333d975
 WF-472-A,book vector,assets/vectors/WF-472-A-book-veil40.svg,homebrewery/art/vectors/WF-472-A-book-veil40.svg,1166,2420ffc153a7a82a7fa61ff63e52095dcf21efc581760bfb05df8e258d16f41b
 WF-472-A,book PNG,assets/vectors/png/WF-472-A-book-veil40.png,homebrewery/art/vectors/exports/WF-472-A-book-veil40.png,137480,c13847087eb379d486f7e1ddcbd922ee5ba779ea16e9bf0208a1b1124932b365
-WF-110-A,book vector,assets/vectors/WF-110-A-book-finalmaps.svg,homebrewery/art/vectors/WF-110-A-book-finalmaps.svg,29791,0060b437e1068c50969e6a59e39a1cd130691ea4f52f611dd9cd8feff9947567
+WF-110-A,book vector,assets/vectors/WF-110-A-book-finalmaps.svg,homebrewery/art/vectors/WF-110-A-book-finalmaps.svg,29791,560101e3ee75447e15e1350a4b597452af1670d138f3be52a2dab7407addcdff
 WF-110-A,book PNG,assets/vectors/png/WF-110-A-book-finalmaps.png,homebrewery/art/vectors/exports/WF-110-A-book-finalmaps.png,716981,7c898fe50718b561e4c8e722dbfa77da40cf3e4bee804bffd33d26be6c68b9a1
-WF-110-A,gm-grid vector,assets/vectors/WF-110-A-gm-grid-finalmaps.svg,homebrewery/art/vectors/WF-110-A-gm-grid-finalmaps.svg,27783,96e099205708606549407739f5ee3fbdc3692de4f751c1f7dd6257d04dce1a46
+WF-110-A,gm-grid vector,assets/vectors/WF-110-A-gm-grid-finalmaps.svg,homebrewery/art/vectors/WF-110-A-gm-grid-finalmaps.svg,27783,f267edddf45d1a9dd275a14af4b84171480513ca7c88e84e8b9a70c82dd9ca16
 WF-110-A,gm-grid PNG,assets/vectors/png/WF-110-A-gm-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-110-A-gm-grid-finalmaps.png,250235,837f122c8f02b796ae954d7243bd71399d993fb762b558b2c0f15fbfea66ea92
 WF-110-A,player-grid vector,assets/vectors/WF-110-A-player-grid-finalmaps.svg,homebrewery/art/vectors/WF-110-A-player-grid-finalmaps.svg,22950,0c45d076d42aa026cfc3b1416a555ec2604d90ca982632fed13f2a808037aac8
 WF-110-A,player-grid PNG,assets/vectors/png/WF-110-A-player-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-110-A-player-grid-finalmaps.png,129398,b9bc0cd744721aacfb4571e787e2f33edf6af8eff0d33e0884f09ff358e72291
@@ -582,58 +582,58 @@ WF-110-A,player-clean vector,assets/vectors/WF-110-A-player-clean-finalmaps.svg,
 WF-110-A,player-clean PNG,assets/vectors/png/WF-110-A-player-clean-finalmaps.png,homebrewery/art/vectors/exports/WF-110-A-player-clean-finalmaps.png,118166,092927c8b86810bff8a663199c1dfba9fe7a63847cb88f3acacc6ab4d90aaca6
 WF-110-A,player-stage-grid vector,assets/vectors/WF-110-A-player-stage-grid-finalmaps.svg,homebrewery/art/vectors/WF-110-A-player-stage-grid-finalmaps.svg,18974,4dd324b2bb662f13467eb54f8e995b5639b38933a383550569e60cf8bd130466
 WF-110-A,player-stage-grid PNG,assets/vectors/png/WF-110-A-player-stage-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-110-A-player-stage-grid-finalmaps.png,123987,bb537d998f2b6fda031dcfeea5ed489bf0b29b18266f0cc17410230bc71909cd
-WF-110-B,book vector,assets/vectors/WF-110-B-book-finalmaps.svg,homebrewery/art/vectors/WF-110-B-book-finalmaps.svg,18885,372f4d48d3a64372eec03cabe89d2e474164979f437793ea1513a5ec13e08224
-WF-110-B,book PNG,assets/vectors/png/WF-110-B-book-finalmaps.png,homebrewery/art/vectors/exports/WF-110-B-book-finalmaps.png,616822,ed21e947f69094503eb6b7fb375b88d184688f8ad65cb000eeb79816418f4c06
-WF-110-B,gm-grid vector,assets/vectors/WF-110-B-gm-grid-finalmaps.svg,homebrewery/art/vectors/WF-110-B-gm-grid-finalmaps.svg,17229,4c4fe0112a86417edf50c08ab1cdbeba1e14ed36769eeb450325121af61ad5f5
-WF-110-B,gm-grid PNG,assets/vectors/png/WF-110-B-gm-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-110-B-gm-grid-finalmaps.png,199187,37e70c3eeccd9523c9e4de14d95c063544316bbea56413f6931abc69f672d426
+WF-110-B,book vector,assets/vectors/WF-110-B-book-finalmaps.svg,homebrewery/art/vectors/WF-110-B-book-finalmaps.svg,18885,fb6db65c772f450ead7b7a38d82889b46ad6dbf9329cba703d41a52ea54a1605
+WF-110-B,book PNG,assets/vectors/png/WF-110-B-book-finalmaps.png,homebrewery/art/vectors/exports/WF-110-B-book-finalmaps.png,622983,c4c58074c01ddcdbbf49d0e21b339b715b247adb735f2ef15c25d572f3eaedf9
+WF-110-B,gm-grid vector,assets/vectors/WF-110-B-gm-grid-finalmaps.svg,homebrewery/art/vectors/WF-110-B-gm-grid-finalmaps.svg,17229,1394063559cce2f0bb9eb128d2e6ccdb7c1b7d57bad6dab52b2302ea89b7c06c
+WF-110-B,gm-grid PNG,assets/vectors/png/WF-110-B-gm-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-110-B-gm-grid-finalmaps.png,204849,c34a88a9cdba8eb4dd336344809a0a5e75e245295370480a759c3e0010e57907
 WF-110-B,player-grid vector,assets/vectors/WF-110-B-player-grid-finalmaps.svg,homebrewery/art/vectors/WF-110-B-player-grid-finalmaps.svg,14076,783d794e0fc8ccd0c9428be96aedba96bf884221b121dc0d02219a0f83291839
 WF-110-B,player-grid PNG,assets/vectors/png/WF-110-B-player-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-110-B-player-grid-finalmaps.png,111001,3528f837264688a8807243aaac663c8dedcb05350d555969dd93eaa0719c82ab
 WF-110-B,player-clean vector,assets/vectors/WF-110-B-player-clean-finalmaps.svg,homebrewery/art/vectors/WF-110-B-player-clean-finalmaps.svg,13781,9a08da50850d5737765589201471de5cb57f738fbe552563f8cad2798c0ea79e
 WF-110-B,player-clean PNG,assets/vectors/png/WF-110-B-player-clean-finalmaps.png,homebrewery/art/vectors/exports/WF-110-B-player-clean-finalmaps.png,98914,74e43a1961fae607d9172eb132427713c19a4cc99f97c8ad0c63f628b9abfeb8
 WF-110-B,player-stage-grid vector,assets/vectors/WF-110-B-player-stage-grid-finalmaps.svg,homebrewery/art/vectors/WF-110-B-player-stage-grid-finalmaps.svg,13584,07f7016d2954739574955f83d7b5f933f1526ed9ac654226dca08dd4a40ade81
 WF-110-B,player-stage-grid PNG,assets/vectors/png/WF-110-B-player-stage-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-110-B-player-stage-grid-finalmaps.png,112532,b49d5a2636bb1d96c85db1e967e2e85cf529ea5736e1b4e50bf74c21cd3a04ef
-WF-262-A,book vector,assets/vectors/WF-262-A-book-finalmaps.svg,homebrewery/art/vectors/WF-262-A-book-finalmaps.svg,19829,65318c3840da34e3520444b9b633a108525dc69af53a50a1e5150b5510f0d93a
-WF-262-A,book PNG,assets/vectors/png/WF-262-A-book-finalmaps.png,homebrewery/art/vectors/exports/WF-262-A-book-finalmaps.png,1104691,2ae4a724f5fb494f79c4705da4831782ab21484a60f68852a9c237267626d92c
-WF-262-A,gm-plan vector,assets/vectors/WF-262-A-gm-plan-finalmaps.svg,homebrewery/art/vectors/WF-262-A-gm-plan-finalmaps.svg,16530,c98ea0fcaca23c34e4bd84cbc51c148a1e77e9be10142546eb3f7258b348bdfc
-WF-262-A,gm-plan PNG,assets/vectors/png/WF-262-A-gm-plan-finalmaps.png,homebrewery/art/vectors/exports/WF-262-A-gm-plan-finalmaps.png,389762,7a1b13c34fc5a2b2a2c92c707f988d5f31def30a3400a29967f7a664329c9eb0
+WF-262-A,book vector,assets/vectors/WF-262-A-book-finalmaps.svg,homebrewery/art/vectors/WF-262-A-book-finalmaps.svg,19829,59b72ab50f72b4d42497a6934df34c88877dc28cb222514f1038da1847194d74
+WF-262-A,book PNG,assets/vectors/png/WF-262-A-book-finalmaps.png,homebrewery/art/vectors/exports/WF-262-A-book-finalmaps.png,1103381,a4c7ed09cd9e8a139741dc803840cc4880e6cb767a90f57595dbf72c2bb392f6
+WF-262-A,gm-plan vector,assets/vectors/WF-262-A-gm-plan-finalmaps.svg,homebrewery/art/vectors/WF-262-A-gm-plan-finalmaps.svg,16530,2ffd600033fb9f4aa5991d4a31f1b385bc22a69fdcd8e747d6a4e452dee96c09
+WF-262-A,gm-plan PNG,assets/vectors/png/WF-262-A-gm-plan-finalmaps.png,homebrewery/art/vectors/exports/WF-262-A-gm-plan-finalmaps.png,388403,d599dff29e9b50c16af0b5dc8b9473e974118d6db9cf8be304f60080094e676f
 WF-262-A,player-clean vector,assets/vectors/WF-262-A-player-clean-finalmaps.svg,homebrewery/art/vectors/WF-262-A-player-clean-finalmaps.svg,7193,729431e3c26526b554771c6f05cfad0c95b8abf68798153f68cf7b28a00ba280
 WF-262-A,player-clean PNG,assets/vectors/png/WF-262-A-player-clean-finalmaps.png,homebrewery/art/vectors/exports/WF-262-A-player-clean-finalmaps.png,98190,8d7ee7551c967324a186247d4b5aaf421f9838a704df3c3bc002e457b4f027b8
-WF-277-A,book vector,assets/vectors/WF-277-A-book-finalmaps.svg,homebrewery/art/vectors/WF-277-A-book-finalmaps.svg,44088,bea426e7a35a715dd096556d9cca16237ee6c8b5daf3ab59c9bfb1432bffa6ac
-WF-277-A,book PNG,assets/vectors/png/WF-277-A-book-finalmaps.png,homebrewery/art/vectors/exports/WF-277-A-book-finalmaps.png,1081354,0aae5c79a5dc8ef3005b5a6a192cb9e666375fd9acb7b2e7724fa0c8eb27621f
-WF-277-A,gm-grid vector,assets/vectors/WF-277-A-gm-grid-finalmaps.svg,homebrewery/art/vectors/WF-277-A-gm-grid-finalmaps.svg,40950,0c3113e63a63467eda924868a09fc31ac3c49017b5a28c6ab0127e677faf6405
-WF-277-A,gm-grid PNG,assets/vectors/png/WF-277-A-gm-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-277-A-gm-grid-finalmaps.png,394261,f5cc58e1494944160408e44722eb20e52e7e6bbee543878f3f2875d43a9910f2
+WF-277-A,book vector,assets/vectors/WF-277-A-book-finalmaps.svg,homebrewery/art/vectors/WF-277-A-book-finalmaps.svg,44088,f606d3a378ca1f893edb6cb5507a86e2a140e0d36c8df24169147e36331f1ccc
+WF-277-A,book PNG,assets/vectors/png/WF-277-A-book-finalmaps.png,homebrewery/art/vectors/exports/WF-277-A-book-finalmaps.png,1081357,cac016e964b80c318fe9dfd497cbab010f482402d780cd25d48d7c1d931b9206
+WF-277-A,gm-grid vector,assets/vectors/WF-277-A-gm-grid-finalmaps.svg,homebrewery/art/vectors/WF-277-A-gm-grid-finalmaps.svg,40950,ac7de86e8c28d83c6431812b1700c5ae693538575942c11c151a6360685ec41e
+WF-277-A,gm-grid PNG,assets/vectors/png/WF-277-A-gm-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-277-A-gm-grid-finalmaps.png,394300,3b6ec2ab6eff5dcd5e6db1f568fc9b4fe19c0caea1bd1d00d57b7a72fefa8d0b
 WF-277-A,player-grid vector,assets/vectors/WF-277-A-player-grid-finalmaps.svg,homebrewery/art/vectors/WF-277-A-player-grid-finalmaps.svg,29045,545df7aac19228fbc80a629f6e34f8ae15063b2be53e55f3b14e1d1d1896c18f
 WF-277-A,player-grid PNG,assets/vectors/png/WF-277-A-player-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-277-A-player-grid-finalmaps.png,136278,9402e437bbd8a57a7e85ed80cf89295e5786a7d1ea284675bed3f913f9d724cf
 WF-277-A,player-clean vector,assets/vectors/WF-277-A-player-clean-finalmaps.svg,homebrewery/art/vectors/WF-277-A-player-clean-finalmaps.svg,28750,83bdd30bcca7ebbef4e71eb70babe05ec1a12deee17ef63f485e046c4dfad23c
 WF-277-A,player-clean PNG,assets/vectors/png/WF-277-A-player-clean-finalmaps.png,homebrewery/art/vectors/exports/WF-277-A-player-clean-finalmaps.png,119559,7556d3cf0f282e0718c284716858f4acc2d49bd4398ec1cf152d9ff259d3583f
 WF-277-A,player-stage-grid vector,assets/vectors/WF-277-A-player-stage-grid-finalmaps.svg,homebrewery/art/vectors/WF-277-A-player-stage-grid-finalmaps.svg,34391,4d530364362888bfafeca6de3b7d36a5d911d4d67cb236a4129a42a14a5c2ba1
 WF-277-A,player-stage-grid PNG,assets/vectors/png/WF-277-A-player-stage-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-277-A-player-stage-grid-finalmaps.png,152072,cc876e8a79cc470a91ed7e5ca2d2100f82c316df102c72c32a446e6d82f5070d
-WF-382-A,book vector,assets/vectors/WF-382-A-book-finalmaps.svg,homebrewery/art/vectors/WF-382-A-book-finalmaps.svg,6081,6a851ffba339a8bcadeccf4412927b9c78572108c712ed26f77bc638de05d383
+WF-382-A,book vector,assets/vectors/WF-382-A-book-finalmaps.svg,homebrewery/art/vectors/WF-382-A-book-finalmaps.svg,6081,69d6014029946f31fb113cdd94df6f80f86dc45a3e3e36b742aa4713a2da0481
 WF-382-A,book PNG,assets/vectors/png/WF-382-A-book-finalmaps.png,homebrewery/art/vectors/exports/WF-382-A-book-finalmaps.png,377160,ff18f3cd555da337cf552f5c48ac8e58b65367e86170c334d2f99c00a3faf72f
-WF-382-A,gm-grid vector,assets/vectors/WF-382-A-gm-grid-finalmaps.svg,homebrewery/art/vectors/WF-382-A-gm-grid-finalmaps.svg,4898,a2dad8329f496768434bfe7e29aa2ab21d992eee96aa0ad3246add0b5c3336df
+WF-382-A,gm-grid vector,assets/vectors/WF-382-A-gm-grid-finalmaps.svg,homebrewery/art/vectors/WF-382-A-gm-grid-finalmaps.svg,4898,d629f4dcb508a585fca6cb08330b71eaf3b349bd23e5d10a78fdaa365d0ed6dd
 WF-382-A,gm-grid PNG,assets/vectors/png/WF-382-A-gm-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-382-A-gm-grid-finalmaps.png,71779,0919ffc8c82d05424b933943f5a0094a413bed12c97f83251935c0fddab2c4ef
 WF-382-A,player-grid vector,assets/vectors/WF-382-A-player-grid-finalmaps.svg,homebrewery/art/vectors/WF-382-A-player-grid-finalmaps.svg,4260,c212a3b6937ee5c5ad9e7ad93b33a80ac26aa4c684f00250354d824e220778cc
 WF-382-A,player-grid PNG,assets/vectors/png/WF-382-A-player-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-382-A-player-grid-finalmaps.png,55343,28f29995c2c0000f467ef0dd0a7e4bf479d8c5835019c885a58d56957be881c0
 WF-382-A,player-clean vector,assets/vectors/WF-382-A-player-clean-finalmaps.svg,homebrewery/art/vectors/WF-382-A-player-clean-finalmaps.svg,3965,dea2b411fdb9aae68cbdfcc57b29e2dbb1c4bb9d19b12e5a630e0e3fbd55084c
 WF-382-A,player-clean PNG,assets/vectors/png/WF-382-A-player-clean-finalmaps.png,homebrewery/art/vectors/exports/WF-382-A-player-clean-finalmaps.png,47732,df26c56348198aa12e3fbb7de31e83e9cfb0d05b631a24b8deb650eaa37e6e47
-WF-390-A,book vector,assets/vectors/WF-390-A-book-finalmaps.svg,homebrewery/art/vectors/WF-390-A-book-finalmaps.svg,8102,f814a33e17612713b62ef7f471f2e8f77ac3972ae2a39b58675aa0d3071b3b1d
-WF-390-A,book PNG,assets/vectors/png/WF-390-A-book-finalmaps.png,homebrewery/art/vectors/exports/WF-390-A-book-finalmaps.png,717074,b565eeffc5de125dd9b91b22ec19382ad6cd6981b3baf34510480256eb718948
-WF-390-A,gm-grid vector,assets/vectors/WF-390-A-gm-grid-finalmaps.svg,homebrewery/art/vectors/WF-390-A-gm-grid-finalmaps.svg,6539,afbbd27a8611ceecf5dda234090532caf06ba408ad09aece52e3cb2cf6696355
-WF-390-A,gm-grid PNG,assets/vectors/png/WF-390-A-gm-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-390-A-gm-grid-finalmaps.png,331315,aeef1d09a81bb66b57073d7e3d4777b0d8d7e206e5f9be0008c3163485ff0178
+WF-390-A,book vector,assets/vectors/WF-390-A-book-finalmaps.svg,homebrewery/art/vectors/WF-390-A-book-finalmaps.svg,8102,01363e77ca149af06cfbd49dd582c696edeccc6a83d8bda511fd8862cf16b10a
+WF-390-A,book PNG,assets/vectors/png/WF-390-A-book-finalmaps.png,homebrewery/art/vectors/exports/WF-390-A-book-finalmaps.png,720006,4cd2a6aa0a40df202fdd2c88c695a0945e92ae5935fb7df65998ae1302d5c11e
+WF-390-A,gm-grid vector,assets/vectors/WF-390-A-gm-grid-finalmaps.svg,homebrewery/art/vectors/WF-390-A-gm-grid-finalmaps.svg,6539,08f6d2c95c86fd264031ce87888f44285c886033a3cc773d7d765d76c3b036c8
+WF-390-A,gm-grid PNG,assets/vectors/png/WF-390-A-gm-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-390-A-gm-grid-finalmaps.png,334198,99b7317027400ddb9424638b6a1cde84285815b20511557538e74c66bc6749ab
 WF-390-A,player-grid vector,assets/vectors/WF-390-A-player-grid-finalmaps.svg,homebrewery/art/vectors/WF-390-A-player-grid-finalmaps.svg,4569,26194ef4961f40bceb2a62aa4e836cef07962aab62e10cde31380e0f8dc9a24a
 WF-390-A,player-grid PNG,assets/vectors/png/WF-390-A-player-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-390-A-player-grid-finalmaps.png,271533,2fdf576a67fd1642297bc85869107c0559668960e7aa8a801016ba49550429c3
 WF-390-A,player-clean vector,assets/vectors/WF-390-A-player-clean-finalmaps.svg,homebrewery/art/vectors/WF-390-A-player-clean-finalmaps.svg,4274,8149cdc0cb012c43130052ae4586794d95afce2110423b5600bd2b9bb87132da
 WF-390-A,player-clean PNG,assets/vectors/png/WF-390-A-player-clean-finalmaps.png,homebrewery/art/vectors/exports/WF-390-A-player-clean-finalmaps.png,258732,7a1ba784b8569b403b2d53aff387ccba0cb4e5d2b366c079bcd8d43d4fbcc4c7
-WF-412-A,book vector,assets/vectors/WF-412-A-book-finalmaps.svg,homebrewery/art/vectors/WF-412-A-book-finalmaps.svg,6609,3b7659a0fa2ed4e3ee62dab40b13dd0a9e57c48a459e382ba00758fd61d22e4f
+WF-412-A,book vector,assets/vectors/WF-412-A-book-finalmaps.svg,homebrewery/art/vectors/WF-412-A-book-finalmaps.svg,6609,f352623a78721384aa0c78d97a45e5d1b14487a18fbb5cc14007002f1816a27f
 WF-412-A,book PNG,assets/vectors/png/WF-412-A-book-finalmaps.png,homebrewery/art/vectors/exports/WF-412-A-book-finalmaps.png,582720,12e1dc7fe15fd3b022ecaec784875249880b22224df1f03030c2e519e195cb1c
-WF-412-A,gm-grid vector,assets/vectors/WF-412-A-gm-grid-finalmaps.svg,homebrewery/art/vectors/WF-412-A-gm-grid-finalmaps.svg,5354,b8c1b796a4eabc0ef9717cff763e8f3d36b6759b6cb400af66d0f110b738c6ca
+WF-412-A,gm-grid vector,assets/vectors/WF-412-A-gm-grid-finalmaps.svg,homebrewery/art/vectors/WF-412-A-gm-grid-finalmaps.svg,5354,4d6dcd1b43f168f5ef68b062fc79bc99a5d22ecfff5384b494668c4dd1202846
 WF-412-A,gm-grid PNG,assets/vectors/png/WF-412-A-gm-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-412-A-gm-grid-finalmaps.png,233221,67519f650c8b9e304e37bea8578d1a4b092ff8185fd6d09c1bc3bced807a492d
 WF-412-A,player-grid vector,assets/vectors/WF-412-A-player-grid-finalmaps.svg,homebrewery/art/vectors/WF-412-A-player-grid-finalmaps.svg,2637,bd621220e3e00fba1a61835f028b04fc90eb9525d2cb616b1b5b885af0176861
 WF-412-A,player-grid PNG,assets/vectors/png/WF-412-A-player-grid-finalmaps.png,homebrewery/art/vectors/exports/WF-412-A-player-grid-finalmaps.png,170809,13e4b4bc9074963374613575b55f3f09660504dce67844e7386eb1f5ef654e71
 WF-412-A,player-clean vector,assets/vectors/WF-412-A-player-clean-finalmaps.svg,homebrewery/art/vectors/WF-412-A-player-clean-finalmaps.svg,2342,f14d9c76935b0738724fd8b0e28251f7123ac7421d8b99edd17a22127d9c37f3
 WF-412-A,player-clean PNG,assets/vectors/png/WF-412-A-player-clean-finalmaps.png,homebrewery/art/vectors/exports/WF-412-A-player-clean-finalmaps.png,162331,a0731126355b63f285a03a1298823fb7c52a2f0a6e8617aced4d78762d1b78e8
 WF-369-B,book vector,assets/vectors/WF-369-B-book-finalmaps.svg,homebrewery/art/vectors/WF-369-B-book-finalmaps.svg,55017,9338dd269560a3a12d9a0b18e4558b4218b4931fafe14f51518134eb8e74b99f
-WF-369-B,book PNG,assets/vectors/png/WF-369-B-book-finalmaps.png,homebrewery/art/vectors/exports/WF-369-B-book-finalmaps.png,680777,58a3efeda2a4af658b70efb369b9fccc4dfccf934fff1f8131cf013e49179807
+WF-369-B,book PNG,assets/vectors/png/WF-369-B-book-finalmaps.png,homebrewery/art/vectors/exports/WF-369-B-book-finalmaps.png,660633,50573effbef487712d9a68b6f68f8b8e12adf97662377110780b6f8039ee70e6
 WF-369-B,player-planning vector,assets/vectors/WF-369-B-player-planning-finalmaps.svg,homebrewery/art/vectors/WF-369-B-player-planning-finalmaps.svg,53736,4b886d63b44c87fd80a7e924c26c0d32c41d5e36c83f81a7343f12856bd98dda
 WF-369-B,player-planning PNG,assets/vectors/png/WF-369-B-player-planning-finalmaps.png,homebrewery/art/vectors/exports/WF-369-B-player-planning-finalmaps.png,646394,faae0f8b1042929fcc52178c6a5de9323c8efe4dd3258330de3678de3de0dc7c
 WF-004-B,book vector,assets/vectors/WF-004-B-book-finalmaps.svg,homebrewery/art/vectors/WF-004-B-book-finalmaps.svg,1530,98d59eeb4aac652dba703300ed7ec90e64dade8d334dbe40a14fbfb8ce6a3abd

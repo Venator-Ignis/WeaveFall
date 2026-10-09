@@ -705,7 +705,7 @@
       "path": "assets/book/WF-110-A.svg",
       "source": "homebrewery/art/vectors/WF-110-A-book-finalmaps.svg",
       "bytes": 29791,
-      "sha256": "0060b437e1068c50969e6a59e39a1cd130691ea4f52f611dd9cd8feff9947567"
+      "sha256": "560101e3ee75447e15e1350a4b597452af1670d138f3be52a2dab7407addcdff"
     },
     {
       "id": "WF-110-B",
@@ -713,7 +713,7 @@
       "path": "assets/book/WF-110-B.svg",
       "source": "homebrewery/art/vectors/WF-110-B-book-finalmaps.svg",
       "bytes": 18885,
-      "sha256": "372f4d48d3a64372eec03cabe89d2e474164979f437793ea1513a5ec13e08224"
+      "sha256": "fb6db65c772f450ead7b7a38d82889b46ad6dbf9329cba703d41a52ea54a1605"
     },
     {
       "id": "WF-111-A",
@@ -1905,7 +1905,7 @@
       "path": "assets/book/WF-262-A.svg",
       "source": "homebrewery/art/vectors/WF-262-A-book-finalmaps.svg",
       "bytes": 19829,
-      "sha256": "65318c3840da34e3520444b9b633a108525dc69af53a50a1e5150b5510f0d93a"
+      "sha256": "59b72ab50f72b4d42497a6934df34c88877dc28cb222514f1038da1847194d74"
     },
     {
       "id": "WF-277-A",
@@ -1913,7 +1913,7 @@
       "path": "assets/book/WF-277-A.svg",
       "source": "homebrewery/art/vectors/WF-277-A-book-finalmaps.svg",
       "bytes": 44088,
-      "sha256": "bea426e7a35a715dd096556d9cca16237ee6c8b5daf3ab59c9bfb1432bffa6ac"
+      "sha256": "f606d3a378ca1f893edb6cb5507a86e2a140e0d36c8df24169147e36331f1ccc"
     },
     {
       "id": "WF-297-A",
@@ -2057,7 +2057,7 @@
       "path": "assets/book/WF-382-A.svg",
       "source": "homebrewery/art/vectors/WF-382-A-book-finalmaps.svg",
       "bytes": 6081,
-      "sha256": "6a851ffba339a8bcadeccf4412927b9c78572108c712ed26f77bc638de05d383"
+      "sha256": "69d6014029946f31fb113cdd94df6f80f86dc45a3e3e36b742aa4713a2da0481"
     },
     {
       "id": "WF-387-A",
@@ -2073,7 +2073,7 @@
       "path": "assets/book/WF-390-A.svg",
       "source": "homebrewery/art/vectors/WF-390-A-book-finalmaps.svg",
       "bytes": 8102,
-      "sha256": "f814a33e17612713b62ef7f471f2e8f77ac3972ae2a39b58675aa0d3071b3b1d"
+      "sha256": "01363e77ca149af06cfbd49dd582c696edeccc6a83d8bda511fd8862cf16b10a"
     },
     {
       "id": "WF-396-B",
@@ -2105,7 +2105,7 @@
       "path": "assets/book/WF-412-A.svg",
       "source": "homebrewery/art/vectors/WF-412-A-book-finalmaps.svg",
       "bytes": 6609,
-      "sha256": "3b7659a0fa2ed4e3ee62dab40b13dd0a9e57c48a459e382ba00758fd61d22e4f"
+      "sha256": "f352623a78721384aa0c78d97a45e5d1b14487a18fbb5cc14007002f1816a27f"
     },
     {
       "id": "WF-429-B",
@@ -4593,7 +4593,7 @@
       "path": "assets/vectors/WF-110-A-book-finalmaps.svg",
       "source": "homebrewery/art/vectors/WF-110-A-book-finalmaps.svg",
       "bytes": 29791,
-      "sha256": "0060b437e1068c50969e6a59e39a1cd130691ea4f52f611dd9cd8feff9947567"
+      "sha256": "560101e3ee75447e15e1350a4b597452af1670d138f3be52a2dab7407addcdff"
     },
     {
       "id": "WF-110-A",
@@ -4609,7 +4609,7 @@
       "path": "assets/vectors/WF-110-A-gm-grid-finalmaps.svg",
       "source": "homebrewery/art/vectors/WF-110-A-gm-grid-finalmaps.svg",
       "bytes": 27783,
-      "sha256": "96e099205708606549407739f5ee3fbdc3692de4f751c1f7dd6257d04dce1a46"
+      "sha256": "f267edddf45d1a9dd275a14af4b84171480513ca7c88e84e8b9a70c82dd9ca16"
     },
     {
       "id": "WF-110-A",
@@ -4673,15 +4673,15 @@
       "path": "assets/vectors/WF-110-B-book-finalmaps.svg",
       "source": "homebrewery/art/vectors/WF-110-B-book-finalmaps.svg",
       "bytes": 18885,
-      "sha256": "372f4d48d3a64372eec03cabe89d2e474164979f437793ea1513a5ec13e08224"
+      "sha256": "fb6db65c772f450ead7b7a38d82889b46ad6dbf9329cba703d41a52ea54a1605"
     },
     {
       "id": "WF-110-B",
       "role": "book PNG",
       "path": "assets/vectors/png/WF-110-B-book-finalmaps.png",
       "source": "homebrewery/art/vectors/exports/WF-110-B-book-finalmaps.png",
-      "bytes": 616822,
-      "sha256": "ed21e947f69094503eb6b7fb375b88d184688f8ad65cb000eeb79816418f4c06"
+      "bytes": 622983,
+      "sha256": "c4c58074c01ddcdbbf49d0e21b339b715b247adb735f2ef15c25d572f3eaedf9"
     },
     {
       "id": "WF-110-B",
@@ -4689,15 +4689,15 @@
       "path": "assets/vectors/WF-110-B-gm-grid-finalmaps.svg",
       "source": "homebrewery/art/vectors/WF-110-B-gm-grid-finalmaps.svg",
       "bytes": 17229,
-      "sha256": "4c4fe0112a86417edf50c08ab1cdbeba1e14ed36769eeb450325121af61ad5f5"
+      "sha256": "1394063559cce2f0bb9eb128d2e6ccdb7c1b7d57bad6dab52b2302ea89b7c06c"
     },
     {
       "id": "WF-110-B",
       "role": "gm-grid PNG",
       "path": "assets/vectors/png/WF-110-B-gm-grid-finalmaps.png",
       "source": "homebrewery/art/vectors/exports/WF-110-B-gm-grid-finalmaps.png",
-      "bytes": 199187,
-      "sha256": "37e70c3eeccd9523c9e4de14d95c063544316bbea56413f6931abc69f672d426"
+      "bytes": 204849,
+      "sha256": "c34a88a9cdba8eb4dd336344809a0a5e75e245295370480a759c3e0010e57907"
     },
     {
       "id": "WF-110-B",
@@ -4753,15 +4753,15 @@
       "path": "assets/vectors/WF-262-A-book-finalmaps.svg",
       "source": "homebrewery/art/vectors/WF-262-A-book-finalmaps.svg",
       "bytes": 19829,
-      "sha256": "65318c3840da34e3520444b9b633a108525dc69af53a50a1e5150b5510f0d93a"
+      "sha256": "59b72ab50f72b4d42497a6934df34c88877dc28cb222514f1038da1847194d74"
     },
     {
       "id": "WF-262-A",
       "role": "book PNG",
       "path": "assets/vectors/png/WF-262-A-book-finalmaps.png",
       "source": "homebrewery/art/vectors/exports/WF-262-A-book-finalmaps.png",
-      "bytes": 1104691,
-      "sha256": "2ae4a724f5fb494f79c4705da4831782ab21484a60f68852a9c237267626d92c"
+      "bytes": 1103381,
+      "sha256": "a4c7ed09cd9e8a139741dc803840cc4880e6cb767a90f57595dbf72c2bb392f6"
     },
     {
       "id": "WF-262-A",
@@ -4769,15 +4769,15 @@
       "path": "assets/vectors/WF-262-A-gm-plan-finalmaps.svg",
       "source": "homebrewery/art/vectors/WF-262-A-gm-plan-finalmaps.svg",
       "bytes": 16530,
-      "sha256": "c98ea0fcaca23c34e4bd84cbc51c148a1e77e9be10142546eb3f7258b348bdfc"
+      "sha256": "2ffd600033fb9f4aa5991d4a31f1b385bc22a69fdcd8e747d6a4e452dee96c09"
     },
     {
       "id": "WF-262-A",
       "role": "gm-plan PNG",
       "path": "assets/vectors/png/WF-262-A-gm-plan-finalmaps.png",
       "source": "homebrewery/art/vectors/exports/WF-262-A-gm-plan-finalmaps.png",
-      "bytes": 389762,
-      "sha256": "7a1b13c34fc5a2b2a2c92c707f988d5f31def30a3400a29967f7a664329c9eb0"
+      "bytes": 388403,
+      "sha256": "d599dff29e9b50c16af0b5dc8b9473e974118d6db9cf8be304f60080094e676f"
     },
     {
       "id": "WF-262-A",
@@ -4801,15 +4801,15 @@
       "path": "assets/vectors/WF-277-A-book-finalmaps.svg",
       "source": "homebrewery/art/vectors/WF-277-A-book-finalmaps.svg",
       "bytes": 44088,
-      "sha256": "bea426e7a35a715dd096556d9cca16237ee6c8b5daf3ab59c9bfb1432bffa6ac"
+      "sha256": "f606d3a378ca1f893edb6cb5507a86e2a140e0d36c8df24169147e36331f1ccc"
     },
     {
       "id": "WF-277-A",
       "role": "book PNG",
       "path": "assets/vectors/png/WF-277-A-book-finalmaps.png",
       "source": "homebrewery/art/vectors/exports/WF-277-A-book-finalmaps.png",
-      "bytes": 1081354,
-      "sha256": "0aae5c79a5dc8ef3005b5a6a192cb9e666375fd9acb7b2e7724fa0c8eb27621f"
+      "bytes": 1081357,
+      "sha256": "cac016e964b80c318fe9dfd497cbab010f482402d780cd25d48d7c1d931b9206"
     },
     {
       "id": "WF-277-A",
@@ -4817,15 +4817,15 @@
       "path": "assets/vectors/WF-277-A-gm-grid-finalmaps.svg",
       "source": "homebrewery/art/vectors/WF-277-A-gm-grid-finalmaps.svg",
       "bytes": 40950,
-      "sha256": "0c3113e63a63467eda924868a09fc31ac3c49017b5a28c6ab0127e677faf6405"
+      "sha256": "ac7de86e8c28d83c6431812b1700c5ae693538575942c11c151a6360685ec41e"
     },
     {
       "id": "WF-277-A",
       "role": "gm-grid PNG",
       "path": "assets/vectors/png/WF-277-A-gm-grid-finalmaps.png",
       "source": "homebrewery/art/vectors/exports/WF-277-A-gm-grid-finalmaps.png",
-      "bytes": 394261,
-      "sha256": "f5cc58e1494944160408e44722eb20e52e7e6bbee543878f3f2875d43a9910f2"
+      "bytes": 394300,
+      "sha256": "3b6ec2ab6eff5dcd5e6db1f568fc9b4fe19c0caea1bd1d00d57b7a72fefa8d0b"
     },
     {
       "id": "WF-277-A",
@@ -4881,7 +4881,7 @@
       "path": "assets/vectors/WF-382-A-book-finalmaps.svg",
       "source": "homebrewery/art/vectors/WF-382-A-book-finalmaps.svg",
       "bytes": 6081,
-      "sha256": "6a851ffba339a8bcadeccf4412927b9c78572108c712ed26f77bc638de05d383"
+      "sha256": "69d6014029946f31fb113cdd94df6f80f86dc45a3e3e36b742aa4713a2da0481"
     },
     {
       "id": "WF-382-A",
@@ -4897,7 +4897,7 @@
       "path": "assets/vectors/WF-382-A-gm-grid-finalmaps.svg",
       "source": "homebrewery/art/vectors/WF-382-A-gm-grid-finalmaps.svg",
       "bytes": 4898,
-      "sha256": "a2dad8329f496768434bfe7e29aa2ab21d992eee96aa0ad3246add0b5c3336df"
+      "sha256": "d629f4dcb508a585fca6cb08330b71eaf3b349bd23e5d10a78fdaa365d0ed6dd"
     },
     {
       "id": "WF-382-A",
@@ -4945,15 +4945,15 @@
       "path": "assets/vectors/WF-390-A-book-finalmaps.svg",
       "source": "homebrewery/art/vectors/WF-390-A-book-finalmaps.svg",
       "bytes": 8102,
-      "sha256": "f814a33e17612713b62ef7f471f2e8f77ac3972ae2a39b58675aa0d3071b3b1d"
+      "sha256": "01363e77ca149af06cfbd49dd582c696edeccc6a83d8bda511fd8862cf16b10a"
     },
     {
       "id": "WF-390-A",
       "role": "book PNG",
       "path": "assets/vectors/png/WF-390-A-book-finalmaps.png",
       "source": "homebrewery/art/vectors/exports/WF-390-A-book-finalmaps.png",
-      "bytes": 717074,
-      "sha256": "b565eeffc5de125dd9b91b22ec19382ad6cd6981b3baf34510480256eb718948"
+      "bytes": 720006,
+      "sha256": "4cd2a6aa0a40df202fdd2c88c695a0945e92ae5935fb7df65998ae1302d5c11e"
     },
     {
       "id": "WF-390-A",
@@ -4961,15 +4961,15 @@
       "path": "assets/vectors/WF-390-A-gm-grid-finalmaps.svg",
       "source": "homebrewery/art/vectors/WF-390-A-gm-grid-finalmaps.svg",
       "bytes": 6539,
-      "sha256": "afbbd27a8611ceecf5dda234090532caf06ba408ad09aece52e3cb2cf6696355"
+      "sha256": "08f6d2c95c86fd264031ce87888f44285c886033a3cc773d7d765d76c3b036c8"
     },
     {
       "id": "WF-390-A",
       "role": "gm-grid PNG",
       "path": "assets/vectors/png/WF-390-A-gm-grid-finalmaps.png",
       "source": "homebrewery/art/vectors/exports/WF-390-A-gm-grid-finalmaps.png",
-      "bytes": 331315,
-      "sha256": "aeef1d09a81bb66b57073d7e3d4777b0d8d7e206e5f9be0008c3163485ff0178"
+      "bytes": 334198,
+      "sha256": "99b7317027400ddb9424638b6a1cde84285815b20511557538e74c66bc6749ab"
     },
     {
       "id": "WF-390-A",
@@ -5009,7 +5009,7 @@
       "path": "assets/vectors/WF-412-A-book-finalmaps.svg",
       "source": "homebrewery/art/vectors/WF-412-A-book-finalmaps.svg",
       "bytes": 6609,
-      "sha256": "3b7659a0fa2ed4e3ee62dab40b13dd0a9e57c48a459e382ba00758fd61d22e4f"
+      "sha256": "f352623a78721384aa0c78d97a45e5d1b14487a18fbb5cc14007002f1816a27f"
     },
     {
       "id": "WF-412-A",
@@ -5025,7 +5025,7 @@
       "path": "assets/vectors/WF-412-A-gm-grid-finalmaps.svg",
       "source": "homebrewery/art/vectors/WF-412-A-gm-grid-finalmaps.svg",
       "bytes": 5354,
-      "sha256": "b8c1b796a4eabc0ef9717cff763e8f3d36b6759b6cb400af66d0f110b738c6ca"
+      "sha256": "4d6dcd1b43f168f5ef68b062fc79bc99a5d22ecfff5384b494668c4dd1202846"
     },
     {
       "id": "WF-412-A",
@@ -5080,8 +5080,8 @@
       "role": "book PNG",
       "path": "assets/vectors/png/WF-369-B-book-finalmaps.png",
       "source": "homebrewery/art/vectors/exports/WF-369-B-book-finalmaps.png",
-      "bytes": 680777,
-      "sha256": "58a3efeda2a4af658b70efb369b9fccc4dfccf934fff1f8131cf013e49179807"
+      "bytes": 660633,
+      "sha256": "50573effbef487712d9a68b6f68f8b8e12adf97662377110780b6f8039ee70e6"
     },
     {
       "id": "WF-369-B",
