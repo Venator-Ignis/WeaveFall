@@ -744,12 +744,20 @@ WF-277-A,player-clean PNG,assets/vectors/png/WF-277-A-player-clean-sommersa40-v2
 WF-277-A,player-stage-grid vector,assets/vectors/WF-277-A-player-stage-grid-sommersa40-v2.svg,homebrewery/art/vectors/WF-277-A-player-stage-grid-sommersa40-v2.svg,32959,d22e8cabaaee82c8d1e08457942863555a76ccb49fa1e0e88d015e6499108330
 WF-277-A,player-stage-grid PNG,assets/vectors/png/WF-277-A-player-stage-grid-sommersa40-v2.png,homebrewery/art/vectors/exports/WF-277-A-player-stage-grid-sommersa40-v2.png,155289,80b1e81d223dc4cae1573c4c3f5f809bffd00737f7c1f7bdea83db5af6ae7f86
 imageMaskCenter6,watercolor mask,assets/masks/center-0006.webp,homebrewery/art/masks/center-0006.webp,69654,318d435b513df1ed9ab527d56bcb98f979173127c131bcfa1a9abd7a210ab93c
+imageMaskCenter7,watercolor mask,assets/masks/center-0007.webp,homebrewery/art/masks/center-0007.webp,79700,3b9f8f407e4c741f3db8bbe5906af98d9bc577c47f621b5e309d8b81fd094714
+imageMaskCorner14,watercolor mask,assets/masks/corner-0014.webp,homebrewery/art/masks/corner-0014.webp,291540,12198118c5cb7a45900df59ee9cd267e352782aa46be02934febcab1ced931be
+imageMaskCorner18,watercolor mask,assets/masks/corner-0018.webp,homebrewery/art/masks/corner-0018.webp,333636,aa9e30aef5f49316601e10e93fdd5f1a60c8d826ce12271374149b0c521cd92a
 imageMaskCorner19,watercolor mask,assets/masks/corner-0019.webp,homebrewery/art/masks/corner-0019.webp,160236,47050ea728e8f57451e4c9e05a15d051171501da73619b5fb0ae5baf3a51df5d
+imageMaskCorner21,watercolor mask,assets/masks/corner-0021.webp,homebrewery/art/masks/corner-0021.webp,142798,b6391efa64e5e2ff1fd372aa265d932e177f31f28d632bb41ea389c417ae9ba4
 imageMaskCorner23,watercolor mask,assets/masks/corner-0023.webp,homebrewery/art/masks/corner-0023.webp,158198,b30b5ef6ae9277dc92ab1098ec281adc12ed7382b67d973674632273bd0f5fc4
+imageMaskCorner26,watercolor mask,assets/masks/corner-0026.webp,homebrewery/art/masks/corner-0026.webp,271664,f858c7bbfd9ea4bd7d6c1a36e5d0c684453656857db1531b2942aca3d6935d51
 imageMaskCorner32,watercolor mask,assets/masks/corner-0032.webp,homebrewery/art/masks/corner-0032.webp,127078,b278ccc139585a6f4bdf64889c998be91fb3d896ec698a0d8b492cda86f83fc3
+imageMaskCorner36,watercolor mask,assets/masks/corner-0036.webp,homebrewery/art/masks/corner-0036.webp,316814,e26149b8808c7cae81101b9e108829bfb816e7f571868dbdeda83d9a7af30634
 imageMaskEdge1,watercolor mask,assets/masks/edge-0001.webp,homebrewery/art/masks/edge-0001.webp,35216,14e1c5b842ecb59256b7a9bf837ec5ac2783db51b7426d495d93cff400af8ff7
+imageMaskEdge2,watercolor mask,assets/masks/edge-0002.webp,homebrewery/art/masks/edge-0002.webp,57442,bd5370407a139a6ee641922f93d1b3395a97cd26a07275f2c152d63e0516e38b
 imageMaskEdge4,watercolor mask,assets/masks/edge-0004.webp,homebrewery/art/masks/edge-0004.webp,42194,c020ba7b9cb1e14a19e5a50654f1d3bd59587235a9f4da3b2f973df1d3da675a
 imageMaskEdge5,watercolor mask,assets/masks/edge-0005.webp,homebrewery/art/masks/edge-0005.webp,42204,c250c08e61f749bc85e4f0def1f507deba7b968192eb7a5e09e4e82853622667
+imageMaskEdge6,watercolor mask,assets/masks/edge-0006.webp,homebrewery/art/masks/edge-0006.webp,44642,189f44a0ee3bfaf519cc43caf722edf60779550d9f56a497f7a20086e5bbcee0
 imageMaskEdge8,watercolor mask,assets/masks/edge-0008.webp,homebrewery/art/masks/edge-0008.webp,33856,4b73687a8ec28ff5a7e6c0b8ced239aab3a8dab72efa94e2e857e410f08427d0
 Kaiburr,font,assets/fonts/kaiburr.woff2,homebrewery/art/fonts/kaiburr.woff2,26048,97ed3821052a647ceed4ba2dece14f3e63e97d97bdcfa90dd9709662ebb3175b
 Historical,font,assets/fonts/historical.woff2,homebrewery/art/fonts/historical.woff2,55700,86f8d48dccb6849f79a72022f6d2a37521e64f8f2d16548b2cef63a3e99bca76

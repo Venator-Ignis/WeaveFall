@@ -5965,6 +5965,33 @@
       "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/center/0006.webp"
     },
     {
+      "id": "imageMaskCenter7",
+      "role": "watercolor mask",
+      "path": "assets/masks/center-0007.webp",
+      "source": "homebrewery/art/masks/center-0007.webp",
+      "bytes": 79700,
+      "sha256": "3b9f8f407e4c741f3db8bbe5906af98d9bc577c47f621b5e309d8b81fd094714",
+      "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/center/0007.webp"
+    },
+    {
+      "id": "imageMaskCorner14",
+      "role": "watercolor mask",
+      "path": "assets/masks/corner-0014.webp",
+      "source": "homebrewery/art/masks/corner-0014.webp",
+      "bytes": 291540,
+      "sha256": "12198118c5cb7a45900df59ee9cd267e352782aa46be02934febcab1ced931be",
+      "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/corner/0014.webp"
+    },
+    {
+      "id": "imageMaskCorner18",
+      "role": "watercolor mask",
+      "path": "assets/masks/corner-0018.webp",
+      "source": "homebrewery/art/masks/corner-0018.webp",
+      "bytes": 333636,
+      "sha256": "aa9e30aef5f49316601e10e93fdd5f1a60c8d826ce12271374149b0c521cd92a",
+      "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/corner/0018.webp"
+    },
+    {
       "id": "imageMaskCorner19",
       "role": "watercolor mask",
       "path": "assets/masks/corner-0019.webp",
@@ -5972,6 +5999,15 @@
       "bytes": 160236,
       "sha256": "47050ea728e8f57451e4c9e05a15d051171501da73619b5fb0ae5baf3a51df5d",
       "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/corner/0019.webp"
+    },
+    {
+      "id": "imageMaskCorner21",
+      "role": "watercolor mask",
+      "path": "assets/masks/corner-0021.webp",
+      "source": "homebrewery/art/masks/corner-0021.webp",
+      "bytes": 142798,
+      "sha256": "b6391efa64e5e2ff1fd372aa265d932e177f31f28d632bb41ea389c417ae9ba4",
+      "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/corner/0021.webp"
     },
     {
       "id": "imageMaskCorner23",
@@ -5983,6 +6019,15 @@
       "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/corner/0023.webp"
     },
     {
+      "id": "imageMaskCorner26",
+      "role": "watercolor mask",
+      "path": "assets/masks/corner-0026.webp",
+      "source": "homebrewery/art/masks/corner-0026.webp",
+      "bytes": 271664,
+      "sha256": "f858c7bbfd9ea4bd7d6c1a36e5d0c684453656857db1531b2942aca3d6935d51",
+      "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/corner/0026.webp"
+    },
+    {
       "id": "imageMaskCorner32",
       "role": "watercolor mask",
       "path": "assets/masks/corner-0032.webp",
@@ -5992,6 +6037,15 @@
       "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/corner/0032.webp"
     },
     {
+      "id": "imageMaskCorner36",
+      "role": "watercolor mask",
+      "path": "assets/masks/corner-0036.webp",
+      "source": "homebrewery/art/masks/corner-0036.webp",
+      "bytes": 316814,
+      "sha256": "e26149b8808c7cae81101b9e108829bfb816e7f571868dbdeda83d9a7af30634",
+      "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/corner/0036.webp"
+    },
+    {
       "id": "imageMaskEdge1",
       "role": "watercolor mask",
       "path": "assets/masks/edge-0001.webp",
@@ -5999,6 +6053,15 @@
       "bytes": 35216,
       "sha256": "14e1c5b842ecb59256b7a9bf837ec5ac2783db51b7426d495d93cff400af8ff7",
       "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/edge/0001.webp"
+    },
+    {
+      "id": "imageMaskEdge2",
+      "role": "watercolor mask",
+      "path": "assets/masks/edge-0002.webp",
+      "source": "homebrewery/art/masks/edge-0002.webp",
+      "bytes": 57442,
+      "sha256": "bd5370407a139a6ee641922f93d1b3395a97cd26a07275f2c152d63e0516e38b",
+      "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/edge/0002.webp"
     },
     {
       "id": "imageMaskEdge4",
@@ -6017,6 +6080,15 @@
       "bytes": 42204,
       "sha256": "c250c08e61f749bc85e4f0def1f507deba7b968192eb7a5e09e4e82853622667",
       "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/edge/0005.webp"
+    },
+    {
+      "id": "imageMaskEdge6",
+      "role": "watercolor mask",
+      "path": "assets/masks/edge-0006.webp",
+      "source": "homebrewery/art/masks/edge-0006.webp",
+      "bytes": 44642,
+      "sha256": "189f44a0ee3bfaf519cc43caf722edf60779550d9f56a497f7a20086e5bbcee0",
+      "original_url": "https://homebrewery.naturalcrit.com/assets/waterColorMasks/edge/0006.webp"
     },
     {
       "id": "imageMaskEdge8",
@@ -6483,12 +6555,20 @@
   },
   "mask_paths": {
     "imageMaskCenter6": "assets/masks/center-0006.webp",
+    "imageMaskCenter7": "assets/masks/center-0007.webp",
+    "imageMaskCorner14": "assets/masks/corner-0014.webp",
+    "imageMaskCorner18": "assets/masks/corner-0018.webp",
     "imageMaskCorner19": "assets/masks/corner-0019.webp",
+    "imageMaskCorner21": "assets/masks/corner-0021.webp",
     "imageMaskCorner23": "assets/masks/corner-0023.webp",
+    "imageMaskCorner26": "assets/masks/corner-0026.webp",
     "imageMaskCorner32": "assets/masks/corner-0032.webp",
+    "imageMaskCorner36": "assets/masks/corner-0036.webp",
     "imageMaskEdge1": "assets/masks/edge-0001.webp",
+    "imageMaskEdge2": "assets/masks/edge-0002.webp",
     "imageMaskEdge4": "assets/masks/edge-0004.webp",
     "imageMaskEdge5": "assets/masks/edge-0005.webp",
+    "imageMaskEdge6": "assets/masks/edge-0006.webp",
     "imageMaskEdge8": "assets/masks/edge-0008.webp"
   },
   "target_repository_url": "https://github.com/Venator-Ignis/WeaveFall",
